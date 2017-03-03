@@ -1,0 +1,4 @@
+*.suo
+EventDataGenerator/bin/
+EventDataGenerator/obj/
+EventDataGenerator/.vs/config/applicationhost.config
