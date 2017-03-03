@@ -58,16 +58,16 @@ namespace EventDataGenerator
                     monthdata += "\"" + (i+1).ToString() + "\"" + ":" + eventdata;
                     monthdata += "}";
                 }
-
+                monthdata += "]";
                 yeardata += "{";
                 yeardata += "\"" + mo.ToString() + "\"" + ":" + monthdata;
                 yeardata += "}";
             }
-
-            string json = JsonConvert.SerializeObject(yeardata, Formatting.Indented);
+            yeardata += "]";
 
             File.WriteAllText(outputPath, yeardata);
         }
+
     }
 }
 
