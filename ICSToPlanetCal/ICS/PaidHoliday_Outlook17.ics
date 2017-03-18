@@ -1,0 +1,353 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-MS-OLK-FORCEINSPECTOROPEN:TRUE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170107
+DTSTAMP:20091013T211027Z
+DTSTART;VALUE=DATE:20170106
+LAST-MODIFIED:20170110T001920Z
+LOCATION:Microsoft Corp.
+PRIORITY:5
+RRULE:FREQ=WEEKLY;COUNT=10;INTERVAL=6;BYDAY=FR;WKST=SU
+SEQUENCE:0
+SUMMARY;LANGUAGE=en-us:Paid Holiday
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MS-OLK-ALLOWEXTERNCHECK:TRUE
+X-MS-OLK-AUTOFILLLOCATION:FALSE
+X-MS-OLK-AUTOSTARTCHECK:FALSE
+X-MS-OLK-CONFTYPE:0
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170103
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20170102
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170106
+SEQUENCE:0
+SUMMARY:Paid Holiday [New Year's Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170117
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20170116
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170217
+SEQUENCE:0
+SUMMARY:Paid Holiday [Martin Luther King Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170221
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20170220
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170331
+SEQUENCE:0
+SUMMARY:Paid Holiday [Presidents Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170530
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20170529
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170512
+SEQUENCE:0
+SUMMARY:Paid Holiday [Memorial Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170705
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20170704
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170623
+SEQUENCE:0
+SUMMARY:Paid Holiday [Independence Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20170905
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20170904
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170804
+SEQUENCE:0
+SUMMARY:Paid Holiday [Labor Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20171124
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20171123
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20170915
+SEQUENCE:0
+SUMMARY:Paid Holiday [Thanksgiving Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20171125
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20171124
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20171027
+SEQUENCE:0
+SUMMARY:Paid Holiday [Day after Thanksgiving]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20171226
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20171225
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20171208
+SEQUENCE:0
+SUMMARY:Paid Holiday [Christmas Eve]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170110T001920Z
+DESCRIPTION:Today is a Paid Holiday!\n <http://hrweb/benefits/timeaway/Page
+	s/globalholidays.aspx> Microsoft Paid Holidays \n\n
+DTEND;VALUE=DATE:20171227
+DTSTAMP:20161229T012645Z
+DTSTART;VALUE=DATE:20171226
+LAST-MODIFIED:20170110T001920Z
+PRIORITY:5
+RECURRENCE-ID;VALUE=DATE:20180119
+SEQUENCE:0
+SUMMARY:Paid Holiday [Christmas Day]
+TRANSP:OPAQUE
+UID:040000008200E00074C5B7101A82E00800000000C01DFDE9D230D101000000000000000
+	0100000005B860E7EDB5B0345B164CFB1F872415C
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//E
+	N">\n<HTML>\n<HEAD>\n<META NAME="Generator" CONTENT="MS Exchange Server ve
+	rsion rmj.rmm.rup.rpr">\n<TITLE></TITLE>\n</HEAD>\n<BODY>\n<!-- Converted 
+	from text/rtf format -->\n\n<P DIR=LTR><SPAN LANG="en-us"></SPAN><SPAN LAN
+	G="en-us"></SPAN><SPAN LANG="en-us"><FONT FACE="Calibri">Today is a Paid H
+	oliday!</FONT></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><
+	SPAN LANG="en-us"><BR>\n</SPAN><SPAN LANG="en-us"></SPAN><A HREF="http://h
+	rweb/benefits/timeaway/Pages/globalholidays.aspx"><SPAN LANG="en-us"></SPA
+	N><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"><U><FONT COLOR="#0000FF" FA
+	CE="Calibri">Microsoft Paid Holidays</FONT></U></SPAN><SPAN LANG="en-us"><
+	/SPAN></A><SPAN LANG="en-us"></SPAN><SPAN LANG="en-us"></SPAN><SPAN LANG="
+	en-us"><FONT FACE="Arial"> </FONT></SPAN></P>\n\n</BODY>\n</HTML>
+X-MICROSOFT-CDO-BUSYSTATUS:OOF
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+END:VCALENDAR
