@@ -1,5 +1,9 @@
 *.suo
 EventDataGenerator/bin/
 EventDataGenerator/obj/
-EventDataGenerator/.vs/config/applicationhost.config
-ICSToPlanetCal/bin/Debug/ICSToPlanetCal.vshost.exe
+applicationhost.config
+*.vshost.exe
+*.user
+*.TMP
+ICSToPlanetCal/bin/
+ICSToPlanetCal/obj/

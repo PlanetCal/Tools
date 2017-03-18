@@ -43,6 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Calendar.cs" />
+    <Compile Include="CalendarParameter.cs" />
+    <Compile Include="CalendarParameters.cs" />
+    <Compile Include="Event.cs" />
+    <Compile Include="ISO3166.cs" />
+    <Compile Include="ISO3166Country.cs" />
+    <Compile Include="ItemParameter.cs" />
+    <Compile Include="ItemParameters.cs" />
+    <Compile Include="LineItem.cs" />
+    <Compile Include="Mappings.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
