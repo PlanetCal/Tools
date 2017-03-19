@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
@@ -38,13 +39,27 @@ namespace ICSToPlanetCal
                 string contentLineString = match.Groups[0].ToString();
                 LineItem contentLine = new LineItem(contentLineString);
 
+                // If the date of the event is in the past year, we won't add it.
+                if (contentLine.Name == "DTSTART")
+                {
+                    DateTime dt;
+                    if (DateTime.TryParseExact(contentLine.Value, @"yyyyMMdd", CultureInfo.CurrentCulture, DateTimeStyles.None, out dt))
+                    {
+                        if (DateTime.UtcNow.Year > dt.Year)
+                        {
+                            this.ContentLines.Clear();
+                            break;
+                        }
+                    }
+                }
+
                 // If the parameter isn't a required for PlanetCal, don't add to content lines...
                 if (string.IsNullOrEmpty(Mappings.CalParam(contentLine.Name)))
                 {
                     continue;
                 }
 
-                ContentLines[contentLine.Name] = contentLine;
+                this.ContentLines[contentLine.Name] = contentLine;
             }
         }
     }

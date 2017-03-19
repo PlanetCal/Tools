@@ -52,7 +52,13 @@ namespace ICSToPlanetCal
                     continue;
                 }
 
-                Events.Add(new Event(eventString));
+                Event icsEvent = new Event(eventString);
+
+                // Add only if the event has valid content of events...
+                if (icsEvent.ContentLines.Count > 0)
+                {
+                    this.Events.Add(icsEvent);
+                }
             }
         }
 
