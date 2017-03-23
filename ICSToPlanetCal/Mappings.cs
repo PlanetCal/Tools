@@ -26,6 +26,8 @@ namespace ICSToPlanetCal
             calParams.Add("SUMMARY", "Name");
             calParams.Add("LOCATION", "Location");
             calParams.Add("DESCRIPTION", "Description");
+            calParams.Add("TYPE", "Type");
+            calParams.Add("DETAILS", "Details");
 
             return calParams;
         }
