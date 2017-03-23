@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ICSToPlanetCal.ParserModels.TabCommas;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
@@ -22,6 +23,13 @@ namespace ICSToPlanetCal
             if (Directory.Exists(args[0]))
             {
                 DirectoryInfo di = new DirectoryInfo(args[0]);
+
+                // Process Header Tab, Comma separated files
+                foreach (FileInfo fi in di.GetFiles("*.txt"))
+                {
+                }
+
+                // Process ICS Files
                 foreach (FileInfo fi in di.GetFiles("*.ics"))
                 {
                     Calendar c = new Calendar(File.ReadAllText(fi.FullName));

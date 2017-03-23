@@ -58,7 +58,7 @@
     <Compile Include="LineItem.cs" />
     <Compile Include="Mappings.cs" />
     <Compile Include="ParserModels\BaseCalendar.cs" />
-    <Compile Include="ParserModels\TabCommas\HeaderTabComma.cs" />
+    <Compile Include="ParserModels\TabCommas\HeaderTabCommaCalendar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
