@@ -27,6 +27,7 @@ namespace ICSToPlanetCal
                 // Process Header Tab, Comma separated files
                 foreach (FileInfo fi in di.GetFiles("*.txt"))
                 {
+                    HeaderTabCommaCalendar HTCC = new HeaderTabCommaCalendar(fi.FullName);
                 }
 
                 // Process ICS Files
