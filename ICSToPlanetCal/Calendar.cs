@@ -97,8 +97,8 @@ namespace ICSToPlanetCal
                     if (ISO3166.FromName(counrty) != null)
                     {
                         this.Location = ISO3166.FromName(counrty).Name;
+                        break;
                     }
-                    break;
                 }
                 catch (ArgumentException)
                 {

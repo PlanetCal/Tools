@@ -6,16 +6,16 @@ using System.Threading.Tasks;
 
 namespace ICSToPlanetCal.ParserModels
 {
-    internal class BaseCalendar
+    internal class CalendarBase
     {
         public string Source { get; set; }
         public CalendarParameters Parameters { get; set; }
 
         public string Location { get; set; }
 
-        public List<Event> Events { get; set; } = new List<Event>();
+        public List<EventBase> Events { get; set; } = new List<EventBase>();
 
-        public BaseCalendar(string source)
+        public CalendarBase(string source)
         {
             this.Source = source;
         }

@@ -1,4 +1,4 @@
-DateTime	Weekday	Name	Type	Details
+DTSTART	Weekday	SUMMARY	CLASS	Details
 Jan 1	Sunday	New Year's Day	Common Local holidays	All
 Jan 2	Monday	Berchtold Day	Common Local holidays	14 cantons
 Jan 6	Friday	Epiphany	Common Local holidays	GR*, SZ, TI, UR

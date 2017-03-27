@@ -27,7 +27,26 @@ namespace ICSToPlanetCal
                 // Process Header Tab, Comma separated files
                 foreach (FileInfo fi in di.GetFiles("*.txt"))
                 {
+                    string[] countrySplits = fi.Name.Split(new char[] { ' ', '.' });
+                    var country = string.Empty;
+                    foreach (string countrySplit in countrySplits)
+                    {
+                        try
+                        {
+                            if (ISO3166.FromName(countrySplit) != null)
+                            {
+                                country = ISO3166.FromName(countrySplit).Name;
+                                break;
+                            }
+                        }
+                        catch (ArgumentException)
+                        {
+                            country = string.Empty;
+                        }
+                    }
+
                     HeaderTabCommaCalendar HTCC = new HeaderTabCommaCalendar(fi.FullName);
+                    HTCC.Location = country;
                 }
 
                 // Process ICS Files

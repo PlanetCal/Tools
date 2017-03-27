@@ -57,7 +57,9 @@
     <Compile Include="ItemParameters.cs" />
     <Compile Include="LineItem.cs" />
     <Compile Include="Mappings.cs" />
-    <Compile Include="ParserModels\BaseCalendar.cs" />
+    <Compile Include="ParserModels\CalendarBase.cs" />
+    <Compile Include="ParserModels\EventBase.cs" />
+    <Compile Include="ParserModels\TabCommas\EventTabComma.cs" />
     <Compile Include="ParserModels\TabCommas\HeaderTabCommaCalendar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

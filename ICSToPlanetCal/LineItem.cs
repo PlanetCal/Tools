@@ -15,6 +15,10 @@ namespace ICSToPlanetCal
         public string Value { get; set; }
         public ItemParameters Parameters { get; set; }
 
+        public LineItem()
+        {
+        }
+
         public LineItem(string source)
         {
             source = UnfoldAndUnescape(source);
