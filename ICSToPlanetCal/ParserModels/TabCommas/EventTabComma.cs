@@ -31,6 +31,7 @@ namespace ICSToPlanetCal.ParserModels.TabCommas
                     DateTime parsedDate;
                     if (DateTime.TryParse(li.Value, out parsedDate))
                     {
+                        li.Value = parsedDate.ToString("yyyyMMdd");
                     }
 
                 }
