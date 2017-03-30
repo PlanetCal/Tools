@@ -28,8 +28,7 @@ namespace ICSToPlanetCal.ParserModels.TabCommas
 
                 if (li.Name == "DTSTART")
                 {
-                    DateTime parsedDate;
-                    if (DateTime.TryParse(li.Value, out parsedDate))
+                    if (DateTime.TryParse(li.Value, out DateTime parsedDate))
                     {
                         li.Value = parsedDate.ToString("yyyyMMdd");
                     }

@@ -42,8 +42,7 @@ namespace ICSToPlanetCal
                 // If the date of the event is in the past year, we won't add it.
                 if (contentLine.Name == "DTSTART")
                 {
-                    DateTime dt;
-                    if (DateTime.TryParseExact(contentLine.Value, @"yyyyMMdd", CultureInfo.CurrentCulture, DateTimeStyles.None, out dt))
+                    if (DateTime.TryParseExact(contentLine.Value, @"yyyyMMdd", CultureInfo.CurrentCulture, DateTimeStyles.None, out DateTime dt))
                     {
                         if (DateTime.UtcNow.Year > dt.Year)
                         {

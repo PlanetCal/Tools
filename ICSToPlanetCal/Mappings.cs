@@ -12,8 +12,7 @@ namespace ICSToPlanetCal
         {
             Dictionary<string, string> paramMaps = BuildParamMappings();
 
-            string planetCalParamName;
-            paramMaps.TryGetValue(icsParam, out planetCalParamName);
+            paramMaps.TryGetValue(icsParam, out string planetCalParamName);
 
             return planetCalParamName;
         }
