@@ -51,6 +51,7 @@
     <Compile Include="CalendarParameter.cs" />
     <Compile Include="CalendarParameters.cs" />
     <Compile Include="Event.cs" />
+    <Compile Include="EventJson.cs" />
     <Compile Include="ISO3166.cs" />
     <Compile Include="ISO3166Country.cs" />
     <Compile Include="ItemParameter.cs" />

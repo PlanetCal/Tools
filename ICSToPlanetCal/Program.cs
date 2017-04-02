@@ -1,4 +1,4 @@
-﻿using ICSToPlanetCal.ParserModels.TabCommas;
+﻿using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
@@ -22,6 +22,8 @@ namespace ICSToPlanetCal
 
             if (Directory.Exists(args[0]))
             {
+                List<CalendarBase> calenders = new List<CalendarBase>();
+
                 DirectoryInfo di = new DirectoryInfo(args[0]);
 
                 // Process Header Tab, Comma separated files
@@ -47,6 +49,7 @@ namespace ICSToPlanetCal
 
                     HeaderTabCommaCalendar HTCC = new HeaderTabCommaCalendar(fi.FullName);
                     HTCC.Location = country;
+                    calenders.Add(HTCC);
                 }
 
                 // Process ICS Files
@@ -54,6 +57,27 @@ namespace ICSToPlanetCal
                 {
                     Calendar c = new Calendar(File.ReadAllText(fi.FullName));
                 }
+
+                List<EventJson> eventsList = new List<EventJson>();
+                foreach(CalendarBase cb in calenders)
+                {
+                    foreach(EventBase eb in cb.Events)
+                    {
+                        EventJson ej = new EventJson();
+                        ej.Name = eb.ContentLines["SUMMARY"].Value;
+                        ej.Location = cb.Location;
+                        ej.Id = Guid.NewGuid().ToString();
+                        ej.Type = eb.ContentLines.ContainsKey("CLASS") ? eb.ContentLines["CLASS"].Value : string.Empty;
+                        ej.StartDateTime = eb.ContentLines["DTSTART"].Value;
+                        ej.EndDateTime = eb.ContentLines.ContainsKey("DTEND") ? eb.ContentLines["DTEND"].Value : eb.ContentLines["DTSTART"].Value;
+                        ej.Details = eb.ContentLines.ContainsKey("Details") ? eb.ContentLines["Details"].Value : string.Empty;
+                        ej.Description = eb.ContentLines.ContainsKey("DESCRIPTION") ? eb.ContentLines["DESCRIPTION"].Value : string.Empty;
+
+                        eventsList.Add(ej);
+                    }
+                }
+
+                string output = JsonConvert.SerializeObject(eventsList, Formatting.Indented);
             }
             else
             {

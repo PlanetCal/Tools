@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ICSToPlanetCal.ParserModels.TabCommas
+namespace ICSToPlanetCal
 {
     internal class EventTabComma : EventBase
     {

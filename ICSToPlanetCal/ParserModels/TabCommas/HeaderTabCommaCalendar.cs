@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ICSToPlanetCal.ParserModels.TabCommas
+namespace ICSToPlanetCal
 {
     /// <summary>
     /// This class will process files content that is separated by tabs or commans with the header

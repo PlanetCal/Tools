@@ -20,12 +20,11 @@ namespace ICSToPlanetCal
         private static Dictionary<string, string> BuildParamMappings()
         {
             Dictionary<string, string> calParams = new Dictionary<string, string>(StringComparer.InvariantCultureIgnoreCase);
-            calParams.Add("DTSTART", "DateTime");
-            calParams.Add("DTEND", "Duration");
+            calParams.Add("DTSTART", "StartDateTime");
+            calParams.Add("DTEND", "EndDateTime");
             calParams.Add("SUMMARY", "Name");
             calParams.Add("LOCATION", "Location");
             calParams.Add("DESCRIPTION", "Description");
-            calParams.Add("TYPE", "Type");
             calParams.Add("DETAILS", "Details");
             calParams.Add("CLASS", "Type");
             
