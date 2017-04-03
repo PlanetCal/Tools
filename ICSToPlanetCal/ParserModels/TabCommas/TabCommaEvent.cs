@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace ICSToPlanetCal
 {
-    internal class EventTabComma : EventBase
+    internal class TabCommaEvent : BaseEvent
     {
-        public EventTabComma()
+        public TabCommaEvent() : base()
         {
         }
 

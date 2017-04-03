@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace ICSToPlanetCal
 {
-    class EventBase
+    public class BaseEvent
     {
         public Dictionary<string, LineItem> ContentLines { get; set; }
 
-        public EventBase()
+        public BaseEvent()
         {
             this.ContentLines = new Dictionary<string, LineItem>();
         }

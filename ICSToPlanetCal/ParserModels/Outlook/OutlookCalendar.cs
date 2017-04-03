@@ -8,51 +8,42 @@ using System.Threading.Tasks;
 
 namespace ICSToPlanetCal
 {
-    public class Calendar
+    public class OutlookCalendar : CalendarBase
     {
         private const string Pattern = "BEGIN:VCALENDAR\\r\\n(.+?)\\r\\nBEGIN:VEVENT";
         private const string PatternNewLine = "BEGIN:VCALENDAR\\n(.+?)\\nBEGIN:VEVENT";
         private const string SummaryLanguage = "SUMMARY;LANGUAGE=";
         public const string EventPattern = "(BEGIN:VEVENT.+?END:VEVENT)";
 
-        public string Source { get; set; }
-        public CalendarParameters Parameters { get; set; }
-
-        public string Location { get; set; }
-
-        public List<Event> Events { get; set; } = new List<Event>();
-
-        public Calendar(string source)
+        public OutlookCalendar(string source) : base (source)
         {
-            this.Source = source;
-
             this.ProcessEvents();
         }
 
         private void ProcessEvents()
         {
-            Match parameterMatch = Regex.Match(this.Source, Calendar.Pattern, RegexOptions.Singleline);
+            Match parameterMatch = Regex.Match(this.Source, OutlookCalendar.Pattern, RegexOptions.Singleline);
             string parameterString = parameterMatch.Groups[1].ToString();
             if (string.IsNullOrEmpty(parameterString))
             {
-                parameterMatch = Regex.Match(this.Source, Calendar.PatternNewLine, RegexOptions.Singleline);
+                parameterMatch = Regex.Match(this.Source, OutlookCalendar.PatternNewLine, RegexOptions.Singleline);
                 parameterString = parameterMatch.Groups[1].ToString();
             }
 
-            Parameters = new CalendarParameters(parameterString);
+            this.Parameters = new CalendarParameters(parameterString);
 
             this.ExtractCountryFromParameters();
 
             foreach (Match EventMatch in Regex.Matches(this.Source, EventPattern, RegexOptions.Singleline))
             {
                 string eventString = EventMatch.Groups[1].ToString();
-                if (eventString.Contains(Calendar.SummaryLanguage))
+                if (eventString.Contains(OutlookCalendar.SummaryLanguage))
                 {
                     this.ExtractCountryFromEvent(eventString);
                     continue;
                 }
 
-                Event icsEvent = new Event(eventString);
+                OutlookEvent icsEvent = new OutlookEvent(eventString);
 
                 // Add only if the event has valid content of events...
                 if (icsEvent.ContentLines.Count > 0)
@@ -66,8 +57,8 @@ namespace ICSToPlanetCal
         {
             try
             {
-                int languageIndex = eventString.IndexOf(Calendar.SummaryLanguage);
-                string languageCode = eventString.Substring(languageIndex + Calendar.SummaryLanguage.Length, 5);
+                int languageIndex = eventString.IndexOf(OutlookCalendar.SummaryLanguage);
+                string languageCode = eventString.Substring(languageIndex + OutlookCalendar.SummaryLanguage.Length, 5);
 
                 var ci = new CultureInfo(languageCode);
                 var ri = new RegionInfo(ci.LCID);

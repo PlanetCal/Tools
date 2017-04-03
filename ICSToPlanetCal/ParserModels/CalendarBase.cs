@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace ICSToPlanetCal
 {
-    internal class CalendarBase
+    public class CalendarBase
     {
         public string Source { get; set; }
         public CalendarParameters Parameters { get; set; }
 
         public string Location { get; set; }
 
-        public List<EventBase> Events { get; set; } = new List<EventBase>();
+        public List<BaseEvent> Events { get; set; } = new List<BaseEvent>();
 
         public CalendarBase(string source)
         {

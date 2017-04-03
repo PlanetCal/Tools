@@ -11,6 +11,8 @@ namespace ICSToPlanetCal
 {
     class Program
     {
+        private const string Holiday = "Holiday";
+
         static void Main(string[] args)
         {
             if (args.Length <=0)
@@ -55,19 +57,28 @@ namespace ICSToPlanetCal
                 // Process ICS Files
                 foreach (FileInfo fi in di.GetFiles("*.ics"))
                 {
-                    Calendar c = new Calendar(File.ReadAllText(fi.FullName));
+                    OutlookCalendar oc = new OutlookCalendar(File.ReadAllText(fi.FullName));
+                    calenders.Add(oc);
                 }
 
                 List<EventJson> eventsList = new List<EventJson>();
                 foreach(CalendarBase cb in calenders)
                 {
-                    foreach(EventBase eb in cb.Events)
+                    foreach(BaseEvent eb in cb.Events)
                     {
                         EventJson ej = new EventJson();
                         ej.Name = eb.ContentLines["SUMMARY"].Value;
                         ej.Location = cb.Location;
                         ej.Id = Guid.NewGuid().ToString();
                         ej.Type = eb.ContentLines.ContainsKey("CLASS") ? eb.ContentLines["CLASS"].Value : string.Empty;
+                        if (string.IsNullOrWhiteSpace(ej.Type))
+                        {
+                            if (ej.Name.Contains(Program.Holiday) || (ej.Description.Contains(Program.Holiday)))
+                            {
+                                ej.Type = Program.Holiday;
+                            }
+                        }
+
                         ej.StartDateTime = eb.ContentLines["DTSTART"].Value;
                         ej.EndDateTime = eb.ContentLines.ContainsKey("DTEND") ? eb.ContentLines["DTEND"].Value : eb.ContentLines["DTSTART"].Value;
                         ej.Details = eb.ContentLines.ContainsKey("Details") ? eb.ContentLines["Details"].Value : string.Empty;

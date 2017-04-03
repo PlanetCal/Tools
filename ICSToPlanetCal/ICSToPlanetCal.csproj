@@ -47,10 +47,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Calendar.cs" />
+    <Compile Include="ParserModels\Outlook\OutlookCalendar.cs" />
     <Compile Include="CalendarParameter.cs" />
     <Compile Include="CalendarParameters.cs" />
-    <Compile Include="Event.cs" />
+    <Compile Include="ParserModels\Outlook\OutlookEvent.cs" />
     <Compile Include="EventJson.cs" />
     <Compile Include="ISO3166.cs" />
     <Compile Include="ISO3166Country.cs" />
@@ -59,8 +59,8 @@
     <Compile Include="LineItem.cs" />
     <Compile Include="Mappings.cs" />
     <Compile Include="ParserModels\CalendarBase.cs" />
-    <Compile Include="ParserModels\EventBase.cs" />
-    <Compile Include="ParserModels\TabCommas\EventTabComma.cs" />
+    <Compile Include="ParserModels\BaseEvent.cs" />
+    <Compile Include="ParserModels\TabCommas\TabCommaEvent.cs" />
     <Compile Include="ParserModels\TabCommas\HeaderTabCommaCalendar.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

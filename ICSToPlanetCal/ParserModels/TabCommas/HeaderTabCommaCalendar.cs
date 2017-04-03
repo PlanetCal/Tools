@@ -39,7 +39,7 @@ namespace ICSToPlanetCal
                         continue;
                     }
 
-                    EventTabComma etc = new EventTabComma();
+                    TabCommaEvent etc = new TabCommaEvent();
                     etc.PopulateEvents(headerNames, properties);
 
                     this.Events.Add(etc);
