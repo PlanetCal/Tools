@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 2	Monday	New Year's Day observed	Public Holiday
+Jan 6	Friday	Epiphany	Public Holiday
+Jan 16	Monday	Martin Luther King Jr Day	Bank/Public Sector Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 20	Monday	Presidents' Day	Bank/Public Sector Holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	Observance
+Mar 20	Monday	March equinox	Season
+Mar 22	Wednesday	Emancipation Day	Bank/Public Sector Holiday
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Sunday	Public Holiday
+May 14	Sunday	Mothers' Day	Public Holiday
+May 29	Monday	Memorial Day	Bank/Public Sector Holiday
+Jun 18	Sunday	Fathers' Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 4	Tuesday	US Independence Day	Bank/Public Sector Holiday
+Jul 25	Tuesday	Constitution Day	Bank/Public Sector Holiday
+Sep 4	Monday	Labor Day	Bank/Public Sector Holiday
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Columbus Day	Bank/Public Sector Holiday
+Nov 11	Saturday	Veterans Day	Bank/Public Sector Holiday
+Nov 19	Sunday	Discovery Day	Bank/Public Sector Holiday
+Nov 20	Monday	Discovery Day observed	Bank/Public Sector Holiday
+Nov 23	Thursday	Thanksgiving Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 31	Sunday	New Year's Eve	Observance

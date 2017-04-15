@@ -1,0 +1,23 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	The Three Wise Men Day	Bank holiday
+Feb 27	Monday	Carnival	Bank holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	Bank holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	Observance, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+Apr 17	Monday	Landing of the 33 orientals	Bank holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 22	Monday	Battle of Las Piedras	Observance
+Jun 19	Monday	José Artigas´ Birthday Memorial	Bank holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 18	Tuesday	Constitution Day	National holiday
+Aug 25	Friday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 16	Monday	Columbus Day	Observance
+Nov 2	Thursday	All Saint´s Day	Observance, Christian
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance, Christian
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

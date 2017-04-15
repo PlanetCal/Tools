@@ -1,0 +1,19 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 2	Monday	New Year's Day observed	Public Holiday
+Jan 2	Monday	Carnival Day	Public Holiday
+Jan 3	Tuesday	Last Lap	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 1	Monday	Labor Day / May Day	Public Holiday
+Jun 5	Monday	Whit Monday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 1	Tuesday	Culturama Day	Observance
+Aug 7	Monday	Emancipation Day	Public Holiday
+Sep 16	Saturday	National Heroes Day	Public Holiday
+Sep 19	Tuesday	Independence Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

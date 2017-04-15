@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National Holiday
+Feb 25	Saturday	Carnival Saturday	Observance
+Feb 26	Sunday	Carnival Sunday	Observance
+Feb 27	Monday	Carnival Monday	Optional Holiday
+Feb 28	Tuesday	Carnival Tuesday	Optional Holiday
+Mar 1	Wednesday	Carnival end (until 2pm)	Optional Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	National Holiday
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 21	Friday	Tiradentes Day	National Holiday
+May 1	Monday	Labor Day / May Day	National Holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 12	Monday	Brazilian Valentine's Day	Observance
+Jun 15	Thursday	Corpus Christi	Optional Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 13	Sunday	Father's Day	Observance
+Sep 7	Thursday	Independence Day	National Holiday
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Our Lady Aparecida/Children's Day	National Holiday
+Oct 15	Sunday	Teacher's Day	Observance
+Oct 28	Saturday	Public Service Holiday	Optional Holiday
+Nov 2	Thursday	All Souls' Day	National Holiday
+Nov 15	Wednesday	Republic Proclamation Day	National Holiday
+Nov 20	Monday	Black Consciousness Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve (from 2pm)	Optional Holiday
+Dec 25	Monday	Christmas Day	National Holiday
+Dec 31	Sunday	New Year's Eve (from 2pm)	Optional Holiday

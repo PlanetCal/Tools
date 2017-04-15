@@ -1,0 +1,23 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 15	Saturday	Holy Saturday	National holiday, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+May 21	Sunday	Navy Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Saint Peter and Saint Paul	National holiday
+Jul 16	Sunday	Our Lady of Mount Carmel	National holiday
+Aug 15	Tuesday	Assumption of Mary	National holiday
+Sep 18	Monday	National Day	National holiday
+Sep 19	Tuesday	Army Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 9	Monday	Columbus Day	National holiday
+Oct 27	Friday	Reformation Day	National holiday
+Nov 1	Wednesday	All Saints' Day	National holiday
+Dec 8	Friday	Inmaculate Conception Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Bank holiday

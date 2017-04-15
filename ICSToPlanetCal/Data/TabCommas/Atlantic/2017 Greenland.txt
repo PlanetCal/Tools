@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 6	Friday	Epiphany	Half Day
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Day	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 1	Monday	May Day	Half Day
+May 16	Tuesday	General Prayer Day	Public Holiday
+May 25	Thursday	Ascension Day	Public Holiday
+Jun 5	Monday	Whit Monday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 21	Wednesday	National Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday
+Dec 31	Sunday	New Year's Eve	Public Holiday

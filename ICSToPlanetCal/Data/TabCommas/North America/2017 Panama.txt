@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 9	Monday	Martyr´s Day	National holiday
+Feb 25	Saturday	Carnival	Observance
+Feb 26	Sunday	Carnival	Observance
+Feb 27	Monday	Carnival	Common Local holidays
+Feb 28	Tuesday	Carnival/Shrove Tuesday	National holiday
+Mar 1	Wednesday	Carnival/Ash Wednesday	Common Local holidays
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	Bank holiday
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 15	Saturday	Holy Saturday	Bank holiday
+Apr 16	Sunday	Easter Day	Observance, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Foundation of Old Panama City	Common Local holidays
+Sep 22	Friday	September equinox	Season
+Nov 3	Friday	Independence Day	National holiday
+Nov 4	Saturday	Flag Day	Common Local holidays
+Nov 5	Sunday	Colon Day	National holiday
+Nov 10	Friday	Shout in Villa de los Santos	National holiday
+Dec 8	Friday	Mother Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Bank holiday
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Bank holiday

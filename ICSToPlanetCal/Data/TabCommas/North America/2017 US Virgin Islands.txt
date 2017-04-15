@@ -1,0 +1,30 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 6	Friday	Three Kings Day	Public Holiday
+Jan 16	Monday	Martin Luther King Jr. Day	Public Holiday
+Feb 20	Monday	President's Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Mar 31	Friday	Transfer Day	Public Holiday
+Apr 1	Saturday	April Fool's Day	Observance
+Apr 13	Thursday	Maundy Thursday	Public Holiday
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Day	Observance
+Apr 17	Monday	Easter Monday	Public Holiday
+May 14	Sunday	Mother's Day	Observance
+May 29	Monday	Memorial Day	Public Holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 3	Monday	Emancipation Day	Public Holiday
+Jul 4	Tuesday	American Independence Day	Observance
+Jul 31	Monday	Hurricane Supplication Day	Observance
+Sep 4	Monday	Labor Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 9	Monday	Virgin Islands - Puerto Rico Friendship Day (Columbus Day)	Observance
+Oct 25	Wednesday	Hurricane Thanksgiving	Observance
+Nov 1	Wednesday	Liberty Day	Public Holiday
+Nov 11	Saturday	Veterans' Day	Public Holiday
+Nov 30	Thursday	Thanksgiving Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday
+Dec 31	Sunday	New Year's Eve	Observance

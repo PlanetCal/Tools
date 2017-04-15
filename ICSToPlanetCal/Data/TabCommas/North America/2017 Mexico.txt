@@ -1,0 +1,44 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Day of the Holy Kings	Observance
+Feb 5	Sunday	Constitution Day	National holiday
+Feb 6	Monday	Day off for Constitution Day	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 24	Friday	Flag Day	Observance
+Mar 1	Wednesday	Ash Wednesday	Observance, Christian
+Mar 18	Saturday	Oil Expropriation Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 20	Monday	Day off for Benito Juárez's Birthday Memorial	National holiday
+Mar 21	Tuesday	Benito Juárez's Birthday Memorial	National holiday
+Apr 9	Sunday	Palm Sunday	Observance, Christian
+Apr 13	Thursday	Maundy Thursday	Bank holiday
+Apr 14	Friday	Good Friday	Bank holiday
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Day	Observance, Christian
+Apr 30	Sunday	Children's Day	Observance
+May 1	Monday	Labor Day / May Day	National holiday
+May 5	Friday	Battle of Puebla	Observance
+May 10	Wednesday	Mother's Day	Observance
+May 15	Monday	Teacher's Day	Observance
+May 25	Thursday	Ascension Day	Observance
+Jun 4	Sunday	Whit Sunday	Observance
+Jun 15	Thursday	Corpus Christi	Observance
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Assumption of Mary	Observance
+Sep 15	Friday	Shout of Dolores	Observance
+Sep 16	Saturday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Columbus Day	Observance
+Oct 31	Tuesday	Halloween	Observance
+Nov 1	Wednesday	All Saints' Day	Observance
+Nov 2	Thursday	All Souls' Day	Observance
+Nov 20	Monday	Revolution Day Memorial	National holiday
+Nov 26	Sunday	Christ the King Day	Observance
+Dec 8	Friday	Feast of the Immaculate Conception	Observance
+Dec 12	Tuesday	Day of the Virgin of Guadalupe	Bank holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance, Christian
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 28	Thursday	Day of the Holy Innocents	Observance
+Dec 31	Sunday	New Year's Eve	Observance

@@ -1,0 +1,28 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	The Three Wise Men Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 16	Sunday	Easter Day	National holiday, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 7	Wednesday	Flag Day	Observance
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 24	Saturday	Farmer Day	Observance
+Jun 24	Saturday	Inti Raymi Day	Observance
+Jun 29	Thursday	St Peter and St Paul	National holiday
+Jul 28	Friday	Independence Day	National holiday
+Jul 29	Saturday	Independence Day (day 2)	National holiday
+Aug 30	Wednesday	Santa Rosa De Lima	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 24	Sunday	Armed Forces Day	Observance
+Oct 8	Sunday	Battle of Angamos	National holiday
+Nov 1	Wednesday	All Saints' Day	National holiday
+Nov 2	Thursday	All Souls' Day	Observance
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance, Christian
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

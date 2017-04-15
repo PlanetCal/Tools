@@ -1,0 +1,128 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 27	Friday	International Day of Commemoration in Memory of the Victims of the Holocaust
+Feb 4	Saturday	World Cancer Day
+Feb 6	Monday	International Day of Zero Tolerance for Female Genital Mutilation
+Feb 13	Monday	World Radio Day
+Feb 20	Monday	World Day of Social Justice
+Feb 21	Tuesday	International Mother Language Day
+Mar 1	Wednesday	Zero Discrimination Day
+Mar 3	Friday	World Wildlife Day
+Mar 8	Wednesday	International Women's Day
+Mar 20	Monday	International Day of Happiness
+Mar 21	Tuesday	International Day for the Elimination of Racial Discrimination
+Mar 21	Tuesday	World Poetry Day
+Mar 21	Tuesday	International Day of Nowruz
+Mar 21	Tuesday	World Down Syndrome Day
+Mar 21	Tuesday	International Day of Forests
+Mar 22	Wednesday	World Water Day
+Mar 23	Thursday	World Meteorological Day
+Mar 24	Friday	World Tuberculosis Day
+Mar 24	Friday	International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims
+Mar 25	Saturday	International Day of Remembrance of Slavery Victims and the Transatlantic Slave Trade
+Mar 25	Saturday	International Day of Solidarity with Detained and Missing Staff Members
+Apr 2	Sunday	World Autism Awareness Day
+Apr 4	Tuesday	United Nations' Mine Awareness Day
+Apr 6	Thursday	International Day of Sport for Development and Peace
+Apr 7	Friday	United Nations' World Health Day
+Apr 7	Friday	Day of Remembrance of the Victims of the Rwanda Genocide
+Apr 12	Wednesday	International Day of Human Space Flight
+Apr 20	Thursday	Chinese Language Day
+Apr 23	Sunday	World Book and Copyright Day
+Apr 23	Sunday	English Language Day
+Apr 25	Tuesday	World Malaria Day
+Apr 26	Wednesday	World Intellectual Property Day
+Apr 28	Friday	World Day for Safety and Health at Work
+Apr 29	Saturday	Day of Remembrance for all Victims of Chemical Warfare
+Apr 30	Sunday	International Jazz Day
+May 3	Wednesday	World Press Freedom Day
+May 8	Monday	Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War
+May 10	Wednesday	Day of Vesak
+May 13	Saturday	World Migratory Bird Day
+May 15	Monday	International Day of Families
+May 17	Wednesday	World Information Society Day
+May 21	Sunday	World Day for Cultural Diversity for Dialogue and Development
+May 22	Monday	International Day for Biological Diversity
+May 23	Tuesday	International Day to End Obstetric Fistula
+May 29	Monday	International Day of United Nations Peacekeepers
+May 31	Wednesday	World No Tobacco Day
+Jun 1	Thursday	Global Day of Parents
+Jun 4	Sunday	International Day of Innocent Children Victims of Aggression
+Jun 5	Monday	World Environment Day
+Jun 8	Thursday	World Oceans Day
+Jun 12	Monday	World Day Against Child Labour
+Jun 14	Wednesday	World Blood Donor Day
+Jun 15	Thursday	World Elder Abuse Awareness Day
+Jun 17	Saturday	World Day to Combat Desertification and Drought
+Jun 20	Tuesday	World Refugee Day
+Jun 21	Wednesday	International Day of Yoga
+Jun 23	Friday	Public Service Day
+Jun 23	Friday	International Widows' Day
+Jun 25	Sunday	Day of the Seafarer
+Jun 26	Monday	International Day Against Drug Abuse and Illicit Trafficking
+Jun 26	Monday	International Day in Support of Victims of Torture
+Jun 30	Friday	International Asteroid Day
+Jul 1	Saturday	International Day of Cooperatives
+Jul 11	Tuesday	World Population Day
+Jul 18	Tuesday	Nelson Mandela Day
+Jul 28	Friday	World Hepatitis Day
+Jul 30	Sunday	International Day of Friendship
+Aug 9	Wednesday	International Day of the World's Indigenous People
+Aug 12	Saturday	International Youth Day
+Aug 19	Saturday	World Humanitarian Day
+Aug 23	Wednesday	International Day for the Remembrance of the Slave Trade and its Abolition
+Aug 29	Tuesday	International Day against Nuclear Tests
+Aug 30	Wednesday	International Day of the Victims of Enforced Disappearances
+Sep 5	Tuesday	International Day of Charity
+Sep 8	Friday	International Literacy Day
+Sep 10	Sunday	World Suicide Prevention Day
+Sep 12	Tuesday	International Day for South-South Cooperation
+Sep 15	Friday	International Day of Democracy
+Sep 16	Saturday	International Day for the Preservation of the Ozone Layer
+Sep 21	Thursday	International Day of Peace
+Sep 26	Tuesday	World Day against Trafficking Persons
+Sep 26	Tuesday	International Day for the Total Elimination of Nuclear Weapons
+Sep 27	Wednesday	World Tourism Day
+Sep 28	Thursday	World Maritime Day
+Sep 28	Thursday	World Rabies Day
+Sep 29	Friday	World Heart Day
+Oct 1	Sunday	International Day of Older Persons
+Oct 2	Monday	World Habitat Day
+Oct 2	Monday	International Day of Non-Violence
+Oct 5	Thursday	World Teachers' Day
+Oct 9	Monday	World Post Day
+Oct 10	Tuesday	World Mental Health Day
+Oct 11	Wednesday	International Day for Natural Disaster Reduction
+Oct 11	Wednesday	International Day of the Girl Child
+Oct 12	Thursday	World Sight Day
+Oct 15	Sunday	International Day of Rural Women
+Oct 16	Monday	World Food Day
+Oct 17	Tuesday	International Day for the Eradication of Poverty
+Oct 24	Tuesday	United Nations Day
+Oct 24	Tuesday	World Development Information Day
+Oct 27	Friday	World Day for Audiovisual Heritage
+Nov 2	Thursday	International Day to End Impunity for Crimes against Journalists
+Nov 6	Monday	International Day for Preventing the Exploitation of the Environment in War and Armed Conflict
+Nov 10	Friday	World Science Day for Peace and Development
+Nov 12	Sunday	World Pneumonia Day
+Nov 14	Tuesday	World Diabetes Day
+Nov 16	Thursday	International Day for Tolerance
+Nov 16	Thursday	World Philosophy Day
+Nov 19	Sunday	World Day of Remembrance for Road Traffic Victims
+Nov 19	Sunday	World Toilet Day
+Nov 20	Monday	Universal Children's Day
+Nov 20	Monday	Africa Industrialization Day
+Nov 21	Tuesday	World Television Day
+Nov 25	Saturday	International Day for the Elimination of Violence against Women
+Nov 29	Wednesday	International Day of Solidarity with the Palestinian People
+Dec 1	Friday	World AIDS Day
+Dec 2	Saturday	International Day for the Abolition of Slavery
+Dec 3	Sunday	International Day of Persons with Disabilities
+Dec 5	Tuesday	International Volunteer Day for Economic and Social Development
+Dec 5	Tuesday	World Soil Day
+Dec 7	Thursday	International Civil Aviation Day
+Dec 9	Saturday	International Anti-Corruption Day
+Dec 10	Sunday	Human Rights Day
+Dec 11	Monday	International Mountain Day
+Dec 18	Monday	International Migrants Day
+Dec 18	Monday	Arabic Language Day
+Dec 20	Wednesday	International Human Solidarity Day

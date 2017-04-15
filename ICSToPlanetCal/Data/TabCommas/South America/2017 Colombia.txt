@@ -1,0 +1,39 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 9	Monday	Epiphany	National holiday
+Mar 8	Wednesday	Women´s Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 20	Monday	Saint Joseph's Day	National holiday
+Apr 9	Sunday	Palm Sunday	Observance, Christian
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+Apr 23	Sunday	Language Day	Observance
+Apr 26	Wednesday	Secretaries' Day	Observance
+Apr 29	Saturday	Day of Trees	Observance
+Apr 29	Saturday	Children´s Day	Observance
+May 1	Monday	Labor Day / May Day	National holiday
+May 14	Sunday	Mother's Day	Observance
+May 15	Monday	Teacher´s Day	Observance
+May 29	Monday	Ascension Day	National holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 19	Monday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Sacred Heart	National holiday
+Jul 3	Monday	Feast of Saint Peter and Saint Paul	National holiday
+Jul 20	Thursday	Independence Day	National holiday
+Aug 7	Monday	Battle of Boyacá Day	National holiday
+Aug 21	Monday	Assumption of Mary	National holiday
+Sep 16	Saturday	Valentine's Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 16	Monday	Columbus Day	National holiday
+Oct 31	Tuesday	Halloween	Observance
+Nov 6	Monday	All Saints' Day	National holiday
+Nov 13	Monday	Independence of Cartagena	National holiday
+Nov 14	Tuesday	Colombian Women's Day	Observance
+Dec 7	Thursday	Eve of the Feast of the Immaculate Conception	Observance
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

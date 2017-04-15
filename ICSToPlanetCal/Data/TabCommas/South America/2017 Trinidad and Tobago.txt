@@ -1,0 +1,28 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public holiday
+Jan 2	Monday	New Year's Day observed	Public holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 27	Monday	Carnival	Bank holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	Bank holiday
+Mar 20	Monday	March equinox	Season
+Mar 30	Thursday	Spiritual Baptist Liberation Day	Public holiday
+Apr 14	Friday	Good Friday	Public holiday
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 17	Monday	Easter Monday	Public holiday
+May 14	Sunday	Mother's Day	Observance
+May 30	Tuesday	Indian Arrival Day	Public holiday
+Jun 15	Thursday	Corpus Christi	Public holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 19	Monday	Labour Day	Public holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr	Public holiday
+Aug 1	Tuesday	Emancipation Day	Public holiday
+Aug 31	Thursday	Independence Day	Public holiday
+Sep 22	Friday	September equinox	Season
+Sep 24	Sunday	Republic Day	Public holiday
+Oct 19	Thursday	Diwali/Deepavali	Public holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Public holiday
+Dec 26	Tuesday	Boxing Day	Public holiday
+Dec 31	Sunday	New Year's Eve	Observance

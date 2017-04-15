@@ -1,0 +1,25 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	The Three Wise Men Day	Observance
+Feb 3	Friday	Our Lady of Suyapa	Observance
+Mar 19	Sunday	Father큦 Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 14	Friday	America Day	National holiday
+Apr 15	Saturday	Holy Saturday	National holiday, Christian
+Apr 16	Sunday	Easter Day	Observance
+May 1	Monday	Labor Day / May Day	National holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 15	Thursday	Corpus Christi	Observance
+Jun 21	Wednesday	June Solstice	Season
+Sep 10	Sunday	Children큦 Day	Observance
+Sep 15	Friday	Independence Day	National holiday
+Sep 17	Sunday	Teacher큦 Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 3	Tuesday	Morazan큦 Day	National holiday
+Oct 12	Thursday	Columbus Day	National holiday
+Oct 21	Saturday	Army Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

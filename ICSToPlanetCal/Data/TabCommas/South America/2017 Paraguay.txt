@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 1	Wednesday	Heroes' Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Apr 13	Thursday	Maundy Thursday	National holiday
+Apr 14	Friday	Good Friday	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 14	Sunday	National Holiday	National holiday
+May 15	Monday	Independence Day	National holiday
+Jun 12	Monday	Chaco Armistice	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Founding of Asuncion	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 29	Friday	Boqueron Battle Victory Day	National holiday
+Oct 1	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Dec 8	Friday	Virgin of Caacupé Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve (Half Day)	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	National holiday

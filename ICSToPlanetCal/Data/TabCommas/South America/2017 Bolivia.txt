@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	The Three Wise Men Day	Observance
+Jan 22	Sunday	Plurinational State Foundation Day	National holiday
+Feb 2	Thursday	Feast of Candelaria	Observance
+Feb 27	Monday	Carnival	National holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	National holiday
+Mar 19	Sunday	Father Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 23	Thursday	Day of the sea	Observance
+Apr 12	Wednesday	Children´s Day	Observance
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+May 27	Saturday	Mother Day	Observance
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 21	Wednesday	Aymara New Year Day	National holiday
+Jun 22	Thursday	Aymara New Year Day holiday	National holiday
+Aug 6	Sunday	Independence Day	National holiday
+Aug 17	Thursday	Flag Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Indigenous Resistance´s Day	Observance
+Nov 2	Thursday	All Saints Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian

@@ -1,0 +1,20 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Feb 25	Saturday	Revolution Day	Public Holiday
+Mar 12	Sunday	Holi Phagwa	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 1	Monday	Labor Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al-Fitr	Public Holiday
+Jul 1	Saturday	Freedom Day	Public Holiday
+Aug 10	Thursday	Indigenous Peoples Day	Public Holiday
+Sep 2	Saturday	Eid al-Adha	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 10	Tuesday	Day of the Maroons	Public Holiday
+Oct 19	Thursday	Diwali	Public Holiday
+Nov 25	Saturday	Independence Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

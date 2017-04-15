@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Feb 27	Monday	Carnival Monday	Observance
+Mar 1	Wednesday	Carnival/Ash Wednesday	Observance
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 1	Monday	Labor Day / May Day	Public Holiday
+May 8	Monday	Victory Day	Public Holiday
+May 25	Thursday	Ascension Day	Public Holiday
+Jun 5	Monday	Whit Monday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 14	Friday	National Day	Public Holiday
+Aug 15	Tuesday	Assumption of Mary	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 9	Monday	Abolition Day	Public Holiday
+Nov 1	Wednesday	All Saints' Day	Public Holiday
+Nov 11	Saturday	Armistice Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 27	Monday	Carnival	National holiday
+Feb 28	Tuesday	Carnival	National holiday
+Mar 4	Saturday	Special working day (compensation for Carnival Monday)	Observance
+Mar 11	Saturday	Special working day (compensation for Carnival Tuesday)	Observance
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 15	Saturday	Holy Saturday	Observance, Christian
+Apr 16	Sunday	Easter Sunday	Observance, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+May 24	Wednesday	The Battle of Pichincha	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 24	Monday	Simón Bolívar´s Birthday Memorial	Observance
+Aug 10	Thursday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 9	Monday	Independence of Guayaquil	National holiday
+Nov 2	Thursday	All Soul´s Day	National holiday
+Nov 3	Friday	Independence of Cuenca	National holiday
+Dec 6	Wednesday	Foundation of Quito	Local holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

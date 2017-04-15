@@ -1,0 +1,33 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 27	Monday	Carnival	National holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 24	Friday	Memorial Day	National holiday
+Apr 2	Sunday	Day of the Veterans	National holiday
+Apr 11	Tuesday	First day of Passover	Observance
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+Apr 18	Tuesday	Last day of Passover	Observance
+Apr 24	Monday	Action Day for Tolerance and Respect between People	Observance
+May 1	Monday	Labor Day / May Day	National holiday
+May 25	Thursday	National Day/May 1810 Revolution	National holiday
+Jun 17	Saturday	Commemoration of General Don Martín Miguel de Güemes	National holiday
+Jun 20	Tuesday	Flag Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	End of Ramadan	Muslim
+Jul 9	Sunday	Independence day	National holiday
+Aug 21	Monday	San Martín Day	National holiday
+Sep 2	Saturday	Eid-al-Adha	Muslim
+Sep 21	Thursday	Rosh Hashana	Hebrew
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Second day of Rosh Hashana	Hebrew
+Sep 22	Friday	Muharram/New Year	Muslim
+Sep 30	Saturday	Yom Kippur	Hebrew
+Oct 16	Monday	Day of respect for cultural diversity	National holiday
+Nov 20	Monday	National Sovereignty Day	National holiday
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

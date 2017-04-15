@@ -1,0 +1,15 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 10	Tuesday	Margaret Thatcher Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 21	Friday	Queen's Birthday	Public Holiday
+Jun 14	Wednesday	Liberation Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 14	Monday	Falkland Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 2	Monday	Peat Cutting Monday	Public Holiday
+Dec 8	Friday	Battle Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

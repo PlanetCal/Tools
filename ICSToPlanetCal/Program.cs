@@ -73,7 +73,7 @@ namespace ICSToPlanetCal
                         ej.Type = eb.ContentLines.ContainsKey("CLASS") ? eb.ContentLines["CLASS"].Value : string.Empty;
                         if (string.IsNullOrWhiteSpace(ej.Type))
                         {
-                            if (ej.Name.Contains(Program.Holiday) || (ej.Description.Contains(Program.Holiday)))
+                            if (ej.Name.Contains(Program.Holiday) || ((string.IsNullOrWhiteSpace(ej.Description) == false) && (ej.Description.Contains(Program.Holiday))))
                             {
                                 ej.Type = Program.Holiday;
                             }

@@ -1,0 +1,44 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Jan 21	Saturday	Our Lady of Altagracia	National holiday
+Jan 30	Monday	Duarte´s Day	National holiday
+Feb 27	Monday	Independence Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+May 1	Monday	Labor Day	National holiday
+May 28	Sunday	Mother's Day	Observance
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 30	Sunday	Father's Day	Observance
+Aug 16	Wednesday	Restoration Day	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 24	Sunday	Our Lady of Las Mercedes	National holiday
+Nov 6	Monday	Constitution Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance
+
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Jan 21	Saturday	Our Lady of Altagracia	National holiday
+Jan 30	Monday	Duarte´s Day	National holiday
+Feb 27	Monday	Independence Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+May 1	Monday	Labor Day	National holiday
+May 28	Sunday	Mother's Day	Observance
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 30	Sunday	Father's Day	Observance
+Aug 16	Wednesday	Restoration Day	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 24	Sunday	Our Lady of Las Mercedes	National holiday
+Nov 6	Monday	Constitution Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

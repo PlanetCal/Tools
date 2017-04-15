@@ -1,0 +1,15 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 25	Wednesday	Betico Croes' Birthday	Public Holiday
+Mar 18	Saturday	National Anthem and Flag Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+Apr 27	Thursday	King's Day	Public Holiday
+May 1	Monday	Labor Day	Public Holiday
+May 25	Thursday	Ascension Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Sep 22	Friday	September equinox	Season
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

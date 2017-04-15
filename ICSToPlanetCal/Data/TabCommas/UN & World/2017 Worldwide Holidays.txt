@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 4	Wednesday	World Braille Day
+Jan 7	Saturday	International Programmers' Day
+Jan 13	Friday	Friday the 13th
+Jan 15	Sunday	World Religion Day
+Jan 26	Thursday	International Customs Day
+Jan 29	Sunday	World Leprosy Day
+Feb 2	Thursday	World Wetlands Day
+Feb 11	Saturday	World Day of the Sick
+Mar 1	Wednesday	Self-Injury Awareness Day
+Mar 9	Thursday	World Kidney Day
+Mar 25	Saturday	Earth Hour
+Apr 1	Saturday	April Fool's Day
+Apr 18	Tuesday	International Day for Monuments and Sites
+Apr 22	Saturday	Earth Day
+May 8	Monday	World Ovarian Cancer Day
+May 20	Saturday	World Autoimmune Arthritis Day
+May 25	Thursday	African Liberation Day
+Aug 31	Thursday	International Overdose Awareness Day
+Sep 4	Monday	World Sexual Health Day
+Sep 13	Wednesday	International Programmers' Day
+Sep 23	Saturday	International Celebrate Bisexuality Day
+Oct 1	Sunday	World Vegetarian Day
+Oct 4	Wednesday	World Cerebral Palsy Day
+Oct 13	Friday	Friday the 13th
+Oct 29	Sunday	World Stroke Day
+Nov 1	Wednesday	World Vegan Day
+Nov 17	Friday	World Prematurity Day
+Nov 19	Sunday	International Men's Day

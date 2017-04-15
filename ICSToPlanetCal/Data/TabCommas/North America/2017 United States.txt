@@ -1,0 +1,232 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Last Day of Chanukah	Jewish holiday	 
+Jan 1	Sunday	New Year's Day	Federal Holiday	 
+Jan 2	Monday	New Year's Day observed	Federal Holiday	 
+Jan 6	Friday	Epiphany	Christian	 
+Jan 7	Saturday	Orthodox Christmas Day	Orthodox	 
+Jan 13	Friday	Lee Jackson Day	State holiday	Virginia
+Jan 13	Friday	Stephen Foster Memorial Day	Observance	 
+Jan 14	Saturday	Orthodox New Year	Orthodox	 
+Jan 16	Monday	Martin Luther King Jr. Day	Federal Holiday	 
+Jan 16	Monday	Robert E Lee's Birthday	State holiday	Alabama, Arkansas
+Jan 16	Monday	State Holiday	State holiday	Mississippi
+Jan 16	Monday	Idaho Human Rights Day	State holiday	Idaho
+Jan 16	Monday	Civil Rights Day	State holiday	Arizona, New Hampshire
+Jan 19	Thursday	Robert E Lee's Birthday	State holiday	Florida
+Jan 19	Thursday	State Holiday	State holiday	Texas
+Jan 20	Friday	Inauguration Day	State holiday	DC, LA, MD, VA
+Jan 28	Saturday	Chinese New Year	Observance	 
+Jan 29	Sunday	Kansas Day	Observance	 
+Feb 1	Wednesday	National Freedom Day	Observance	 
+Feb 2	Thursday	Groundhog Day	Observance	 
+Feb 3	Friday	National Wear Red Day	Observance	 
+Feb 4	Saturday	Rosa Parks Day	Local observance	California, Ohio
+Feb 11	Saturday	Tu Bishvat/Tu B'Shevat	Jewish holiday	 
+Feb 12	Sunday	Lincoln's Birthday	State holiday	CT, IL, MO, NY
+Feb 12	Sunday	Lincoln's Birthday	Local observance	Florida
+Feb 13	Monday	Lincoln's Birthday observed	State holiday	CT, IL, MO, NY
+Feb 14	Tuesday	Valentine's Day	Observance	 
+Feb 14	Tuesday	Statehood Day in Arizona	Local observance	Arizona
+Feb 15	Wednesday	Susan B Anthony's Birthday	Local observance	CA, FL, NY, WI
+Feb 16	Thursday	Elizabeth Peratrovich Day	Local observance	Alaska
+Feb 20	Monday	Presidents' Day	Federal Holiday	 
+Feb 20	Monday	Daisy Gatson Bates Day	State holiday	Arkansas
+Feb 24	Friday	Maha Shivaratri	Hindu Holiday	 
+Feb 28	Tuesday	Shrove Tuesday/Mardi Gras	Local observance	Florida
+Feb 28	Tuesday	Shrove Tuesday/Mardi Gras	Observance	 
+Feb 28	Tuesday	Shrove Tuesday/Mardi Gras	State holiday	Alabama, Louisiana
+Feb 28	Tuesday	Linus Pauling Day	Local observance	Oregon
+Mar 1	Wednesday	Ash Wednesday	Christian	 
+Mar 1	Wednesday	St. David's Day	Observance	 
+Mar 2	Thursday	Texas Independence Day	State holiday	Texas
+Mar 2	Thursday	Read Across America Day	Observance	 
+Mar 3	Friday	Employee Appreciation Day	Observance	 
+Mar 6	Monday	Casimir Pulaski Day	State holiday	Illinois
+Mar 7	Tuesday	Town Meeting Day Vermont	State holiday	 
+Mar 12	Sunday	Holi	Hindu Holiday	 
+Mar 12	Sunday	Purim	Jewish holiday	 
+Mar 12	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time	 
+Mar 17	Friday	St. Patrick's Day	Observance	 
+Mar 17	Friday	Evacuation Day	State holiday	Massachusetts
+Mar 20	Monday	March equinox	Season	 
+Mar 25	Saturday	Maryland Day	Local observance	Maryland
+Mar 26	Sunday	Prince Jonah Kuhio Kalanianaole Day	State holiday	Hawaii
+Mar 27	Monday	Prince Jonah Kuhio Kalanianaole Day observed	State holiday	Hawaii
+Mar 27	Monday	Seward's Day	State holiday	Alaska
+Mar 31	Friday	César Chávez Day	State holiday	CA, CO*, TX*
+Apr 2	Sunday	Pascua Florida Day	Local observance	Florida
+Apr 3	Monday	Pascua Florida Day observed	Local observance	Florida
+Apr 6	Thursday	National Tartan Day	Observance	 
+Apr 9	Sunday	Palm Sunday	Christian	 
+Apr 11	Tuesday	Passover (first day)	Jewish holiday	 
+Apr 11	Tuesday	National Library Workers' Day	Observance	 
+Apr 13	Thursday	Maundy Thursday	Christian	 
+Apr 13	Thursday	Thomas Jefferson's Birthday	Observance	 
+Apr 14	Friday	Orthodox Good Friday	Orthodox	 
+Apr 14	Friday	Good Friday	State holiday	13 states
+Apr 15	Saturday	Holy Saturday	Christian	 
+Apr 15	Saturday	Orthodox Holy Saturday	Orthodox	 
+Apr 15	Saturday	Father Damien Day	Local observance	Hawaii
+Apr 16	Sunday	Orthodox Easter	Orthodox	 
+Apr 16	Sunday	Easter Sunday	Observance, Christian	 
+Apr 16	Sunday	Emancipation Day	State holiday	District of Columbia
+Apr 17	Monday	Orthodox Easter Monday	Orthodox	 
+Apr 17	Monday	Easter Monday	Christian	 
+Apr 17	Monday	Emancipation Day observed	State holiday	District of Columbia
+Apr 17	Monday	Patriot's Day	State holiday	Maine, Massachusetts
+Apr 18	Tuesday	Last Day of Passover	Jewish holiday	 
+Apr 18	Tuesday	Tax Day	Observance	 
+Apr 21	Friday	San Jacinto Day	State holiday	Texas
+Apr 22	Saturday	Oklahoma Day	Local observance	Oklahoma
+Apr 24	Monday	Yom HaShoah	Jewish holiday	 
+Apr 24	Monday	Isra and Mi'raj	Muslim	 
+Apr 24	Monday	Confederate Memorial Day	State holiday	Alabama, Florida
+Apr 24	Monday	State Holiday	State holiday	Mississippi
+Apr 24	Monday	State Holiday	State holiday	Georgia
+Apr 26	Wednesday	State Holiday	Local observance	Florida
+Apr 26	Wednesday	Administrative Professionals Day	Observance	 
+Apr 27	Thursday	Take our Daughters and Sons to Work Day	Observance	 
+Apr 28	Friday	Arbor Day	State holiday	Nebraska
+May 1	Monday	Law Day	Observance	 
+May 1	Monday	Loyalty Day	Observance	 
+May 1	Monday	Lei Day	Local observance	Hawaii
+May 2	Tuesday	Yom Ha'atzmaut	Jewish holiday	 
+May 4	Thursday	Kent State Shootings Remembrance	Local observance	Ohio
+May 4	Thursday	National Day of Prayer	Observance	 
+May 4	Thursday	Rhode Island Independence Day	Local observance	Rhode Island
+May 5	Friday	Cinco de Mayo	Observance	 
+May 6	Saturday	National Nurses Day	Observance	 
+May 6	Saturday	National Explosive Ordnance Disposal (EOD) Day	Observance	 
+May 8	Monday	Truman Day	State holiday	Missouri
+May 10	Wednesday	Confederate Memorial Day	Local observance	North Carolina
+May 10	Wednesday	State Holiday	State holiday	South Carolina
+May 12	Friday	Military Spouse Appreciation Day	Observance	 
+May 14	Sunday	Lag BaOmer	Jewish holiday	 
+May 14	Sunday	Mother's Day	Observance	 
+May 15	Monday	Peace Officers Memorial Day	Observance	 
+May 19	Friday	National Defense Transportation Day	Observance	 
+May 20	Saturday	Armed Forces Day	Observance	 
+May 22	Monday	National Maritime Day	Observance	 
+May 22	Monday	Harvey Milk Day	Local observance	California
+May 24	Wednesday	Emergency Medical Services for Children Day	Observance	 
+May 25	Thursday	Ascension Day	Christian	 
+May 25	Thursday	National Missing Children's Day	Observance	 
+May 27	Saturday	Ramadan starts	Muslim	 
+May 29	Monday	Memorial Day	Federal Holiday	 
+May 29	Monday	Jefferson Davis Birthday	Local observance	Mississippi
+May 31	Wednesday	Shavuot	Jewish holiday	 
+Jun 1	Thursday	Statehood Day	Local observance	Kentucky, Tennessee
+Jun 3	Saturday	Jefferson Davis Birthday	Local observance	Florida
+Jun 4	Sunday	Pentecost	Christian	 
+Jun 5	Monday	Whit Monday	Christian	 
+Jun 5	Monday	Jefferson Davis Birthday	State holiday	Alabama
+Jun 6	Tuesday	D-Day	Observance	 
+Jun 11	Sunday	Trinity Sunday	Christian	 
+Jun 11	Sunday	Kamehameha Day	State holiday	Hawaii
+Jun 12	Monday	Kamehameha Day observed	State holiday	Hawaii
+Jun 14	Wednesday	Army Birthday	Observance	 
+Jun 14	Wednesday	Flag Day	Observance	 
+Jun 15	Thursday	Corpus Christi	Christian	 
+Jun 16	Friday	Bunker Hill Day observed	State holiday	Massachusetts
+Jun 17	Saturday	Bunker Hill Day	State holiday	Massachusetts
+Jun 18	Sunday	Father's Day	Observance	 
+Jun 19	Monday	Juneteenth	Local observance	All except AZ, HI, MD, MP, MT, ND, NH, SD, TX, UT
+Jun 19	Monday	Emancipation Day	State holiday	Texas
+Jun 20	Tuesday	West Virginia Day	State holiday	West Virginia
+Jun 20	Tuesday	American Eagle Day	Observance	 
+Jun 21	Wednesday	Lailat al-Qadr	Muslim	 
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 26	Monday	Eid al-Fitr	Muslim	 
+Jul 4	Tuesday	Independence Day	Federal Holiday	 
+Jul 23	Sunday	Parents' Day	Observance	 
+Jul 24	Monday	Pioneer Day	State holiday	Utah
+Jul 27	Thursday	National Korean War Veterans Armistice Day	Observance	 
+Aug 1	Tuesday	Tisha B'Av	Jewish holiday	 
+Aug 1	Tuesday	Colorado Day	Local observance	Colorado
+Aug 4	Friday	Coast Guard Birthday	Observance	 
+Aug 7	Monday	Raksha Bandhan	Hindu Holiday	 
+Aug 7	Monday	Purple Heart Day	Observance	 
+Aug 14	Monday	Janmashtami	Hindu Holiday	 
+Aug 14	Monday	Victory Day	State holiday	Rhode Island
+Aug 15	Tuesday	Assumption of Mary	Christian	 
+Aug 16	Wednesday	Bennington Battle Day	State holiday	Vermont
+Aug 18	Friday	Statehood Day in Hawaii	State holiday	Hawaii
+Aug 19	Saturday	National Aviation Day	Observance	 
+Aug 21	Monday	Senior Citizens Day	Observance	 
+Aug 24	Thursday	Ganesh Chaturthi	Hindu Holiday	 
+Aug 26	Saturday	Women's Equality Day	Observance	 
+Aug 27	Sunday	Lyndon Baines Johnson Day	State holiday	Texas
+Sep 2	Saturday	Eid al-Adha	Muslim	 
+Sep 4	Monday	Labor Day	Federal Holiday	 
+Sep 9	Saturday	Carl Garner Federal Lands Cleanup Day	Observance	 
+Sep 9	Saturday	California Admission Day	Local observance	California
+Sep 10	Sunday	National Grandparents Day	Observance	 
+Sep 11	Monday	Patriot Day	Observance	 
+Sep 15	Friday	National POW/MIA Recognition Day	Observance	 
+Sep 17	Sunday	Constitution Day and Citizenship Day	Observance	 
+Sep 18	Monday	Air Force Birthday	Observance	 
+Sep 18	Monday	Constitution Day and Citizenship Day observed	Observance	 
+Sep 20	Wednesday	Navaratri	Hindu Holiday	 
+Sep 21	Thursday	Rosh Hashana	State holiday	Texas
+Sep 21	Thursday	Rosh Hashana	Jewish holiday	 
+Sep 22	Friday	Muharram	Muslim	 
+Sep 22	Friday	September equinox	Season	 
+Sep 22	Friday	Emancipation Day	Local observance	Ohio
+Sep 22	Friday	Native Americans' Day	Local observance	California
+Sep 24	Sunday	Gold Star Mother's Day	Observance	 
+Sep 30	Saturday	Yom Kippur	State holiday	Texas
+Sep 30	Saturday	Dussehra	Hindu Holiday	 
+Sep 30	Saturday	Yom Kippur	Jewish holiday	 
+Oct 2	Monday	Child Health Day	Observance	 
+Oct 4	Wednesday	Feast of St Francis of Assisi	Christian	 
+Oct 5	Thursday	First Day of Sukkot	Jewish holiday	 
+Oct 9	Monday	Leif Erikson Day	Observance	 
+Oct 9	Monday	Columbus Day	Local observance	Florida
+Oct 9	Monday	Columbus Day	Federal Holiday	All except AK, AR, CA, DE, FL, HI, MI, MN, ND, NV, OR, SD, TX, VT, WA, WI, WY
+Oct 9	Monday	Native Americans' Day	Local observance	South Dakota
+Oct 9	Monday	Indigenous People's Day	Local observance	Alaska
+Oct 9	Monday	Indigenous People's Day	Local observance	CA*, MN*, WA*
+Oct 11	Wednesday	Last Day of Sukkot	Jewish holiday	 
+Oct 12	Thursday	Shmini Atzeret	Jewish holiday	 
+Oct 13	Friday	Simchat Torah	Jewish holiday	 
+Oct 13	Friday	Navy Birthday	Observance	 
+Oct 15	Sunday	White Cane Safety Day	Observance	 
+Oct 16	Monday	Boss's Day	Observance	 
+Oct 18	Wednesday	Alaska Day	State holiday	Alaska
+Oct 18	Wednesday	Diwali/Deepavali	Observance	 
+Oct 27	Friday	Nevada Day	State holiday	Nevada
+Oct 31	Tuesday	Halloween	Observance	 
+Nov 1	Wednesday	All Saints' Day	Christian	 
+Nov 2	Thursday	All Souls' Day	Christian	 
+Nov 5	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time	 
+Nov 7	Tuesday	Election Day	State holiday	New Jersey, Virginia
+Nov 10	Friday	Marine Corps Birthday	Observance	 
+Nov 10	Friday	Veterans Day (observed)	Federal Holiday	 
+Nov 11	Saturday	Veterans Day	Federal Holiday	 
+Nov 23	Thursday	Thanksgiving Day	Federal Holiday	 
+Nov 24	Friday	State Holiday	State holiday	Georgia
+Nov 24	Friday	Presidents' Day	State holiday	New Mexico
+Nov 24	Friday	Lincoln's Birthday/Lincoln's Day	State holiday	Indiana, West Virginia
+Nov 24	Friday	Black Friday	State holiday	24 states
+Nov 24	Friday	American Indian Heritage Day	State holiday	Maryland
+Nov 27	Monday	Cyber Monday	Observance	 
+Dec 1	Friday	The Prophet's Birthday	Muslim	 
+Dec 3	Sunday	First Sunday of Advent	Christian	 
+Dec 6	Wednesday	St Nicholas' Day	Observance	 
+Dec 7	Thursday	Pearl Harbor Remembrance Day	Observance	 
+Dec 8	Friday	Feast of the Immaculate Conception	Christian	 
+Dec 12	Tuesday	Feast of Our Lady of Guadalupe	Observance	 
+Dec 13	Wednesday	Chanukah/Hanukkah (first day)	Jewish holiday	 
+Dec 13	Wednesday	National Guard Birthday	Observance	 
+Dec 17	Sunday	Pan American Aviation Day	Observance	 
+Dec 17	Sunday	Wright Brothers Day	Observance	 
+Dec 20	Wednesday	Last Day of Chanukah	Jewish holiday	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance, Christian	 
+Dec 24	Sunday	Christmas Eve	State holiday	KS*, LA, MI, NC, ND, OK, SC, TX, VA*, WI
+Dec 25	Monday	Christmas Day	Federal Holiday	 
+Dec 25	Monday	Christmas Eve observed	State holiday	KS*, LA, MI, NC, ND, OK, SC, TX, VA*, WI
+Dec 26	Tuesday	Kwanzaa (until Jan 1)	Observance	 
+Dec 26	Tuesday	Day After Christmas Day	State holiday	KS, KY, NC, NH, SC, TX
+Dec 31	Sunday	New Year's Eve	State holiday	LA, MI, WI
+Dec 31	Sunday	New Year's Eve	Observance	 

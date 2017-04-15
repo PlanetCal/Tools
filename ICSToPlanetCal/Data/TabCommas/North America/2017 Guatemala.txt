@@ -1,0 +1,22 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 15	Saturday	Easter Saturday	National holiday, Christian
+Apr 16	Sunday	Easter Sunday	Observance, Christian
+Apr 17	Monday	Easter Monday	Observance, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 30	Friday	Army Day	National holiday
+Aug 15	Tuesday	Assumption Day	Observance
+Sep 15	Friday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Dia de la raza	National holiday
+Oct 20	Friday	Revolution of 1944	National holiday
+Nov 1	Wednesday	All Saints' Day	National holiday, Christian
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 26	Tuesday	Boxing Day	Observance, Christian
+Dec 31	Sunday	New Year's Eve	Observance

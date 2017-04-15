@@ -1,0 +1,15 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Feb 5	Sunday	Non-working Day	Observance
+Feb 14	Tuesday	Soviet Withdrawal from Afghanistan	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 28	Friday	Afghan Victory Day	Public Holiday
+May 27	Saturday	Ramadan starts	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al-Fitr	Public Holiday
+Aug 19	Saturday	Independence Day (National Day)	Public Holiday
+Sep 2	Saturday	Eid al-Qurban	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Ashura	Public Holiday
+Nov 9	Thursday	Arba'een	Observance
+Dec 1	Friday	The Prophet's Birthday	Public Holiday
+Dec 21	Thursday	December Solstice	Season

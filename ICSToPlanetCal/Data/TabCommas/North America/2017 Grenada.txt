@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 2	Monday	New Year observed	Public Holiday
+Feb 7	Tuesday	Independence Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Day	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 1	Monday	May Day	Public Holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 5	Monday	Whit Monday	Public Holiday
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 7	Monday	Emancipation Day	Public Holiday
+Aug 14	Monday	Carnival (First Day)	Public Holiday
+Aug 15	Tuesday	Carnival (Second Day)	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 25	Wednesday	Thanksgiving	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

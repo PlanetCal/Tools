@@ -1,0 +1,20 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 2	Monday	New Year's Day observed	Public Holiday
+Mar 10	Friday	Commonwealth Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 29	Monday	National Heroes Day	Public Holiday
+Jun 12	Monday	Queen's Birthday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 7	Monday	Emancipation Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	National Youth Day	Public Holiday
+Oct 9	Monday	National Heritage Day	Public Holiday
+Nov 10	Friday	Remembrance Day	Observance
+Nov 24	Friday	Thanksgiving Day	Public Holiday
+Dec 10	Sunday	International Human Rights Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

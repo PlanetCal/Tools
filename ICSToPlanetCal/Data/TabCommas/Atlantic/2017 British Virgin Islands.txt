@@ -1,0 +1,19 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Mar 5	Sunday	Lavity Stoutt's Birthday	Public Holiday
+Mar 12	Sunday	Commonwealth Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+Jun 5	Monday	Whit Monday	Public Holiday
+Jun 10	Saturday	Sovereign's Birthday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 1	Saturday	Territory Day	Public Holiday
+Aug 1	Tuesday	Festival Tuesday	Public Holiday
+Aug 2	Wednesday	Festival Wednesday	Public Holiday
+Aug 7	Monday	Festival Monday	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 21	Saturday	Saint Ursula's Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

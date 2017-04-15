@@ -1,0 +1,35 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	The Three Wise Men Day	Bank holiday
+Feb 27	Monday	Carnival	National holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	National holiday
+Mar 19	Sunday	Saint Joseph´s Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 9	Sunday	Palm Sunday	Observance, Christian
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+Apr 19	Wednesday	Declaration of Independence	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 25	Thursday	Ascension Day	Bank holiday
+Jun 15	Thursday	Corpus Christi	Bank holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 24	Saturday	Carabobo Battle	National holiday
+Jun 29	Thursday	Saint Peter and Saint Paul	National holiday
+Jul 5	Wednesday	Independence Day	National holiday
+Jul 24	Monday	Simón Bolívar´s Birthday	National holiday
+Aug 3	Thursday	Flag´s Day	Observance
+Aug 4	Friday	National Guard´s Day	Observance
+Aug 15	Tuesday	Assumption of Mary	National holiday
+Sep 11	Monday	Our Lady of Coromoto	Observance
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Indigenous Resistance´s Day	National holiday
+Nov 1	Wednesday	All Saints Day	National holiday
+Nov 2	Thursday	All Soul´s Day	Observance
+Nov 27	Monday	Aviation Day	Observance
+Dec 8	Friday	Feast of the Immaculate Conception	Bank holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	National holiday, Christian
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 25	Monday	Christmas Eve observed	National holiday, Christian
+Dec 31	Sunday	New Year´s Eve	National holiday

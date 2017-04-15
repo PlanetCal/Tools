@@ -1,0 +1,23 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Liberation Day	National holiday
+Jan 2	Monday	New Year Day	National holiday
+Jan 6	Friday	Epiphany	Observance
+Jan 28	Saturday	José Martí´s Birthday Memorial	Observance
+Mar 12	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Mar 20	Monday	March equinox	Season
+Apr 9	Sunday	Palm Sunday	Observance, Christian
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 14	Friday	Good Friday	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 14	Sunday	Mother´s Day	Observance
+May 20	Saturday	Independence Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 25	Tuesday	Revolution Anniversary	National holiday
+Jul 26	Wednesday	Day of the Rebellion	National holiday
+Jul 27	Thursday	Revolution Anniversary Celebration	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 10	Tuesday	Beginning of the War of Independence	National holiday
+Nov 5	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	National holiday

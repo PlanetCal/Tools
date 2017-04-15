@@ -1,0 +1,19 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Day	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+Apr 27	Thursday	King's Day	Public Holiday
+Apr 30	Sunday	Carnival Day	Public Holiday
+May 1	Monday	Labor Day / May Day	Public Holiday
+May 25	Thursday	Ascension Day	Public Holiday
+Jun 4	Sunday	Whit Sunday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 1	Saturday	Emancipation Day	Public Holiday
+Jul 14	Friday	Bastille Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Nov 11	Saturday	Saint Martin's Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

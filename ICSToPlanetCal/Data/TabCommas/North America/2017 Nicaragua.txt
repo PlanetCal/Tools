@@ -1,0 +1,23 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 15	Saturday	Holy Saturday	Observance, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+May 30	Tuesday	Mothers' Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 19	Wednesday	The Sandinista Revolution Day	National holiday
+Aug 1	Tuesday	Santo Domingo Celebrations Start	Observance
+Aug 10	Thursday	Last Day of Santo Domingo Celebrations	Observance
+Sep 2	Saturday	Army Day	Observance
+Sep 14	Thursday	Battle of San Jacinto	National holiday
+Sep 15	Friday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Indigenous Resistance Day	Observance
+Nov 2	Thursday	All Saints' Day	Observance
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year´s Eve	Observance

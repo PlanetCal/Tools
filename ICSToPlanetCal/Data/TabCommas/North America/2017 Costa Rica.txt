@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 19	Sunday	Saint Joseph's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 11	Tuesday	Battle of Rivas	National holiday
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+Jun 18	Sunday	Father큦 Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 25	Tuesday	Annexation of Guanacaste	National holiday
+Aug 2	Wednesday	Our Lady of Los 햚geles	Observance
+Aug 15	Tuesday	Mother Day	National holiday
+Aug 24	Thursday	National Parks� Day	Observance
+Sep 9	Saturday	Children큦 Day	Observance
+Sep 15	Friday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 12	Thursday	Day of the Cultures	Observance
+Nov 2	Thursday	All Souls' Day	Observance
+Nov 22	Wednesday	Teacher큦 Day	Observance
+Dec 8	Friday	Feast of the Immaculate Conception	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year큦 Eve	Observance

@@ -1,0 +1,30 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 16	Monday	Signing of the Peace Accords	Observance
+Mar 8	Wednesday	Women's Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	National Day of Life, Peace and Justice	National holiday
+Apr 9	Sunday	Palm Sunday	Observance, Christian
+Apr 13	Thursday	Maundy Thursday	National holiday, Christian
+Apr 14	Friday	Good Friday	National holiday, Christian
+Apr 15	Saturday	Holy Saturday	National holiday, Christian
+Apr 16	Sunday	Easter Day	Observance, Christian
+May 1	Monday	Labor Day / May Day	National holiday
+May 3	Wednesday	Cross Day	Observance
+May 7	Sunday	Soldiers' Day	Observance
+May 10	Wednesday	Mothers' Day	National holiday
+Jun 17	Saturday	Fathers' Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 22	Thursday	Teachers' Day	Observance
+Aug 4	Friday	Celebrations of San Salvador	National holiday
+Aug 5	Saturday	Celebrations of San Salvador	National holiday
+Aug 6	Sunday	Celebrations of San Salvador	National holiday
+Sep 15	Friday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Children´s Day	Observance
+Oct 12	Thursday	Columbus Day	Observance
+Nov 2	Thursday	All Saints Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance, Christian
+Dec 25	Monday	Christmas Day	National holiday, Christian
+Dec 31	Sunday	New Year's Eve	Observance

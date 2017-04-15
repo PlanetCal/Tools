@@ -1,0 +1,25 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day/Independence Day	National/legal holiday
+Jan 2	Monday	Heroes’ Day/Ancestors’ Day	National/legal holiday
+Feb 7	Tuesday	Inauguration of Jovenel Moïse	National/legal holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 28	Tuesday	Carnival/Shrove Tuesday	National/legal holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	National/legal holiday
+Apr 16	Sunday	Easter Sunday	Observance
+May 1	Monday	Agriculture and Labor Day	National/legal holiday
+May 18	Thursday	Flag Day/University Day	National/legal holiday
+May 30	Tuesday	Mother's Day	National/legal holiday
+Jun 15	Thursday	Corpus Christi	Local holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	Father's Day	Observance
+Aug 15	Tuesday	Assumption of Mary	Local holiday
+Sep 22	Friday	September equinox	Season
+Oct 17	Tuesday	Dessalines Day	National/legal holiday
+Nov 1	Wednesday	All Saints' Day	Local holiday
+Nov 2	Thursday	All Souls' Day	Local holiday
+Nov 18	Saturday	Vertières Day	National/legal holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National/legal holiday
+Dec 31	Sunday	New Year's Eve	Observance
