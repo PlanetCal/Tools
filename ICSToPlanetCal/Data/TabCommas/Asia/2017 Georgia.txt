@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public holiday
+Jan 2	Monday	New Year's (Day 2)	Public holiday
+Jan 7	Saturday	Orthodox Christmas Day	Public holiday
+Jan 19	Thursday	Orthodox Epiphany	Public holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 3	Friday	Mothers' Day	Public holiday
+Mar 8	Wednesday	International Women's Day	Public holiday
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	Nowruz	Observance
+Apr 9	Sunday	Independence Restoration Day	Public holiday
+Apr 14	Friday	Orthodox Good Friday	Public holiday
+Apr 15	Saturday	Orthodox Holy Saturday	Public holiday
+Apr 16	Sunday	Orthodox Easter Sunday	Public holiday
+Apr 17	Monday	Orthodox Easter Monday	Public holiday
+May 9	Tuesday	Victory Day	Public holiday
+May 12	Friday	St Andrew's Day	Public holiday
+May 26	Friday	Independence Day	Public holiday
+Jun 18	Sunday	Fathers' Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Aug 28	Monday	Day of the Assumption of Mary	Public holiday
+Sep 22	Friday	September equinox	Season
+Oct 14	Saturday	Svetitskhovloba	Public holiday
+Nov 23	Thursday	St George's Day	Public holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance

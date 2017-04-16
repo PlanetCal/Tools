@@ -1,0 +1,42 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Bank Holiday
+Jan 2	Monday	New Year's Day observed	Bank Holiday
+Jan 28	Saturday	Chinese Lunar New Year's Day	Federal Public Holiday
+Jan 29	Sunday	Second day of Chinese Lunar New Year	Federal Public Holiday
+Jan 30	Monday	Second day of Chinese Lunar New Year	Federal Public Holiday
+Feb 1	Wednesday	Federal Territory Day	Bank Holiday
+Feb 9	Thursday	Thaipusam	Bank Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 24	Friday	Maha Shivaratri	Hindu Holiday
+Mar 13	Monday	Holi	Hindu Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Common Local holidays
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 24	Monday	Isra and Mi'raj	Common Local holidays
+Apr 24	Monday	Official Installation Ceremony of His Majesty the 15th Yang Di Pertuan Agong	Federal Public Holiday
+May 1	Monday	Labour Day	Federal Public Holiday
+May 27	Saturday	Ramadan begins	Common Local holidays
+May 30	Tuesday	Harvest Festival	Common Local holidays
+May 31	Wednesday	Harvest Festival Day 2	Common Local holidays
+Jun 3	Saturday	The Yang di-Pertuan Agong's Birthday	Federal Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	Hari Raya Puasa Day 1	Federal Public Holiday
+Jun 26	Monday	Hari Raya Puasa Day 2	Federal Public Holiday
+Jul 7	Friday	Georgetown World Heritage City Day	Common Local holidays
+Jul 8	Saturday	Penang Governor's Birthday	Common Local holidays
+Aug 7	Monday	Raksha Bandhan	Hindu Holiday
+Aug 14	Monday	Janmashtami	Hindu Holiday
+Aug 25	Friday	Ganesh Chaturthi	Hindu Holiday
+Aug 31	Thursday	Malaysia's National Day	Federal Public Holiday
+Sep 2	Saturday	Hari Raya Haji	Federal Public Holiday
+Sep 16	Saturday	Malaysia Day	Federal Public Holiday
+Sep 21	Thursday	Navaratri	Hindu Holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram/New Year	Federal Public Holiday
+Sep 30	Saturday	Dussehra	Hindu Holiday
+Oct 18	Wednesday	Diwali/Deepavali	Federal Public Holiday
+Dec 1	Friday	The Prophet Muhammad's Birthday	Federal Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Federal Public Holiday
+Dec 31	Sunday	New Year's Eve	Observance

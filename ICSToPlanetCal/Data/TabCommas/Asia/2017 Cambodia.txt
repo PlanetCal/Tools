@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 7	Saturday	Victory over Genocide Day	Public Holiday
+Mar 8	Wednesday	International Women Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Khmer New Year Day (Day 1)	Public Holiday
+May 1	Monday	Labour Day	Public Holiday
+May 14	Sunday	Mother's Day	Observance
+May 14	Sunday	King's Birthday (Day 1)	Public Holiday
+May 15	Monday	King's Birthday (Day 2)	Public Holiday
+May 16	Tuesday	King's Birthday (Day 3)	Public Holiday
+Jun 1	Thursday	International Children Day	Public Holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 18	Sunday	King's Mother's Birthday	Observance
+Jun 21	Wednesday	June Solstice	Season
+Sep 22	Friday	September equinox	Season
+Sep 24	Sunday	Constitutional Day	Public Holiday
+Oct 15	Sunday	Commemoration Day of King's Father	Public Holiday
+Oct 23	Monday	Paris Peace Agreement's Day	Observance
+Oct 29	Sunday	King's Coronation Day	Public Holiday
+Nov 4	Saturday	Water Festival Ceremony (Day 1)	Public Holiday
+Nov 5	Sunday	Water Festival Ceremony (Day 2)	Public Holiday
+Nov 6	Monday	Water Festival Ceremony (Day 3)	Public Holiday
+Nov 9	Thursday	Independence Day	Public Holiday
+Dec 10	Sunday	International Human Rights Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season

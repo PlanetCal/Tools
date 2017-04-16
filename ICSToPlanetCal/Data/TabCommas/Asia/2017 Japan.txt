@@ -1,0 +1,30 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day observed	National holiday
+Jan 2	Monday	January 2 Bank Holiday	Bank holiday
+Jan 3	Tuesday	January 3 Bank Holiday	Bank holiday
+Jan 9	Monday	Coming of Age Day	National holiday
+Feb 11	Saturday	National Foundation Day	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 3	Friday	Dolls' Festival/Girls' Festival	Observance
+Mar 20	Monday	March equinox	Season
+Mar 20	Monday	Spring Equinox	National holiday
+Apr 29	Saturday	Showa Day	National holiday
+May 3	Wednesday	Constitution Memorial Day	National holiday
+May 4	Thursday	Greenery Day	National holiday
+May 5	Friday	Children's Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 7	Friday	Star Festival	Observance
+Jul 17	Monday	Sea Day	National holiday
+Aug 11	Friday	Mountain Day	National holiday
+Sep 18	Monday	Respect for the Aged Day	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 23	Saturday	Autumn Equinox	National holiday
+Oct 9	Monday	Sports Day	National holiday
+Nov 3	Friday	Culture Day	National holiday
+Nov 15	Wednesday	7-5-3 Day	Observance
+Nov 23	Thursday	Labor Thanksgiving Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 23	Saturday	Emperor's Birthday	National holiday
+Dec 25	Monday	Christmas	Observance
+Dec 31	Sunday	December 31 Bank Holiday	Bank holiday

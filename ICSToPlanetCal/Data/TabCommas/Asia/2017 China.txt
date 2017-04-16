@@ -1,0 +1,52 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's weekend	Common Local holidays
+Jan 22	Sunday	Special Working Day	Weekend
+Jan 27	Friday	Spring Festival Eve	National holiday
+Jan 28	Saturday	Chinese New Year	National holiday
+Jan 29	Sunday	Spring Festival Golden Week holiday	National holiday
+Jan 30	Monday	Spring Festival Golden Week holiday	Common Local holidays
+Jan 31	Tuesday	Spring Festival Golden Week holiday	Common Local holidays
+Feb 1	Wednesday	Spring Festival Golden Week holiday	Common Local holidays
+Feb 2	Thursday	Spring Festival Golden Week holiday	Common Local holidays
+Feb 4	Saturday	Special Working Day	Weekend
+Feb 11	Saturday	Lantern Festival	Observance
+Feb 27	Monday	Zhonghe Festival	Observance
+Mar 8	Wednesday	International Women's Day	Observance
+Mar 12	Sunday	Arbor Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 1	Saturday	Special Working Day	Weekend
+Apr 2	Sunday	Qing Ming Jie holiday	National holiday
+Apr 3	Monday	Qing Ming Jie holiday	National holiday
+Apr 4	Tuesday	Qing Ming Jie	National holiday
+Apr 29	Saturday	Labour Day Holiday	National holiday
+Apr 30	Sunday	Labour Day Holiday	National holiday
+May 1	Monday	Labour Day	National holiday
+May 4	Thursday	Youth Day	Observance
+May 27	Saturday	Special Working Day	Weekend
+May 28	Sunday	Dragon Boat Festival holiday	National holiday
+May 29	Monday	Dragon Boat Festival holiday	National holiday
+May 30	Tuesday	Dragon Boat Festival	National holiday
+Jun 1	Thursday	Children's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 1	Saturday	CPC Founding Day	Observance
+Jul 11	Tuesday	Maritime Day	Observance
+Aug 1	Tuesday	Army Day	Observance
+Aug 28	Monday	Chinese Valentine's Day	Observance
+Sep 5	Tuesday	Spirit Festival	Observance
+Sep 10	Sunday	Teachers' Day	Observance
+Sep 22	Friday	September equinox	Season
+Sep 30	Saturday	Special Working Day	Weekend
+Oct 1	Sunday	National Day	National holiday
+Oct 2	Monday	National Day Golden Week holiday	National holiday
+Oct 3	Tuesday	National Day Golden Week holiday	National holiday
+Oct 4	Wednesday	National Day Golden Week holiday	Common Local holidays
+Oct 4	Wednesday	Mid-Autumn Festival	National holiday
+Oct 5	Thursday	National Day Golden Week holiday	Common Local holidays
+Oct 6	Friday	National Day Golden Week holiday	Common Local holidays
+Oct 7	Saturday	National Day Golden Week holiday	Common Local holidays
+Oct 8	Sunday	National Day Golden Week holiday	Common Local holidays
+Oct 28	Saturday	Double Ninth Festival	Observance
+Nov 8	Wednesday	Journalists' Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Observance

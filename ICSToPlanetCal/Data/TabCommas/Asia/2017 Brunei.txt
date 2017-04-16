@@ -1,0 +1,17 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 28	Saturday	Chinese New Year	Public Holiday
+Feb 23	Thursday	National Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 24	Monday	Isra and Mi'raj	Public Holiday
+May 27	Saturday	Ramadan begins	Public Holiday
+May 31	Wednesday	Royal Brunei Armed Forces Day	Public Holiday
+Jun 21	Wednesday	Laylat al-Qadr (Night of Destiny)	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr	Public Holiday
+Jul 15	Saturday	Sultan's Birthday	Public Holiday
+Sep 2	Saturday	Eid-al-Adha	Public Holiday
+Sep 22	Friday	Muharram/Islamic New Year	Public Holiday
+Sep 22	Friday	September equinox	Season
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday

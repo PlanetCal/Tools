@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Observance
+Apr 16	Sunday	Easter Day	Observance
+Apr 16	Sunday	Orthodox Easter Day	Observance, Orthodox
+Apr 17	Monday	Easter Monday	Observance
+Apr 23	Sunday	Al Isra' wal Miraj	Observance
+May 1	Monday	Labour Day	National holiday
+May 25	Thursday	Independence Day	National holiday
+May 27	Saturday	Ramadan begins	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr	National holiday
+Jun 27	Tuesday	Eid-al-Fitr holiday	National holiday
+Jun 28	Wednesday	Eid-al-Fitr holiday	National holiday
+Jun 29	Thursday	Eid-al-Fitr holiday	National holiday
+Sep 2	Saturday	Eid-al-Adha	National holiday
+Sep 2	Saturday	Eid-al-Adha holiday	National holiday
+Sep 3	Sunday	Eid-al-Adha holiday	National holiday
+Sep 4	Monday	Eid-al-Adha holiday	National holiday
+Sep 5	Tuesday	Eid-al-Adha holiday	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram/New Year	National holiday
+Dec 1	Friday	Prophet's Birthday	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday

@@ -1,0 +1,19 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 2	Monday	New Year (Extra Holiday)	Public Holiday
+Jan 7	Saturday	Orthodox Christmas Day	Public Holiday
+Jan 9	Monday	Orthodox Christmas (Extra Holiday)	Public Holiday
+Feb 23	Thursday	Defender of the Fatherland Day	Public Holiday
+Mar 8	Wednesday	International Women's Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	National Holiday "Nooruz"	Public Holiday
+May 1	Monday	May Day	Public Holiday
+May 5	Friday	Constitution Day of the Kyrgyz Republic	Public Holiday
+May 9	Tuesday	Victory Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Orozo Ait	Public Holiday
+Aug 31	Thursday	Independence Day of the Kyrgyz Republic	Public Holiday
+Sep 2	Saturday	Kurman Ait	National holiday
+Sep 22	Friday	September equinox	Season
+Nov 7	Tuesday	Day of the Great October Socialist Revolution	Public Holiday
+Dec 21	Thursday	December Solstice	Season

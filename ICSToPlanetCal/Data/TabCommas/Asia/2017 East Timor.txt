@@ -1,0 +1,19 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+May 1	Monday	Labor Day / May Day	Public Holiday
+May 20	Saturday	Restoration of Independence Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr	Public Holiday
+Aug 30	Wednesday	Popular Consultation Day	Public Holiday
+Sep 2	Saturday	Eid-al-Adha	Public Holiday
+Sep 22	Friday	September equinox	Season
+Nov 1	Wednesday	All Saints' Day	Public Holiday
+Nov 2	Thursday	All Souls' Day	Public Holiday
+Nov 12	Sunday	Youth National Day	Public Holiday
+Nov 28	Tuesday	Proclamation of Independence Day	Public Holiday
+Dec 7	Thursday	National Heroes Day	Public Holiday
+Dec 8	Friday	Day of Our Lady of Immaculate Conception	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday

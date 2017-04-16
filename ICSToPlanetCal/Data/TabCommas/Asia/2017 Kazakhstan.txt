@@ -1,0 +1,27 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public holiday
+Jan 2	Monday	New Year's Day observed	Public holiday
+Jan 2	Monday	New Year's (Day 2)	Public holiday
+Jan 7	Saturday	Orthodox Christmas Day	Public holiday
+Jan 9	Monday	Orthodox Christmas Day observed	Public holiday
+Mar 8	Wednesday	International Women's Day	Public holiday
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	Nauryz	Public holiday
+Mar 22	Wednesday	Nauryz (Day 2)	Public holiday
+Mar 23	Thursday	Nauryz (Day 3)	Public holiday
+May 1	Monday	Unity Day	Public holiday
+May 7	Sunday	Defender of the Fatherland Day	Public holiday
+May 8	Monday	Defender of the Fatherland Day observed	Public holiday
+May 9	Tuesday	Victory Day	Public holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 6	Thursday	Day of the Capital	Public holiday
+Aug 30	Wednesday	Constitution Day	Public holiday
+Sep 2	Saturday	Kurban Bairam	Public holiday
+Sep 22	Friday	September equinox	Season
+Dec 1	Friday	Day of the First President of the Republic of Kazakhstan	Public holiday
+Dec 16	Saturday	Independence Day	Public holiday
+Dec 17	Sunday	Independence Day (Day 2)	Public holiday
+Dec 18	Monday	Independence Day observed	Public holiday
+Dec 18	Monday	Independence Day (Day 2) observed	Public holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance

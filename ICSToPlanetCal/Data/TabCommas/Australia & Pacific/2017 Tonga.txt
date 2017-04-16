@@ -1,0 +1,16 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+Apr 25	Tuesday	ANZAC Day	Public Holiday
+Jun 4	Sunday	Emancipation Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 4	Tuesday	Birthday of His Majesty King Tupou VI	Public Holiday
+Sep 17	Sunday	Birthday of Crown Prince Tupouto'a-'Ulukalala	Public Holiday
+Sep 22	Friday	September equinox	Season
+Nov 4	Saturday	Constitution Day	Public Holiday
+Dec 4	Monday	Anniversary of the Coronation of King Tupou I	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

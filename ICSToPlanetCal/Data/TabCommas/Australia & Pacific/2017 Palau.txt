@@ -1,0 +1,14 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Mar 15	Wednesday	Youth Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+May 5	Friday	Senior Citizens Day	Public Holiday
+Jun 1	Thursday	President's Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 9	Sunday	Constitution Day	Public Holiday
+Sep 4	Monday	Labor Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Independence Day	Public Holiday
+Nov 23	Thursday	Thanksgiving	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday

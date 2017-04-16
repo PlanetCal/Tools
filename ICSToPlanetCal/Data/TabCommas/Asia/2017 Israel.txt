@@ -1,0 +1,49 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Hanukkah VIII	Observance, Hebrew
+Jan 8	Sunday	Asarah B'Tevet	Observance, Hebrew
+Feb 11	Saturday	Tu Bishvat	Observance, Hebrew
+Mar 9	Thursday	Ta'anit Esther (Fast of Esther)	Observance, Hebrew
+Mar 12	Sunday	Purim (Tel Aviv)	National holiday, Hebrew
+Mar 13	Monday	Shushan Purim (Jerusalem)	National holiday, Hebrew
+Mar 20	Monday	March equinox	Season
+Apr 6	Thursday	Yom HaAliyah	National holiday
+Apr 11	Tuesday	Pesach I (First day of Passover)	National holiday, Hebrew
+Apr 12	Wednesday	Pesach II (Passover)	Observance, Hebrew
+Apr 13	Thursday	Pesach III (Passover)	Observance, Hebrew
+Apr 14	Friday	Pesach IV (Passover)	Observance, Hebrew
+Apr 15	Saturday	Pesach V (Passover)	Observance, Hebrew
+Apr 16	Sunday	Pesach VI (Passover)	Observance, Hebrew
+Apr 17	Monday	Pesach VII (Last day of Passover)	National holiday, Hebrew
+Apr 24	Monday	Yom HaShoah/Holocaust Memorial Day	Observance, Hebrew
+May 1	Monday	Yom HaZikaron (Memorial Day)	Observance, Hebrew
+May 2	Tuesday	Yom HaAtzmaut (Independence Day)	National holiday, Hebrew
+May 14	Sunday	Lag B'Omer	Observance, Hebrew
+May 24	Wednesday	Yom Yerushalayim (Jerusalem Day)	National holiday, Hebrew
+May 31	Wednesday	Shavuot (Pentecost)	National holiday, Hebrew
+Jun 21	Wednesday	June Solstice	Season
+Jul 11	Tuesday	Fast of Shiva Asar B'Tammuz	Observance, Hebrew
+Aug 1	Tuesday	Tisha B'Av	Observance, Hebrew
+Sep 21	Thursday	Rosh Hashana (New Year)	National holiday, Hebrew
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Rosh Hashana II (New Year day 2)	National holiday, Hebrew
+Sep 24	Sunday	Tzom Gedaliah	Observance, Hebrew
+Sep 30	Saturday	Yom Kippur	National holiday, Hebrew
+Oct 5	Thursday	Sukkot I	National holiday, Hebrew
+Oct 6	Friday	Sukkot II	Observance, Hebrew
+Oct 7	Saturday	Sukkot III	Observance, Hebrew
+Oct 8	Sunday	Sukkot IV	Observance, Hebrew
+Oct 9	Monday	Sukkot V	Observance, Hebrew
+Oct 10	Tuesday	Sukkot VI	Observance, Hebrew
+Oct 11	Wednesday	Sukkot VII/Hoshanah Rabah	Observance, Hebrew
+Oct 12	Thursday	Shmini Atzeret/Simchat Torah	National holiday, Hebrew
+Oct 27	Friday	Yom HaAliyah School Observance	Observance
+Dec 13	Wednesday	Hanukkah I (Holiday of lights)	Observance, Hebrew
+Dec 14	Thursday	Hanukkah II	Observance, Hebrew
+Dec 15	Friday	Hanukkah III	Observance, Hebrew
+Dec 16	Saturday	Hanukkah IV	Observance, Hebrew
+Dec 17	Sunday	Hanukkah V	Observance, Hebrew
+Dec 18	Monday	Hanukkah VI/Rosh Chodesh Tevet	Observance, Hebrew
+Dec 19	Tuesday	Hanukkah VII	Observance, Hebrew
+Dec 20	Wednesday	Hanukkah VIII	Observance, Hebrew
+Dec 21	Thursday	December Solstice	Season
+Dec 28	Thursday	Asarah B'Tevet	Observance, Hebrew

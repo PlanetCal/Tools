@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 13	Friday	Constitution Day	Observance
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 1	Wednesday	Patriots' Day	Observance
+Mar 8	Wednesday	International Women's Day	Public Holiday
+Mar 18	Saturday	Soldiers' Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 24	Friday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 7	Friday	Health Day	Observance
+Apr 26	Wednesday	Intellectual Property Day	Observance
+May 15	Monday	Family Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 10	Monday	Political Flag Day	Observance
+Jul 11	Tuesday	Naadam Holiday (National Day)	Public Holiday
+Jul 12	Wednesday	Naadam Holiday (National Day)	Public Holiday
+Jul 13	Thursday	Naadam Holiday (National Day)	Public Holiday
+Jul 14	Friday	Naadam Holiday (National Day)	Public Holiday
+Jul 15	Saturday	Naadam Holiday (National Day)	Public Holiday
+Aug 25	Friday	Youth's Day	Observance
+Sep 10	Sunday	Repression Victims' Day	Observance
+Sep 22	Friday	September equinox	Season
+Sep 29	Friday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Oct 1	Sunday	Elders' Day	Observance
+Oct 29	Sunday	Capital City Day	Observance
+Nov 26	Sunday	Republic's Day	Observance
+Dec 10	Sunday	Human Rights Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 29	Friday	Independence Day	Public Holiday

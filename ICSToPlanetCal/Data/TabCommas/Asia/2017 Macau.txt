@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 28	Saturday	Lunar New Year (First Day)	Public Holiday
+Jan 29	Sunday	Lunar New Year (Second Day)	Public Holiday
+Jan 30	Monday	Lunar New Year (Third Day)	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 5	Wednesday	Cheng Ming Festival	Public Holiday
+Apr 14	Friday	Good Friday	Observance
+Apr 15	Saturday	Holy Saturday	Observance
+May 1	Monday	Labor Day / May Day	Public Holiday
+May 3	Wednesday	Buddha's Birthday	Observance
+May 30	Tuesday	Dragon Boat Festival	Observance
+Jun 21	Wednesday	June Solstice	Season
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	National Day of the People's Republic of China	Public Holiday
+Oct 5	Thursday	Day after the Mid-Autumn-Festival	Public Holiday
+Oct 21	Saturday	Chong Yeung Festival (Festival of Ancestors)	Public Holiday
+Nov 2	Thursday	All Soul's Day	Observance
+Dec 8	Friday	Feast of the immaculate Conception	Observance
+Dec 20	Wednesday	Macau S.A.R. Establishment Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Observance
+Dec 31	Sunday	New Year's Eve	Observance

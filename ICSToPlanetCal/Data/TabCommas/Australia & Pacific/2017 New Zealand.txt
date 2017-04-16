@@ -1,0 +1,27 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day Observed	National holiday
+Jan 3	Tuesday	Day after New Year's Day	National holiday
+Feb 6	Monday	Waitangi Day	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 1	Saturday	April Fools	Observance
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Day	Observance
+Apr 17	Monday	Easter Monday	National holiday
+Apr 25	Tuesday	ANZAC Day	National holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 5	Monday	Queen's Birthday	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Sep 3	Sunday	Father's Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 19	Thursday	Diwali/Deepavali	Observance
+Oct 23	Monday	Labour Day	National holiday
+Oct 31	Tuesday	Halloween	Observance
+Nov 5	Sunday	Guy Fawkes Night	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Boxing Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

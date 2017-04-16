@@ -1,0 +1,30 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public holiday
+Jan 2	Monday	New Year's Day observed	Public holiday
+Jan 20	Friday	Martyrs’ Day	Public holiday
+Mar 8	Wednesday	Women's Day	Public holiday
+Mar 20	Monday	March equinox	Season
+Mar 20	Monday	Nowruz/Spring Holiday	Public holiday
+Mar 21	Tuesday	Nowruz/Spring Holiday (extra holiday)	Public holiday
+Mar 22	Wednesday	Nowruz/Spring Holiday (extra holiday)	Public holiday
+Mar 23	Thursday	Nowruz/Spring Holiday (extra holiday)	Public holiday
+Mar 24	Friday	Nowruz/Spring Holiday (extra holiday)	Public holiday
+May 9	Tuesday	Victory Day over Fascism	Public holiday
+May 28	Sunday	Republic Day	Public holiday
+May 29	Monday	Republic Day observed	Public holiday
+Jun 15	Thursday	The Day of National Salvation of the Azerbaijani People	Public holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Azerbaijan Armed Forces Day	Public holiday
+Jun 26	Monday	Ramadan holiday	Public holiday
+Sep 1	Friday	Feast of the Sacrifice	Public holiday
+Sep 2	Saturday	Feast of the Sacrifice (day 2)	Public holiday
+Sep 3	Sunday	Feast of the Sacrifice (day 3)	Public holiday
+Sep 22	Friday	September equinox	Season
+Oct 18	Wednesday	National Independence Day	Public holiday
+Nov 9	Thursday	State Flag Day of Azerbaijan	Public holiday
+Nov 12	Sunday	Constitution Day	Public holiday
+Nov 13	Monday	Constitution Day observed	Public holiday
+Nov 17	Friday	National Revival Day	Public holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance
+Dec 31	Sunday	World Azerbaijanis Solidarity Day	Public holiday

@@ -1,0 +1,23 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Army Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	Nowruz	Regional holiday
+May 1	Monday	Labor Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr (End of Ramadan)	National holiday
+Jun 27	Tuesday	Eid-al-Fitr holiday	National holiday
+Jun 28	Wednesday	Eid-al-Fitr holiday	National holiday
+Jul 14	Friday	Republic Day	National holiday
+Sep 2	Saturday	Eid-al-Adha (Feast of Sacrifice)	National holiday
+Sep 3	Sunday	Eid-al-Adha holiday	National holiday
+Sep 4	Monday	Eid-al-Adha holiday	National holiday
+Sep 5	Tuesday	Eid-al-Adha holiday	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Islamic New Year	National holiday
+Oct 1	Sunday	Ashura	National holiday
+Oct 3	Tuesday	Iraqi Independence Day	National holiday
+Dec 1	Friday	The Prophet's Birthday	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

@@ -1,0 +1,35 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day (Day 2)	National holiday
+Jan 3	Tuesday	New Year's Day (Day 3)	National holiday
+Jan 4	Wednesday	New Year's Day (Day 4)	National holiday
+Jan 5	Thursday	Armenian Christmas Eve	National holiday
+Jan 6	Friday	Armenian Christmas Day	National holiday
+Jan 28	Saturday	Army Day	National holiday
+Feb 6	Monday	Translators' Day	Observance
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 23	Thursday	Feast of Saint Vartan	Observance
+Mar 8	Wednesday	International Women's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 7	Friday	Motherhood and Beauty Day	Observance
+Apr 14	Friday	Good Friday	Observance
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Sunday	National holiday
+Apr 17	Monday	Easter Monday	Observance
+Apr 24	Monday	Genocide Remembrance Day	National holiday
+May 1	Monday	Labour Day/May Day	National holiday
+May 8	Monday	Congress	Observance
+May 9	Tuesday	Victory and Peace Day	National holiday
+May 28	Sunday	Republic Day	National holiday
+Jun 1	Thursday	Children's Day	Observance
+Jun 18	Sunday	Fathers' Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 5	Wednesday	Constitution Day	National holiday
+Jul 23	Sunday	Vardavar	National holiday
+Sep 1	Friday	Knowledge and Literature Day	Observance
+Sep 21	Thursday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 31	Tuesday	Halloween	Observance
+Dec 7	Thursday	Spitak Remembrance Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	National holiday

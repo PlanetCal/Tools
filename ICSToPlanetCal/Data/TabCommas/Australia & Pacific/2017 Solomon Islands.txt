@@ -1,0 +1,22 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Feb 25	Saturday	Choiseul Province Day	Local holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Day	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+Jun 2	Friday	Isabel Province Day	Local holiday
+Jun 5	Monday	Whit Monday	Public Holiday
+Jun 8	Thursday	Temotu Province Day	Local holiday
+Jun 12	Monday	Queen's Official Birthday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 29	Thursday	Central Province Day	Local holiday
+Jul 20	Thursday	Rennell and Bellona Province Day	Local holiday
+Aug 1	Tuesday	Gualdalcanal Province Day	Local holiday
+Aug 3	Thursday	Makira-Ulawa Province Day	Local holiday
+Aug 15	Tuesday	Malaita Province Day	Local holiday
+Sep 22	Friday	September equinox	Season
+Dec 7	Thursday	Western Province Day	Local holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	National Day of Thanksgiving	Public Holiday

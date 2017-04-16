@@ -1,0 +1,28 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 2	Monday	Winter Solstice (Nyilo)	Public Holiday
+Jan 28	Saturday	Traditional Day of Offerings	Public Holiday
+Feb 5	Sunday	Crown Prince Birthday	Public Holiday
+Feb 21	Tuesday	King's Birthday	Public Holiday
+Feb 22	Wednesday	King's Birthday	Public Holiday
+Feb 23	Thursday	King's Birthday	Public Holiday
+Feb 28	Tuesday	Losar (New Year)	Public Holiday
+Mar 1	Wednesday	Losar (New Year)	Public Holiday
+Mar 20	Monday	March equinox	Season
+May 2	Tuesday	King Jigme Dorji Wangchuck's Birthday	Public Holiday
+May 5	Friday	The Zhabdrung Mourning Day	Public Holiday
+May 9	Tuesday	Shabdrung Kuchoe	Public Holiday
+Jun 2	Friday	King Jigme Singye Wangchuck's Coronation	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 21	Wednesday	Buddha's Parinirvana	Public Holiday
+Jul 3	Monday	King Jigme Dorji Wangchuck's Birthday	Public Holiday
+Jul 27	Thursday	Buddha's First Sermon	Public Holiday
+Aug 5	Saturday	King Jigme Dorji Wangchuck's Death Anniversary	Public Holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Blessed Rainy Day	Public Holiday
+Sep 26	Tuesday	Thimphu Drubchoe (Thimphu only)	Public Holiday
+Sep 30	Saturday	Dashain	Public Holiday
+Nov 1	Wednesday	King Jigme Khesar Namgyel's Coronation	Public Holiday
+Nov 10	Friday	Descending Day of Lord Buddha	Public Holiday
+Nov 11	Saturday	King Jigme Singye Wangchuck's Birthday	Public Holiday
+Dec 17	Sunday	National Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season

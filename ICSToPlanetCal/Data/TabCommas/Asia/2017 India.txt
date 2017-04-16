@@ -1,0 +1,67 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Last day of Hanukkah	Observance
+Jan 1	Sunday	New Year's Day	Restricted Holiday
+Jan 5	Thursday	Guru Govind Singh Jayanti	Restricted Holiday
+Jan 14	Saturday	Pongal	Restricted Holiday
+Jan 14	Saturday	Makar Sankranti	Restricted Holiday
+Jan 26	Thursday	Republic Day	Gazetted Holiday
+Jan 28	Saturday	Chinese New Year	Observance
+Feb 1	Wednesday	Vasant Panchami	Restricted Holiday
+Feb 10	Friday	Guru Ravidas Jayanti	Restricted Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 19	Sunday	Shivaji Jayanti	Restricted Holiday
+Feb 21	Tuesday	Maharishi Dayanand Saraswati Jayanti	Restricted Holiday
+Feb 24	Friday	Maha Shivaratri/Shivaratri	Gazetted Holiday
+Mar 12	Sunday	Holika Dahana	Restricted Holiday
+Mar 13	Monday	Dolyatra	Restricted Holiday
+Mar 20	Monday	March equinox	Season
+Mar 28	Tuesday	Chaitra Sukhladi	Restricted Holiday
+Apr 4	Tuesday	Rama Navami	Gazetted Holiday
+Apr 9	Sunday	Mahavir Jayanti	Gazetted Holiday
+Apr 11	Tuesday	First day of Passover	Observance
+Apr 11	Tuesday	Hazarat Ali's Birthday	Restricted Holiday
+Apr 13	Thursday	Maundy Thursday	Observance, Christian
+Apr 13	Thursday	Vaisakhi	Restricted Holiday
+Apr 14	Friday	Good Friday	Gazetted Holiday
+Apr 14	Friday	Ambedkar Jayanti	Observance
+Apr 15	Saturday	Mesadi/Vaisakhadi	Restricted Holiday
+Apr 16	Sunday	Easter Day	Restricted Holiday
+May 1	Monday	May Day	Observance
+May 10	Wednesday	Buddha Purnima/Vesak	Gazetted Holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Jamat Ul-Vida	Restricted Holiday
+Jun 25	Sunday	Rath Yatra	Restricted Holiday
+Jun 26	Monday	Ramzan Id/Eid-ul-Fitar	Muslim, Common Local holidays
+Aug 6	Sunday	Friendship Day	Observance
+Aug 7	Monday	Raksha Bandhan (Rakhi)	Restricted Holiday
+Aug 15	Tuesday	Independence Day	Gazetted Holiday
+Aug 15	Tuesday	Janmashtami	Gazetted Holiday
+Aug 15	Tuesday	Thanksgiving Day	Observance
+Aug 25	Friday	Ganesh Chaturthi/Vinayaka Chaturthi	Restricted Holiday
+Sep 2	Saturday	Bakr Id/Eid ul-Adha	Gazetted Holiday
+Sep 4	Monday	Onam	Restricted Holiday
+Sep 22	Friday	September equinox	Season
+Sep 27	Wednesday	Maha Saptami	Restricted Holiday
+Sep 29	Friday	Maha Navami	Restricted Holiday
+Sep 30	Saturday	Dussehra (Maha Navami)	Gazetted Holiday
+Oct 1	Sunday	Muharram/Ashura	Gazetted Holiday
+Oct 2	Monday	Mahatma Gandhi Jayanti	Gazetted Holiday
+Oct 5	Thursday	Maharishi Valmiki Jayanti	Restricted Holiday
+Oct 8	Sunday	Karaka Chaturthi (Karva Chauth)	Restricted Holiday
+Oct 18	Wednesday	Naraka Chaturdasi	Restricted Holiday
+Oct 19	Thursday	Diwali/Deepavali	Gazetted Holiday
+Oct 20	Friday	Govardhan Puja	Restricted Holiday
+Oct 21	Saturday	Bhai Duj	Restricted Holiday
+Oct 26	Thursday	Chhat Puja (Pratihar Sashthi/Surya Sashthi)	Restricted Holiday
+Oct 31	Tuesday	Halloween	Observance
+Nov 4	Saturday	Guru Nanak Jayanti	Gazetted Holiday
+Nov 24	Friday	Guru Tegh Bahadur's Martyrdom Day	Restricted Holiday
+Dec 2	Saturday	Milad un-Nabi/Id-e-Milad	Gazetted Holiday
+Dec 13	Wednesday	First Day of Hanukkah	Observance
+Dec 20	Wednesday	Last day of Hanukkah	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Restricted Holiday
+Dec 25	Monday	Christmas	Gazetted Holiday
+Dec 31	Sunday	New Year's Eve	Observance, Christian

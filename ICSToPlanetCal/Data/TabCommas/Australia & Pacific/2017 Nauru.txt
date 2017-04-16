@@ -1,0 +1,13 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 31	Tuesday	Independence Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 17	Wednesday	Constitution Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Sep 22	Friday	September equinox	Season
+Oct 26	Thursday	Angam Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day observed	National holiday
+Jan 28	Saturday	Chinese Lunar New Year's Day	National holiday
+Jan 29	Sunday	Second day of Chinese Lunar New Year	National holiday
+Jan 30	Monday	Third day of Chinese Lunar New Year	National holiday
+Jan 31	Tuesday	Fourth day of Chinese Lunar New Year	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 4	Tuesday	Tomb Sweeping Day	National holiday
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Holy Saturday	National holiday
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labour Day	National holiday
+May 3	Wednesday	Buddha's Birthday	National holiday
+May 14	Sunday	Mother's Day	Observance
+May 30	Tuesday	Dragon Boat Festival	National holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 1	Saturday	Hong Kong Special Administrative Region Establishment Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	National Day of the People's Republic of China	National holiday
+Oct 2	Monday	National Day of the People's Republic of China observed	National holiday
+Oct 5	Thursday	Day after Mid-Autumn Festival	National holiday
+Oct 28	Saturday	Chung Yeung Festival	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Boxing Day	National holiday

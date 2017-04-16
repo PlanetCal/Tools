@@ -1,0 +1,32 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday	 
+Jan 28	Saturday	Chinese Lunar New Year's Day	Public Holiday	 
+Feb 24	Friday	Maha Shivaratri	Hindu Holiday	 
+Mar 13	Monday	Holi	Hindu Holiday	 
+Mar 20	Monday	March equinox	Season	 
+Mar 28	Tuesday	Bali's Day of Silence and Hindu New Year	Public Holiday	 
+Apr 14	Friday	Good Friday	Public Holiday	 
+Apr 16	Sunday	Easter Sunday	Observance	 
+Apr 24	Monday	Ascension of the Prophet Muhammad	Public Holiday	 
+May 1	Monday	International Labor Day	Public Holiday	 
+May 11	Thursday	Waisak Day (Buddha's Anniversary)	Public Holiday	 
+May 25	Thursday	Ascension Day of Jesus Christ	Public Holiday	 
+Jun 1	Thursday	Pancasila Day	National holiday	 
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 26	Monday	Idul Fitri Day 1	Public Holiday	 
+Jun 27	Tuesday	Idul Fitri Day 2	Public Holiday	 
+Aug 7	Monday	Raksha Bandhan	Hindu Holiday	 
+Aug 14	Monday	Janmashtami	Hindu Holiday	 
+Aug 17	Thursday	Indonesian Independence Day	Public Holiday	 
+Aug 25	Friday	Ganesh Chaturthi	Hindu Holiday	 
+Sep 1	Friday	Muslim Day of Sacrifice (Idul Adha)	Public Holiday	 
+Sep 21	Thursday	Navaratri	Hindu Holiday	 
+Sep 21	Thursday	Muharram/Islamic New Year	Public Holiday	 
+Sep 22	Friday	September equinox	Season	 
+Sep 30	Saturday	Dussehra	Hindu Holiday	 
+Oct 19	Thursday	Diwali/Deepavali	Observance	 
+Dec 1	Friday	The Prophet Muhammad's Birthday	Public Holiday	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance	 
+Dec 25	Monday	Christmas Day	Public Holiday	 
+Dec 31	Sunday	New Year's Eve	Observance	 

@@ -1,0 +1,32 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 9	Monday	Orthodox Christmas	Public Holiday
+Feb 9	Thursday	St Maron's Day	Public Holiday
+Feb 14	Tuesday	Commemoration of the Assasination of PM Rafic Hariri	Public Holiday
+Mar 9	Thursday	Teachers' Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	Mother's Day	Observance
+Mar 25	Saturday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Mar 25	Saturday	Feast of the Annunciation	Public Holiday
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 14	Friday	Orthodox Good Friday	Observance, Orthodox
+Apr 16	Sunday	Orthodox Easter Day	Observance, Orthodox
+Apr 16	Sunday	Easter Sunday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+May 1	Monday	Worker's Day	Public Holiday
+May 6	Saturday	Martyr's Day	Observance
+May 25	Thursday	Ascension Day	Observance
+May 25	Thursday	Liberation and Resistance Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Feast of the Assumption	Public Holiday
+Sep 2	Saturday	Eid al-Adha	National holiday
+Sep 8	Friday	Nativity of Mary	Observance
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram	Public Holiday
+Sep 30	Saturday	First Day of Ashura	Public Holiday
+Oct 28	Saturday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 1	Wednesday	All Saints' Day	Observance
+Nov 22	Wednesday	Independence Day	Public Holiday
+Dec 1	Friday	The Prophet's Birthday	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday

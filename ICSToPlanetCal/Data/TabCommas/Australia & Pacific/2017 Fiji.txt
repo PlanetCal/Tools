@@ -1,0 +1,17 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 14	Saturday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 15	Saturday	Holy Saturday	Public Holiday
+Apr 17	Monday	Easter Monday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	National Sports Day	Public Holiday
+Sep 7	Thursday	Constitution Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 10	Tuesday	Fiji Day	Public Holiday
+Nov 4	Saturday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Dec 1	Friday	The Prophet's Birthday	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday

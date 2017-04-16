@@ -1,0 +1,22 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	National holiday
+Mar 20	Monday	March equinox	Season
+May 1	Monday	May Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al-Fitr	National holiday
+Jun 27	Tuesday	Eid al-Fitr	National holiday
+Jun 28	Wednesday	Eid al-Fitr	National holiday
+Sep 1	Friday	Arafat Day	Observance
+Sep 2	Saturday	Eid al-Adha	National holiday
+Sep 3	Sunday	Eid al-Adha	National holiday
+Sep 4	Monday	Eid al-Adha	National holiday
+Sep 5	Tuesday	Eid al-Adha	National holiday
+Sep 6	Wednesday	Eid al-Adha	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram	National holiday
+Oct 22	Sunday	Ashoora	National holiday
+Oct 23	Monday	Ashoora (second day)	National holiday
+Dec 1	Friday	The Prophet's Birthday	National holiday
+Dec 16	Saturday	National Day	National holiday
+Dec 17	Sunday	National Day (second day)	National holiday
+Dec 21	Thursday	December Solstice	Season

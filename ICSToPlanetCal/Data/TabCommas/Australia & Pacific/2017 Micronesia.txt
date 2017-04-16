@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 11	Wednesday	Kosrae Constitution Day	Local holiday
+Mar 1	Wednesday	Yap Day	Local holiday
+Mar 20	Monday	March equinox	Season
+Mar 31	Friday	Micronesia Culture Day (Chuuk & Pohnpei)	Local holiday
+May 10	Wednesday	Constitution Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 21	Monday	Gospel Day (Kosrae)	Local holiday
+Sep 8	Friday	Kosrae Liberation Day	Local holiday
+Sep 11	Monday	Pohnpei Liberation Day	Local holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Chuuk Constitution Day	Local holiday
+Oct 24	Tuesday	United Nations Day	Public Holiday
+Nov 3	Friday	Independence Day	Public Holiday
+Nov 8	Wednesday	Pohnpei Constitution Day	Local holiday
+Nov 11	Saturday	Veterans of Foreign Wars Day	Public Holiday
+Nov 23	Thursday	Thanksgiving	Local holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Yap Constitution Day	Local holiday
+Dec 25	Monday	Christmas Day	Public Holiday

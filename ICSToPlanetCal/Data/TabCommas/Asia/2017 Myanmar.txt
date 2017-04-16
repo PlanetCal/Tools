@@ -1,0 +1,25 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 4	Wednesday	Independence Day	Public Holiday
+Feb 12	Sunday	Union Day	Public Holiday
+Feb 24	Friday	Maha Shivaratri	Hindu Holiday
+Mar 2	Thursday	Peasants' Day	Public Holiday
+Mar 12	Sunday	Full Moon Day of Tabaung	Public Holiday
+Mar 13	Monday	Holi	Hindu Holiday
+Mar 20	Monday	March equinox	Season
+Mar 27	Monday	Armed Forces' Day	Public Holiday
+Apr 13	Thursday	Maha Thingyan (Water Festival)	Public Holiday
+Apr 14	Friday	Maha Thingyan (Water Festival)	Public Holiday
+Apr 15	Saturday	Maha Thingyan (Water Festival)	Public Holiday
+Apr 16	Sunday	Maha Thingyan (Water Festival)	Public Holiday
+Apr 17	Monday	Kayin New Year Day	Public Holiday
+May 1	Monday	Labor Day / May Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 19	Wednesday	Martyrs' Day	Public Holiday
+Aug 7	Monday	Raksha Bandhan	Hindu Holiday
+Aug 14	Monday	Janmashtami	Hindu Holiday
+Aug 25	Friday	Ganesh Chaturthi	Hindu Holiday
+Sep 21	Thursday	Navaratri	Hindu Holiday
+Sep 22	Friday	September equinox	Season
+Sep 30	Saturday	Dussehra	Hindu Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday

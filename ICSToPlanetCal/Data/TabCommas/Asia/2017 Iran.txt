@@ -1,0 +1,31 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Feb 11	Saturday	Revolution Day	National holiday
+Mar 2	Thursday	Martyrdom of Fatima	National holiday
+Mar 19	Sunday	Oil Nationalization Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	Norooz (Persian New Year)	National holiday
+Mar 22	Wednesday	Norooz Holiday	National holiday
+Mar 23	Thursday	Norooz Holiday	National holiday
+Mar 24	Friday	Norooz Holiday	National holiday
+Apr 1	Saturday	Islamic Republic Day	National holiday
+Apr 2	Sunday	Nature Day	National holiday
+Apr 10	Monday	Birthday of Imam Ali	National holiday
+Apr 24	Monday	Prophet's Ascension	National holiday
+May 12	Friday	Imam Mahdi's birthday	National holiday
+Jun 4	Sunday	Anniversary of Khomeini's Death	National holiday
+Jun 5	Monday	Revolt of Khordad 15	National holiday
+Jun 16	Friday	Martyrdom of Imam Ali	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-e-Fetr (End of Ramadan)	National holiday
+Jun 27	Tuesday	Eid-e-Fetr (Additional Holiday)	National holiday
+Jul 20	Thursday	Martyrdom of Imam Sadeq	National holiday
+Sep 2	Saturday	Eid-e-Ghorban (Feast of Sacrifice)	National holiday
+Sep 10	Sunday	Eid-al-Ghadir	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 30	Saturday	Tassoua	National holiday
+Oct 1	Sunday	Ashura	National holiday
+Nov 10	Friday	Arbaeen	National holiday
+Nov 17	Friday	Demise of Prophet Muhammad and Martyrdom of Imam Hassan	National holiday
+Nov 18	Saturday	Martyrdom of Imam Reza	National holiday
+Dec 6	Wednesday	Birthday of Prophet Muhammad and Imam Sadeq	National holiday
+Dec 21	Thursday	December Solstice	Season
