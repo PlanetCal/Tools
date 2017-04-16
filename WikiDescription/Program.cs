@@ -30,10 +30,10 @@ namespace WikiDescription
 
         static string GetTopicDescription(string topicName)
         {
-            WikiCalClient wcc = new WikiCalClient();
+            WikiClient wcc = new WikiClient();
             wcc.Connect().Wait();
 
-            WikiCalPage wcp = new WikiCalPage(wcc.Site, topicName);
+            WikiPage wcp = new WikiPage(wcc.Site, topicName);
 
             Task<string> task = Task.Run(async () => await wcp.GetDescription());
             task.Wait();

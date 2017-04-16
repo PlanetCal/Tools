@@ -1,9 +1,8 @@
 *.suo
-EventDataGenerator/bin/
-EventDataGenerator/obj/
 applicationhost.config
 *.vshost.exe
 *.user
 *.TMP
-ICSToPlanetCal/bin/
-ICSToPlanetCal/obj/
+*/bin/
+*/obj/
+*/packages/

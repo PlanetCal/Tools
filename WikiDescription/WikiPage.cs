@@ -9,12 +9,12 @@ using WikiClientLibrary.Client;
 
 namespace WikiDescription
 {
-    internal class WikiCalPage
+    internal class WikiPage
     {
         private string topicName;
         private Site site;
 
-        public WikiCalPage(Site site, string topicName)
+        public WikiPage(Site site, string topicName)
         {
             this.site = site;
             this.topicName = topicName;

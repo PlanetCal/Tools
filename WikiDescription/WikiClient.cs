@@ -5,15 +5,15 @@ using WikiClientLibrary.Client;
 
 namespace WikiDescription
 {
-    internal class WikiCalClient
+    internal class WikiClient
     {
-        private WikiClient wikiClient;
+        private WikiClientLibrary.Client.WikiClient wikiClient;
         private Site site;
         private const string WikiEndpoint = @"https://en.wikipedia.org/w/api.php";
 
-        public WikiCalClient()
+        public WikiClient()
         {
-            this.wikiClient = new WikiClient();
+            this.wikiClient = new WikiClientLibrary.Client.WikiClient();
         }
 
         public Site Site
@@ -25,7 +25,7 @@ namespace WikiDescription
         }
         public async Task Connect()
         {
-            this.site = await Site.CreateAsync(wikiClient, WikiCalClient.WikiEndpoint);
+            this.site = await Site.CreateAsync(wikiClient, WikiClient.WikiEndpoint);
         }
     }
 }
