@@ -39,7 +39,14 @@ namespace WikiDescription
             var paragraphCount = 0;
             foreach (var paragraph in paragraphs)
             {
-                if (string.IsNullOrEmpty(paragraph) || paragraph.StartsWith("|") || paragraph.StartsWith("{{") || paragraph.StartsWith("[[") || paragraph.StartsWith("}}") || paragraph.StartsWith("=="))
+                if (string.IsNullOrEmpty(paragraph) || 
+                    paragraph.StartsWith("|") || 
+                    paragraph.StartsWith("{{") || 
+                    paragraph.StartsWith("[[") || 
+                    paragraph.StartsWith("}}") || 
+                    paragraph.StartsWith("==") ||
+                    paragraph.StartsWith("-->") ||
+                    paragraph.StartsWith("<!---"))
                 {
                     continue;
                 }
@@ -51,10 +58,10 @@ namespace WikiDescription
                     var refStart = paragraphClean.IndexOf("<ref");
                     var refEnd = paragraphClean.IndexOf("</ref>");
                     var refEnd2 = paragraphClean.IndexOf("/>");
-                    if (refEnd2 > 0 && refEnd2 < refEnd)
+                    if (refEnd2 > 0)
                     {
-                        refEnd = refEnd2;
                         refLength = WikiPage.literefLength;
+                        refEnd = refEnd2;
                     }
 
                     if (refEnd >= 0)
