@@ -1,0 +1,16 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Bank holiday
+Feb 14	Tuesday	National Sports Day	Public holiday
+Mar 5	Sunday	March bank holiday	Bank holiday
+Mar 20	Monday	March equinox	Season
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	Eid-al-Fitr (End of Ramadan)	Public holiday
+Jun 26	Monday	Eid-al-Fitr Holiday	Public holiday
+Jun 26	Monday	Eid-al-Fitr Holiday	Public holiday
+Aug 31	Thursday	Eid-al-Adha (Feast of Sacrifice)	Public holiday
+Sep 1	Friday	Eid-al-Adha Holiday 1	Public holiday
+Sep 2	Saturday	Eid-al-Adha Holiday	Public holiday
+Sep 22	Friday	September equinox	Season
+Dec 18	Monday	National Day	Public holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance

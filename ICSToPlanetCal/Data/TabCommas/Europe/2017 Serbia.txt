@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	Second Day of New Year's Day	National holiday
+Jan 7	Saturday	Christmas Day	National holiday, Orthodox
+Jan 14	Saturday	Orthodox New Year	Observance, Orthodox
+Jan 27	Friday	Spirituality Day/St Sava's Day	Observance
+Feb 15	Wednesday	Statehood Day of the Republic of Serbia	National holiday
+Feb 16	Thursday	Statehood Day of the Republic of Serbia (Day 2)	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Orthodox Good Friday	National holiday, Orthodox
+Apr 15	Saturday	Orthodox Holy Saturday	National holiday, Orthodox
+Apr 16	Sunday	Orthodox Easter Day	National holiday, Orthodox
+Apr 17	Monday	Orthodox Easter Monday	National holiday, Orthodox
+Apr 22	Saturday	Holocaust Remembrance Day	Observance
+May 1	Monday	Labor holiday	National holiday
+May 2	Tuesday	Labor holiday second day	National holiday
+May 9	Tuesday	Victory Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 28	Wednesday	St Vitus Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 21	Saturday	World War II Victims Remembrance Day	Observance
+Nov 11	Saturday	Armistice Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance

@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	Berchtold Day	Bank holiday
+Jan 6	Friday	Epiphany	National holiday
+Feb 2	Thursday	Candlemas	National holiday
+Feb 28	Tuesday	Carnival/Shrove Tuesday	Bank holiday
+Mar 19	Sunday	St Joseph's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Good Friday	Bank holiday
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labour Day/May Day	National holiday
+May 25	Thursday	Ascension Day	National holiday
+Jun 4	Sunday	Whit Sunday	Observance
+Jun 5	Monday	Whit Monday	National holiday
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Liechtenstein National Day	National holiday
+Sep 8	Friday	Nativity of Our Lady	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 1	Wednesday	All Saints' Day	National holiday
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Bank holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	St Stephen's Day	National holiday
+Dec 31	Sunday	New Year's Eve	Bank holiday

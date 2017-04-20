@@ -1,0 +1,20 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday	 
+Mar 20	Monday	March equinox	Season	 
+Apr 24	Monday	Leilat al-Meiraj (The Prophet's Ascension)	National holiday	 
+May 25	Thursday	Ramadan begins	National holiday	 
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 25	Sunday	Eid-al-Fitr (End of Ramadan)	National holiday	 
+Jun 27	Tuesday	Eid-al-Fitr Holiday 1	National holiday	 
+Jun 28	Wednesday	Eid-al-Fitr Holiday 2	National holiday	 
+Aug 31	Thursday	Arafat (Haj) Day	National holiday	 
+Sep 1	Friday	Eid-al-Adha (Feast of Sacrifice)	National holiday	 
+Sep 2	Saturday	Eid-al-Adha Holiday 1	National holiday	 
+Sep 3	Sunday	Eid-al-Adha Holiday 2	National holiday	 
+Sep 21	Thursday	Al-Hijra (Islamic New Year)	National holiday	 
+Sep 22	Friday	September equinox	Season	 
+Nov 30	Thursday	Mouloud (The Prophet's Birthday)	National holiday	 
+Nov 30	Thursday	Commemoration Day	National holiday	 
+Dec 2	Saturday	National Day	National holiday	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 31	Sunday	New Year's Eve	Observance	 

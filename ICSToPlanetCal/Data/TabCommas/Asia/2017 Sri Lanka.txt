@@ -1,0 +1,41 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 12	Thursday	Duruthu Full Moon Poya Day	Public Holiday
+Jan 14	Saturday	Tamil Thai Pongal Day	Public Holiday
+Feb 4	Saturday	National Day	Public Holiday
+Feb 10	Friday	Navam Full Moon Poya Day	Public Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 24	Friday	Mahasivarathri Day	Public Holiday
+Mar 12	Sunday	Madin Full Moon Poya Day	Public Holiday
+Mar 13	Monday	Holi	Hindu Holiday
+Mar 20	Monday	March equinox	Season
+Apr 10	Monday	Bak Full Moon Poya Day	Public Holiday
+Apr 12	Wednesday	Sinhala and Tamil New Year's Eve	Public Holiday
+Apr 13	Thursday	Sinhala and Tamil New Year's Day	Public Holiday
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Sunday	Observance
+May 1	Monday	Labour Day	Public Holiday
+May 10	Wednesday	Vesak Full Moon Poya Day	Public Holiday
+May 11	Thursday	Day after Vesak Full Moon Poya Day	Public Holiday
+May 14	Sunday	Mother's Day	Observance
+Jun 9	Friday	Poson Full Moon Poya Day	Public Holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr (End of Ramadan)	Public Holiday
+Jul 8	Saturday	Adhi Esala Full Moon Poya Day	Public Holiday
+Aug 7	Monday	Raksha Bandhan	Hindu Holiday
+Aug 7	Monday	Nikini Full Moon Poya Day	Public Holiday
+Aug 14	Monday	Janmashtami	Hindu Holiday
+Aug 25	Friday	Ganesh Chaturthi	Hindu Holiday
+Sep 2	Saturday	Eid-al-Adha (Feast of Sacrifice)	Public Holiday
+Sep 5	Tuesday	Binara Full Moon Poya Day	Public Holiday
+Sep 21	Thursday	Navaratri	Hindu Holiday
+Sep 22	Friday	September equinox	Season
+Sep 30	Saturday	Dussehra	Hindu Holiday
+Oct 5	Thursday	Vap Full Moon Poya Day	Public Holiday
+Oct 18	Wednesday	Deepavali	Public Holiday
+Nov 3	Friday	Il Full Moon Poya Day	Public Holiday
+Dec 1	Friday	Milad-Un-Nabi (Holy Prophet's Birthday)	Public Holiday
+Dec 3	Sunday	Unduvap Full Moon Poya Day	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Public Holiday

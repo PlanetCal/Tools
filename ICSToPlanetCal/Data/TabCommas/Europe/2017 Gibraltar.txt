@@ -1,0 +1,27 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 2	Monday	New Year's Day observed	Public Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 13	Monday	Commonwealth Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Mar 26	Sunday	Mothers' Day	Observance
+Apr 14	Friday	Good Friday	Public Holiday
+Apr 16	Sunday	Easter Sunday	Major Observance
+Apr 28	Friday	Workers' Memorial Day	Public Holiday
+May 1	Monday	May Day	Public Holiday
+May 29	Monday	Spring Bank Holiday	Public Holiday
+Jun 18	Sunday	Father's Day	Observance
+Jun 19	Monday	Queen's Birthday	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 28	Monday	Late Summer Bank Holiday	Public Holiday
+Sep 10	Sunday	Gibraltar Day	Public Holiday
+Sep 11	Monday	Gibraltar Day observed	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Oct 31	Tuesday	Halloween	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Major Observance
+Dec 25	Monday	Christmas Day	Public Holiday
+Dec 26	Tuesday	Boxing Day	Public Holiday
+Dec 31	Sunday	New Year's Eve	Major Observance

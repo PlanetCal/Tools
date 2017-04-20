@@ -1,0 +1,20 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day (day 2)	National holiday
+Jan 6	Friday	Christmas Eve (Orthodox)	National holiday, Orthodox
+Jan 7	Saturday	Christmas Day (Orthodox)	National holiday, Orthodox
+Jan 8	Sunday	Christmas Day, day 2 (Orthodox)	National holiday, Orthodox
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday (Orthodox)	National holiday, Orthodox
+Apr 16	Sunday	Easter Sunday (Orthodox)	Observance, Orthodox
+Apr 17	Monday	Easter Monday (Orthodox)	National holiday, Orthodox
+May 1	Monday	Labour Day/May Day	National holiday
+May 2	Tuesday	Labour Day/May Day (day 2)	National holiday
+May 21	Sunday	Independence Day	National holiday
+May 22	Monday	Independence Day (day 2)	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 13	Thursday	Statehood Day	National holiday
+Jul 14	Friday	Statehood Day (day 2)	National holiday
+Sep 22	Friday	September equinox	Season
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance

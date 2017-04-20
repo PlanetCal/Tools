@@ -1,0 +1,46 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday, Flag day	
+Jan 21	Saturday	Princess Ingrid Alexandra's day	Flag day	
+Feb 6	Monday	The Saami people's day	Flag day	
+Feb 12	Sunday	Mother's Day	Observance	 
+Feb 14	Tuesday	Valentine's Day	Observance	 
+Feb 21	Tuesday	King Harald V's day	Flag day	
+Feb 26	Sunday	Carnival	Observance	 
+Mar 20	Monday	March equinox	Season	 
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time	 
+Apr 9	Sunday	Palm Sunday	Observance	 
+Apr 13	Thursday	Maundy Thursday	National holiday	 
+Apr 14	Friday	Good Friday	National holiday	 
+Apr 15	Saturday	Holy Saturday	Observance	 
+Apr 16	Sunday	Easter Day	National holiday, Flag day	
+Apr 17	Monday	Easter Monday	National holiday	 
+May 1	Monday	Labor day	National holiday, Flag day	
+May 8	Monday	Day of liberation	Observance, Flag day	
+May 17	Wednesday	17 May Constitution Day (1814)	National holiday, Flag day	
+May 25	Thursday	Ascension Day	National holiday	 
+Jun 3	Saturday	Pentecost Eve	Observance	 
+Jun 4	Sunday	Whit Sunday	National holiday, Flag day	
+Jun 5	Monday	Whit Monday	National holiday	 
+Jun 7	Wednesday	Dissolution of union with Sweden (1905)	Flag day	
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 23	Friday	Midsummer Eve	Observance	 
+Jun 24	Saturday	St. John's day	Observance	 
+Jul 4	Tuesday	Queen Sonja's day	Flag day	
+Jul 20	Thursday	Crown Prince Haakon's day	Flag day	
+Jul 29	Saturday	St. Olaf's day	Flag day	
+Aug 19	Saturday	Crown Princess Mette Marit's day	Flag day	
+Sep 11	Monday	Election day	Flag day	
+Sep 22	Friday	September equinox	Season	 
+Oct 24	Tuesday	United Nations Day	Observance	 
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time	 
+Oct 31	Tuesday	Halloween	Observance	 
+Nov 12	Sunday	Father's Day	Observance	 
+Dec 3	Sunday	First Sunday Advent	Observance	 
+Dec 10	Sunday	Second Sunday Advent	Observance	 
+Dec 17	Sunday	Third Sunday Advent	Observance	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance	 
+Dec 24	Sunday	Fourth Sunday Advent	Observance	 
+Dec 25	Monday	Christmas Day	National holiday, Flag day	
+Dec 26	Tuesday	Boxing Day	National holiday	 
+Dec 31	Sunday	New Year's Eve	Observance	 

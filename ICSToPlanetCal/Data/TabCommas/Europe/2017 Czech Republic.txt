@@ -1,0 +1,27 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 1	Sunday	Restoration of the Czech Independence Day	National holiday
+Mar 1	Wednesday	Carnival/Ash Wednesday	Christian
+Mar 20	Monday	March equinox	Season
+Apr 9	Sunday	Palm Sunday	Christian
+Apr 13	Thursday	Maundy Thursday	Christian
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Holy Saturday	Christian
+Apr 16	Sunday	Easter Day	Christian
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 8	Monday	Victory in Europe Day	National holiday
+May 25	Thursday	Ascension Day	Christian
+Jun 5	Monday	Whit Monday	Christian
+Jun 11	Sunday	Trinity	Christian
+Jun 21	Wednesday	June Solstice	Season
+Jul 5	Wednesday	Saints Cyril and Methodius	National holiday
+Jul 6	Thursday	Jan Hus Day	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 28	Thursday	St. Wenceslas Day	National holiday
+Oct 28	Saturday	Independent Czechoslovak State Day	National holiday
+Nov 17	Friday	Struggle for Freedom and Democracy Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	St. Stephen's Day	National holiday

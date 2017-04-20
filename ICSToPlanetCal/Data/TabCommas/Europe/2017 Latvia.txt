@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Sunday	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labour Day/May Day	National holiday
+May 4	Thursday	Independence Restoration Day	National holiday
+May 14	Sunday	Mothers' Day	Observance
+Jun 4	Sunday	Whitsunday	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Midsummer Eve	National holiday
+Jun 24	Saturday	Midsummer Day	National holiday
+Sep 10	Sunday	Fathers' Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Oct 31	Tuesday	Halloween	Observance
+Nov 18	Saturday	Republic of Latvia Proclamation Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Second Day of Christmas	National holiday
+Dec 31	Sunday	New Year's Eve	National holiday

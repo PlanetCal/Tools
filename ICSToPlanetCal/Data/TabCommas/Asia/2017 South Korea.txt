@@ -1,0 +1,31 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 27	Friday	Seollal Holiday	National holiday
+Jan 28	Saturday	Seollal	National holiday
+Jan 30	Monday	Seollal Holiday	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 1	Wednesday	Independence Movement Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 5	Wednesday	Arbor Day	Observance
+May 1	Monday	Labor Day	Bank Holiday
+May 3	Wednesday	Buddha's Birthday	National holiday
+May 5	Friday	Children's Day	National holiday
+May 8	Monday	Parents' Day	Observance
+May 15	Monday	Teacher's Day	Observance
+Jun 6	Tuesday	Memorial Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 17	Monday	Constitution Day	Observance
+Aug 15	Tuesday	Liberation Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Armed Forces Day	Observance
+Oct 3	Tuesday	Chuseok Holiday	National holiday
+Oct 3	Tuesday	National Foundation Day	National holiday
+Oct 4	Wednesday	Chuseok	National holiday
+Oct 5	Thursday	Chuseok Holiday	National holiday
+Oct 6	Friday	Observed Chuseok	National holiday
+Oct 9	Monday	Hangeul Proclamation Day	National holiday
+Oct 31	Tuesday	Halloween	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

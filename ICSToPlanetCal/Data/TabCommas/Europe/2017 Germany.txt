@@ -1,0 +1,69 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday	 
+Jan 6	Friday	Epiphany	Christian, Common Local holidays	BW, BY, ST
+Jan 22	Sunday	Franco-German Day	Observance	 
+Jan 27	Friday	Remembrance Day for the Victims of National Socialism	Observance	 
+Jan 28	Saturday	European Privacy Day	Observance	 
+Feb 14	Tuesday	Valentine's Day	Observance	 
+Feb 27	Monday	Shrove Monday	Observance	 
+Feb 28	Tuesday	Carnival/Shrove Tuesday	Observance, Christian	 
+Mar 1	Wednesday	Carnival/Ash Wednesday	Silent Day	 
+Mar 20	Monday	March equinox	Season	 
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time	 
+Apr 9	Sunday	Palm Sunday	Observance, Christian	 
+Apr 13	Thursday	Maundy Thursday	Silent Day	 
+Apr 14	Friday	Good Friday	Silent Day, National holiday	 
+Apr 16	Sunday	Easter Day	Silent Day	Brandenburg
+Apr 17	Monday	Easter Monday	National holiday, Christian	 
+Apr 23	Sunday	German Beer Day	Observance	 
+Apr 27	Thursday	Girls' Day - Career Information Day	Observance	 
+Apr 30	Sunday	Walpurgis Night	Observance	 
+May 1	Monday	May Day	National holiday	 
+May 5	Friday	Europe Day	Observance	 
+May 14	Sunday	Mother's Day	Observance	 
+May 23	Tuesday	Constitution Day	Observance	 
+May 25	Thursday	Ascension Day	National holiday, Christian	 
+Jun 3	Saturday	European Bicycle Day	Observance	 
+Jun 4	Sunday	Whit Sunday	Silent Day	Brandenburg
+Jun 5	Monday	Whit Monday	National holiday, Christian	 
+Jun 6	Tuesday	Visually Impaired People Day	Observance	 
+Jun 15	Thursday	Corpus Christi	Christian, Common Local holidays	BW, BY, HE, NRW, RLP, SL
+Jun 15	Thursday	Corpus Christi	Local holiday, Christian	Saxony, Thuringia
+Jun 17	Saturday	Day of Music	Observance	 
+Jun 18	Sunday	Car-free Sunday	Observance	 
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 24	Saturday	Architecture Day	Observance	 
+Aug 8	Tuesday	Peace Festival	Local holiday	Bavaria
+Aug 15	Tuesday	Assumption of Mary	Christian, Common Local holidays	Bavaria, Saarland
+Sep 1	Friday	World Peace Day	Observance	 
+Sep 9	Saturday	German Language Day	Observance	 
+Sep 10	Sunday	European Heritage Days (Day of the Open Monument)	Observance	 
+Sep 10	Sunday	Day of the Homeland	Observance	 
+Sep 20	Wednesday	German World Childrens' Day	Observance	 
+Sep 22	Friday	September equinox	Season	 
+Sep 22	Friday	German Sandwich Day	Observance	 
+Oct 1	Sunday	German Food Bank Day	Observance	 
+Oct 3	Tuesday	Day of German Unity	National holiday	 
+Oct 7	Saturday	Space Exploration Day	Observance	 
+Oct 24	Tuesday	Day of the Libraries	Observance	 
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time	 
+Oct 31	Tuesday	Reformation Day	National holiday	 
+Oct 31	Tuesday	Halloween	Observance	 
+Nov 1	Wednesday	All Saints' Day	Silent Day	BW, BY, NRW, RLP, SL
+Nov 9	Thursday	Night of Broken Glass Remembrance Day	Observance	 
+Nov 9	Thursday	Fall of the Berlin Wall	Observance	 
+Nov 11	Saturday	St. Martin's Day	Observance, Christian	 
+Nov 19	Sunday	National Day of Mourning	Silent Day	 
+Nov 22	Wednesday	Repentance Day	Christian, Common Local holidays	Saxony
+Nov 26	Sunday	Sunday of the Dead	Silent Day	 
+Dec 3	Sunday	First Sunday Advent	Observance, Christian	 
+Dec 6	Wednesday	Saint Nicholas Day	Observance, Christian	 
+Dec 10	Sunday	Second Sunday Advent	Observance, Christian	 
+Dec 17	Sunday	Third Sunday Advent	Observance, Christian	 
+Dec 19	Tuesday	Remembrance Day for Roma and Sinti killed by Genocide	Observance	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Fourth Sunday Advent	Observance, Christian	 
+Dec 24	Sunday	Christmas Eve	Silent Day	 
+Dec 25	Monday	Christmas Day	National holiday, Christian	 
+Dec 26	Tuesday	Boxing Day	National holiday, Christian	 
+Dec 31	Sunday	New Year's Eve	Observance	 

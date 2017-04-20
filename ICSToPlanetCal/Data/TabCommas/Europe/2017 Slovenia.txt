@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year	National holiday
+Feb 8	Wednesday	Prešeren Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 16	Sunday	Easter Day	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+Apr 27	Thursday	Day of Uprising Against Occupation	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 2	Tuesday	Labour Day holiday	National holiday
+Jun 4	Sunday	Whit Sunday	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	Statehood Day	National holiday
+Aug 15	Tuesday	Assumption of Mary	National holiday
+Aug 17	Thursday	Slovenians in Prekmurje Incorporated into the Mother Nation Day	Observance
+Sep 15	Friday	Restoration of Primorska to the Motherland Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 25	Wednesday	Sovereignty Day	Observance
+Oct 31	Tuesday	Reformation Day	National holiday
+Nov 1	Wednesday	Remembrance Day	National holiday
+Nov 23	Thursday	Rudolf Maister Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Independence and Unity Day	National holiday

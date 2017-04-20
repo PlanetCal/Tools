@@ -1,0 +1,34 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public holiday
+Jan 2	Monday	New Year's Day observed	Public holiday
+Jan 2	Monday	New Year's (Day 2)	Public holiday
+Jan 6	Friday	Orthodox Christmas Eve	Optional Holiday
+Jan 7	Saturday	Orthodox Christmas Day	Optional Holiday
+Jan 9	Monday	Day of the Republika Srpska	Observance
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 1	Wednesday	Independence Day	Public holiday
+Mar 8	Wednesday	Mothers' Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Orthodox Good Friday	Optional Holiday
+Apr 14	Friday	Good Friday	Optional Holiday
+Apr 15	Saturday	Orthodox Holy Saturday	Observance, Orthodox
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Orthodox Easter Sunday	Optional Holiday
+Apr 16	Sunday	Easter Sunday	Optional Holiday
+Apr 17	Monday	Orthodox Easter Monday	Optional Holiday
+Apr 17	Monday	Easter Monday	Optional Holiday
+May 1	Monday	Labor Day	Public holiday
+May 2	Tuesday	Labor Day (Day 2)	Public holiday
+May 9	Tuesday	Victory Day	Public holiday
+Jun 18	Sunday	Fathers' Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	End of Ramadan	Optional Holiday
+Sep 2	Saturday	Feast of the Sacrifice	Optional Holiday
+Sep 22	Friday	September equinox	Season
+Oct 31	Tuesday	Halloween	Observance
+Nov 1	Wednesday	All Saints' Day	Optional Holiday
+Nov 21	Tuesday	Dayton Peace Agreement Day	Optional Holiday
+Nov 25	Saturday	Statehood Day	Public holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Optional Holiday
+Dec 31	Sunday	New Year's Eve	Observance

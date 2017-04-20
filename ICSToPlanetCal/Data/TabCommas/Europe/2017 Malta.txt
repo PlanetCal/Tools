@@ -1,0 +1,20 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 10	Friday	Feast of Saint Paul's Shipwreck	National holiday
+Mar 19	Sunday	Feast of Saint Joseph	National holiday
+Mar 31	Friday	Freedom Day	National holiday
+Apr 14	Friday	Good Friday	National holiday
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 17	Monday	Easter Monday (bank holiday)	Bank holiday
+May 1	Monday	Labour Day/May Day	National holiday
+Jun 7	Wednesday	Sette Giugno	National holiday
+Jun 29	Thursday	Feast of Saints Peter and Paul	National holiday
+Aug 15	Tuesday	The Feast of Mary's Assumption	National holiday
+Sep 8	Friday	The Feast of Our Lady of Victories	National holiday
+Sep 21	Thursday	Independence Day	National holiday
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 13	Wednesday	Republic Day	National holiday
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Boxing Day (bank holiday)	Bank holiday
+Dec 31	Sunday	New Year's Eve	Observance

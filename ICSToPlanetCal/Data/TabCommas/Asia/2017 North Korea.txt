@@ -1,0 +1,22 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Jan 28	Saturday	Lunar New Year's Day	Public Holiday
+Feb 11	Saturday	Cheongwoldaeboreum	Public Holiday
+Feb 16	Thursday	Birth date of Kim Jong Il	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 15	Saturday	Birth Date of Kim Il Sung	Public Holiday
+Apr 25	Tuesday	Chosun People's Army Foundation Day	Public Holiday
+May 1	Monday	May Day	Public Holiday
+Jun 6	Tuesday	Chosun Children's Union Foundation Day	Public Holiday
+Jun 19	Monday	Great Leader Kim Jong Il Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 27	Thursday	Day of Victory in the Fatherland Liberation War	Public Holiday
+Aug 25	Friday	Day of Songun	Public Holiday
+Sep 9	Saturday	National Day	Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 10	Tuesday	Party Foundation Day	Public Holiday
+Nov 11	Saturday	Mother's Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Birth Date of Kim Jong Suk	Public Holiday
+Dec 27	Wednesday	Constitution Day	Public Holiday
+

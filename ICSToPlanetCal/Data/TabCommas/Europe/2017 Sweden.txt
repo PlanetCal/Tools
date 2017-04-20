@@ -1,0 +1,30 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public holiday
+Jan 5	Thursday	Twelfth Night	De facto half holiday
+Jan 6	Friday	Epiphany	Public holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Good Friday	Public holiday
+Apr 15	Saturday	Holy Saturday	De facto half holiday
+Apr 16	Sunday	Easter Day	Public holiday
+Apr 17	Monday	Easter Monday	Public holiday
+Apr 30	Sunday	Walpurgis Night	De facto half holiday
+May 1	Monday	May 1st	Public holiday
+May 25	Thursday	Ascension Day	Public holiday
+May 28	Sunday	Mother's Day	De facto holiday
+Jun 3	Saturday	Pentecost Eve	De facto half holiday
+Jun 4	Sunday	Whit Sunday	Public holiday
+Jun 6	Tuesday	National day	Public holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Midsummer Eve	De facto holiday
+Jun 24	Saturday	Midsummer Day	Public holiday
+Sep 22	Friday	September equinox	Season
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 3	Friday	All Saints' Eve	De facto half holiday
+Nov 4	Saturday	All Saints' Day	Public holiday
+Nov 12	Sunday	Father's Day	De facto holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Public holiday
+Dec 25	Monday	Christmas Day	Public holiday
+Dec 26	Tuesday	Boxing Day	Public holiday
+Dec 31	Sunday	New Year's Eve	De facto holiday

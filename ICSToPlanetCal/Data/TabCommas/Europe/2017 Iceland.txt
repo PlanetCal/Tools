@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 13	Thursday	Maundy Thursday	National holiday
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Sunday	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+Apr 20	Thursday	First Day of Summer	National holiday
+May 1	Monday	Labour Day	National holiday
+May 14	Sunday	Mothers' Day	Observance
+May 25	Thursday	Ascension Day	National holiday
+Jun 4	Sunday	Whit Sunday	National holiday
+Jun 5	Monday	Whit Monday	National holiday
+Jun 17	Saturday	Icelandic Republic Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 7	Monday	Bank Holiday	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 31	Tuesday	Halloween	Observance
+Nov 12	Sunday	Fathers' Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve (from noon)	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Second Day of Christmas	National holiday
+Dec 31	Sunday	New Year's Eve (from noon)	National holiday

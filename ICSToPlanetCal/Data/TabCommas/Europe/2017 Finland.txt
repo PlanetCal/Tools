@@ -1,0 +1,22 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	National holiday
+Apr 16	Sunday	Easter Day	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	May Day	National holiday
+May 14	Sunday	Mother's Day	De facto holiday
+May 25	Thursday	Ascension Day	National holiday
+Jun 4	Sunday	Whit Sunday	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Midsummer Eve	De facto holiday
+Jun 24	Saturday	Midsummer	National holiday
+Sep 22	Friday	September equinox	Season
+Nov 4	Saturday	All Saints' Day	National holiday
+Nov 12	Sunday	Father's Day	De facto holiday
+Dec 6	Wednesday	Independence Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	De facto holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	St. Stephen's Day	National holiday

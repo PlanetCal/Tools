@@ -1,0 +1,27 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	International New Year's Day	National holiday
+Jan 2	Monday	International New Year's Day observed	National holiday
+Jan 26	Thursday	Tet holiday	National holiday
+Jan 27	Friday	Vietnamese New Year's Eve	National holiday
+Jan 28	Saturday	Vietnamese New Year	National holiday
+Jan 29	Sunday	Tet holiday	National holiday
+Jan 30	Monday	Tet holiday	National holiday
+Jan 31	Tuesday	Tet holiday	National holiday
+Feb 1	Wednesday	Tet holiday	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 6	Thursday	Vietnamese Kings' Commemoration Day	National holiday
+Apr 30	Sunday	Liberation Day/Reunification Day	National holiday
+May 1	Monday	Liberation Day/Reunification Day observed	National holiday
+May 2	Tuesday	International Labor Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 28	Wednesday	Vietnamese Family Day	Observance
+Sep 2	Saturday	Independence Day	National holiday
+Sep 4	Monday	Independence Day observed	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 20	Friday	Vietnamese Women's Day	Observance
+Oct 31	Tuesday	Halloween	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Observance
+Dec 31	Sunday	International New Year's Eve	Observance

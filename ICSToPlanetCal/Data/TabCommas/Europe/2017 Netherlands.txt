@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Observance
+Apr 16	Sunday	Easter Day	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+Apr 27	Thursday	King's Birthday	National holiday
+May 4	Thursday	Remembrance Day	Observance
+May 5	Friday	Liberation Day	Observance
+May 25	Thursday	Ascension Day	National holiday
+Jun 4	Sunday	Whit Sunday	National holiday
+Jun 5	Monday	Whit Monday	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Sep 22	Friday	September equinox	Season
+Dec 5	Tuesday	St Nicholas' Eve/Sinterklaas	Observance
+Dec 6	Wednesday	St Nicholas' Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Second Day of Christmas	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

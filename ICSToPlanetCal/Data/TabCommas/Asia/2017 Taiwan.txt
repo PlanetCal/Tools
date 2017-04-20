@@ -1,0 +1,53 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Republic Day/New Year's Day	National holiday
+Jan 2	Monday	Republic Day/New Year's Day observed	National holiday
+Jan 27	Friday	Chinese New Year's Eve	National holiday
+Jan 28	Saturday	Chinese New Year's Day	National holiday
+Jan 29	Sunday	Chinese New Year Holiday 1	National holiday
+Jan 30	Monday	Chinese New Year Holiday 2	National holiday
+Jan 31	Tuesday	Chinese New Year Holiday 3	National holiday
+Feb 1	Wednesday	Chinese New Year Holiday 4	National holiday
+Feb 4	Saturday	Farmer's Day	Observance
+Feb 11	Saturday	Lantern Festival	Observance
+Feb 11	Saturday	Tourism Day	Observance
+Feb 25	Saturday	228 Memorial Day	National holiday
+Feb 26	Sunday	228 Memorial Day	National holiday
+Feb 27	Monday	Earth God's Birthday	Observance
+Feb 28	Tuesday	228 Memorial Day	National holiday
+Mar 8	Wednesday	Women's Day	Observance
+Mar 12	Sunday	Arbor Day	Observance
+Mar 16	Thursday	Kuan Yin's Birthday	Observance
+Mar 20	Monday	March equinox	Season
+Mar 29	Wednesday	Youth Day	Observance
+Apr 3	Monday	Children's Day	National holiday
+Apr 5	Wednesday	Tomb Sweeping Day	National holiday
+Apr 11	Tuesday	God of Medicine's Birthday	Observance
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 19	Wednesday	Matsu's Birthday	Observance
+May 1	Monday	Labor Day	National holiday
+May 3	Wednesday	Buddha's Birthday	Observance
+May 4	Thursday	Literary Day	Observance
+May 14	Sunday	Mother's Day	Observance
+May 30	Tuesday	Dragon Boat Festival	National holiday
+Jun 3	Saturday	Opium Suppression Movement Day	Observance
+Jun 7	Wednesday	Kuan Kung's Birthday	Observance
+Jun 7	Wednesday	Chen Huang's Birthday	Observance
+Jun 21	Wednesday	June Solstice	Season
+Aug 8	Tuesday	Father's Day	Observance
+Aug 28	Monday	Valentine's Day	Observance
+Sep 3	Sunday	Armed Forces Day	Observance
+Sep 5	Tuesday	Ghost Festival	Observance
+Sep 22	Friday	September equinox	Season
+Sep 28	Thursday	Teachers' Day	Observance
+Oct 4	Wednesday	Mid-Autumn Festival	National holiday
+Oct 10	Tuesday	National Day/Double Tenth Day	National holiday
+Oct 21	Saturday	Overseas Chinese Day	Observance
+Oct 25	Wednesday	Taiwan's Retrocession Day	Observance
+Oct 28	Saturday	Double Ninth Day	Observance
+Oct 31	Tuesday	Halloween	Observance
+Nov 12	Sunday	Sun Yat-sen's Birthday	Observance
+Dec 2	Saturday	Saisiat Festival	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 21	Thursday	Dongzhì Festival	Observance
+Dec 25	Monday	Constitution Day	Observance
+Dec 25	Monday	Christmas Day	Observance

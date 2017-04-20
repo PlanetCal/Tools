@@ -1,0 +1,43 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day (day 2)	National holiday
+Jan 7	Saturday	Orthodox Christmas Day	National holiday, Orthodox
+Jan 8	Sunday	Orthodox Christmas Day holiday	National holiday, Orthodox
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 1	Wednesday	Martisor (first day of spring)	Observance
+Mar 8	Wednesday	International Women's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Orthodox Good Friday	Observance, Orthodox
+Apr 15	Saturday	Orthodox Holy Saturday	Observance, Orthodox
+Apr 16	Sunday	Orthodox Easter Sunday	National holiday, Orthodox
+Apr 17	Monday	Orthodox Easter Monday	National holiday, Orthodox
+Apr 24	Monday	Memorial Day/Parents' Day	National holiday
+Apr 27	Thursday	State Flag Day	Observance
+May 1	Monday	International Day of Solidarity of Workers	National holiday
+May 9	Tuesday	Victory Day	National holiday
+May 13	Saturday	Special Working Day	Observance
+May 15	Monday	Europe Day	Observance
+May 15	Monday	Family Day	Observance
+May 28	Sunday	Dniester Day	Observance
+Jun 1	Thursday	International Children's Day	Observance
+Jun 2	Friday	Chrildren's Day Extra Holiday	National holiday
+Jun 5	Monday	World Environment Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Statehood Day	Observance
+Jul 29	Saturday	Constitution Day	Observance
+Aug 27	Sunday	Independence Day	National holiday
+Aug 28	Monday	Independence Day Holiday	National holiday
+Aug 31	Thursday	Language Day	National holiday
+Sep 1	Friday	Language Day Extra Holiday	National holiday
+Sep 9	Saturday	Special Working Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Wine Day (Day 2)	Observance
+Oct 7	Saturday	Wine Day (Day 1)	Observance
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Oct 31	Tuesday	Halloween	Observance
+Dec 10	Sunday	International Human Rights Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

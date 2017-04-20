@@ -1,0 +1,33 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day (Day 2)	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 8	Wednesday	Mothers' Day	Observance
+Mar 14	Tuesday	Summer Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 22	Wednesday	Nevruz Day	National holiday
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Good Friday	Observance
+Apr 14	Friday	Good Friday (Orthodox)	Observance, Orthodox
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 15	Saturday	Easter Saturday (Orthodox)	Observance, Orthodox
+Apr 16	Sunday	Easter Sunday	National holiday
+Apr 16	Sunday	Easter Sunday (Orthodox)	National holiday, Orthodox
+Apr 17	Monday	Easter Monday	Observance
+Apr 17	Monday	Easter Monday (Orthodox)	Observance, Orthodox
+May 1	Monday	Labour Day/May Day	National holiday
+Jun 18	Sunday	Fathers' Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	End of Ramadan (Eid al-Fitr)	National holiday
+Sep 2	Saturday	Feast of the Sacrifice	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 19	Thursday	Mother Teresa Beatification Day	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Oct 31	Tuesday	Halloween	Observance
+Nov 28	Tuesday	Independence Day	National holiday
+Nov 29	Wednesday	Liberation Day	National holiday
+Dec 8	Friday	National Youth Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

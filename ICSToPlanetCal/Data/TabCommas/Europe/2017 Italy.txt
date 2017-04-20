@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Observance
+Apr 16	Sunday	Easter Day	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+Apr 25	Tuesday	Liberation Day	National holiday
+Apr 25	Tuesday	The Feast of St Mark	Local holiday
+May 1	Monday	Labor Day / May Day	National holiday
+Jun 2	Friday	Republic Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 24	Saturday	The Feast of St. John (Florence, Genoa, Turin)	Local holiday
+Jun 29	Thursday	The Feast of St. Peter and St. Paul (Rome)	Local holiday
+Aug 15	Tuesday	Assumption of Mary / Ferragosto	National holiday
+Sep 19	Tuesday	The Feast of Saint Januarius (Naples)	Local holiday
+Sep 22	Friday	September equinox	Season
+Nov 1	Wednesday	All Saints' Day	National holiday
+Dec 7	Thursday	The Feast of St. Ambrose (Milan)	Local holiday
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	St. Stephen's Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

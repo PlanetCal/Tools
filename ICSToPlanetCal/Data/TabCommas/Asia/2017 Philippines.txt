@@ -1,0 +1,31 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Regular Holiday	 
+Jan 2	Monday	New Year's Day observed	Regular Holiday	 
+Jan 28	Saturday	Chinese Lunar New Year's Day	Special Non-working Holiday	 
+Feb 25	Saturday	People Power Anniversary	Observance	 
+Mar 20	Monday	March equinox	Season	 
+Apr 9	Sunday	The Day of Valor	Regular Holiday	 
+Apr 13	Thursday	Maundy Thursday	Regular Holiday	 
+Apr 14	Friday	Good Friday	Regular Holiday	 
+Apr 16	Sunday	Easter Sunday	Observance	 
+Apr 24	Monday	Lailatul Isra Wal Mi Raj	Common Local holidays	 
+May 1	Monday	Labor Day	Regular Holiday	 
+Jun 12	Monday	Independence Day	Regular Holiday	 
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 27	Tuesday	Eidul-Fitar	Common Local holidays	 
+Aug 21	Monday	Ninoy Aquino Day	Special Non-working Holiday	 
+Aug 28	Monday	National Heroes Day holiday	Regular Holiday	 
+Sep 2	Saturday	Id-ul-Adha (Feast of the Sacrifice)	Common Local holidays	 
+Sep 3	Sunday	Id-ul-Adha Day 2	Common Local holidays	 
+Sep 22	Friday	September equinox	Season	 
+Sep 22	Friday	Amun Jadid	Muslim, Common Local holidays	 
+Oct 31	Tuesday	Special non-working Day	National holiday	 
+Nov 1	Wednesday	All Saints' Day	Special Non-working Holiday	 
+Nov 2	Thursday	All Souls' Day	Observance	 
+Nov 30	Thursday	Bonifacio Day	Regular Holiday	 
+Dec 1	Friday	Maulid un-Nabi	Common Local holidays	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance	 
+Dec 25	Monday	Christmas Day	Regular Holiday	 
+Dec 30	Saturday	Rizal Day	Regular Holiday	 
+Dec 31	Sunday	New Year's Eve	Special Non-working Holiday	 

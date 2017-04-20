@@ -1,0 +1,40 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day observed	National holiday
+Jan 7	Saturday	Christmas Day	National holiday, Orthodox
+Jan 8	Sunday	Christmas Day holiday	National holiday, Orthodox
+Jan 9	Monday	Orthodox Christmas Day	National holiday, Orthodox
+Jan 14	Saturday	Orthodox New Year	Observance, Orthodox
+Jan 22	Sunday	Ukrainian Unity Day	Observance
+Jan 25	Wednesday	Tatiana Day	Observance
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 8	Wednesday	International Women's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 1	Saturday	April Fools	Observance
+Apr 16	Sunday	Orthodox Easter Day	National holiday, Orthodox
+Apr 17	Monday	Orthodox Easter Day holiday	National holiday, Orthodox
+May 1	Monday	Labor Day	National holiday
+May 2	Tuesday	Labor Day Holiday	National holiday
+May 9	Tuesday	Victory Day / Memorial Day	National holiday
+May 14	Sunday	Mother's Day	Observance
+May 20	Saturday	Europe Day	Observance
+May 28	Sunday	Cultural Workers and Folk Artists Day	Observance
+May 28	Sunday	Kiev Day	Observance
+Jun 4	Sunday	Orthodox Pentecost	National holiday, Orthodox
+Jun 5	Monday	Orthodox Pentecost holiday	National holiday, Orthodox
+Jun 21	Wednesday	June Solstice	Season
+Jun 28	Wednesday	Constitution Day	National holiday
+Jul 7	Friday	Kupala Night	Observance
+Jul 8	Saturday	Family Day	Observance
+Jul 28	Friday	Baptism of Kyivan Rus	Observance
+Jul 30	Sunday	Navy Day	Observance
+Aug 24	Thursday	Independence Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Teacher's Day	Observance
+Oct 14	Saturday	Defenders' Day	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 21	Tuesday	Dignity and Freedom Day	Observance
+Dec 6	Wednesday	Army Day	Observance
+Dec 19	Tuesday	St. Nicholas Day	Observance, Orthodox
+Dec 21	Thursday	December Solstice	Season

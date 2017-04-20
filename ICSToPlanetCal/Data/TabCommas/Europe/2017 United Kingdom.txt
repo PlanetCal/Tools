@@ -1,0 +1,94 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Last day of Hanukkah	Jewish holiday	 
+Jan 1	Sunday	New Year's Day	Bank holiday	 
+Jan 2	Monday	New Year's Day observed	Bank holiday	 
+Jan 2	Monday	New Year's Day Holiday	Bank holiday	 
+Jan 3	Tuesday	2nd January (substitute day)	Local holiday	Scotland
+Jan 6	Friday	Epiphany	Christian	 
+Jan 7	Saturday	Orthodox Christmas Day	Orthodox	 
+Jan 14	Saturday	Orthodox New Year	Orthodox	 
+Jan 25	Wednesday	Burns Night	Local observance	Scotland
+Jan 28	Saturday	Chinese New Year	Observance	 
+Feb 11	Saturday	Tu B'Shevat (Arbor Day)	Jewish holiday	 
+Feb 14	Tuesday	Valentine's Day	Observance	 
+Feb 24	Friday	Maha Shivaratri	Hindu Holiday	 
+Feb 28	Tuesday	Carnival/Shrove Tuesday	Christian	 
+Mar 1	Wednesday	St. David's Day	Observance	Wales
+Mar 1	Wednesday	Carnival/Ash Wednesday	Christian	 
+Mar 12	Sunday	Holi	Hindu Holiday	 
+Mar 12	Sunday	Purim	Jewish holiday	 
+Mar 17	Friday	St Patrick's Day	Local holiday	Northern Ireland
+Mar 20	Monday	March equinox	Season	 
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time	 
+Mar 26	Sunday	Mothering Sunday	Observance	 
+Apr 9	Sunday	Palm Sunday	Christian	 
+Apr 11	Tuesday	First day of Passover	Jewish holiday	 
+Apr 13	Thursday	Maundy Thursday	Christian	 
+Apr 14	Friday	Orthodox Good Friday	Orthodox	 
+Apr 14	Friday	Good Friday	Public holiday	 
+Apr 15	Saturday	Holy Saturday	Christian	 
+Apr 15	Saturday	Orthodox Holy Saturday	Orthodox	 
+Apr 16	Sunday	Orthodox Easter	Orthodox	 
+Apr 16	Sunday	Easter Sunday	Observance, Christian	 
+Apr 17	Monday	Orthodox Easter Monday	Orthodox	 
+Apr 17	Monday	Easter Monday	Observance	Scotland
+Apr 17	Monday	Easter Monday	Common Local holidays	ENG, Guernsey, Jersey, NIR, WAL
+Apr 18	Tuesday	Last day of Passover	Jewish holiday	 
+Apr 23	Sunday	St. George's Day	Observance	 
+Apr 23	Sunday	Shakespeare Day	Observance	 
+Apr 24	Monday	Yom HaShoah	Jewish holiday	 
+Apr 24	Monday	Isra and Mi'raj	Muslim	 
+May 1	Monday	Early May Bank Holiday	Bank holiday	 
+May 2	Tuesday	Yom HaAtzmaut	Jewish holiday	 
+May 9	Tuesday	Liberation Day	Local holiday	Guernsey, Jersey
+May 14	Sunday	Lag B'Omer	Jewish holiday	 
+May 25	Thursday	Ascension Day	Christian	 
+May 27	Saturday	Ramadan begins	Muslim	 
+May 29	Monday	Spring Bank Holiday	Bank holiday	 
+May 31	Wednesday	Shavuot	Jewish holiday	 
+Jun 4	Sunday	Pentecost	Christian	 
+Jun 5	Monday	Whit Monday	Christian	 
+Jun 11	Sunday	Trinity Sunday	Christian	 
+Jun 15	Thursday	Corpus Christi	Christian	 
+Jun 18	Sunday	Father's Day	Observance	 
+Jun 21	Wednesday	Laylat al-Qadr (Night of Destiny)	Muslim	 
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 26	Monday	Eid-al-Fitr	Muslim	 
+Jul 12	Wednesday	Battle of the Boyne	Local holiday	Northern Ireland
+Aug 1	Tuesday	Tisha B'Av	Jewish holiday	 
+Aug 7	Monday	Raksha Bandhan	Hindu Holiday	 
+Aug 7	Monday	Summer Bank Holiday	Common Local holidays	Scotland
+Aug 14	Monday	Janmashtami	Hindu Holiday	 
+Aug 15	Tuesday	Assumption of Mary	Christian	 
+Aug 25	Friday	Ganesh Chaturthi	Hindu Holiday	 
+Aug 28	Monday	Summer Bank Holiday	Common Local holidays	ENG, Guernsey, Jersey, NIR, WAL
+Sep 2	Saturday	Eid-al-Adha	Muslim	 
+Sep 20	Wednesday	Navaratri	Hindu Holiday	 
+Sep 21	Thursday	Rosh Hashana	Jewish holiday	 
+Sep 22	Friday	Muharram/Islamic New Year	Muslim	 
+Sep 22	Friday	September equinox	Season	 
+Sep 30	Saturday	Dussehra	Hindu Holiday	 
+Sep 30	Saturday	Yom Kippur	Jewish holiday	 
+Oct 4	Wednesday	Feast of St Francis of Assisi	Christian	 
+Oct 5	Thursday	First day of Sukkot	Jewish holiday	 
+Oct 11	Wednesday	Last day of Sukkot	Jewish holiday	 
+Oct 12	Thursday	Shmini Atzeret	Jewish holiday	 
+Oct 13	Friday	Simchat Torah	Jewish holiday	 
+Oct 19	Thursday	Diwali/Deepavali	Observance	 
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time	 
+Oct 31	Tuesday	Halloween	Observance	 
+Nov 1	Wednesday	All Saints' Day	Christian	 
+Nov 2	Thursday	All Souls' Day	Christian	 
+Nov 5	Sunday	Guy Fawkes Day	Observance	 
+Nov 12	Sunday	Remembrance Sunday	Observance	 
+Nov 30	Thursday	St Andrew's Day	Local holiday	Scotland
+Dec 1	Friday	Prophet's Birthday	Muslim	 
+Dec 3	Sunday	First Sunday of Advent	Observance	 
+Dec 8	Friday	Feast of the Immaculate Conception	Christian	 
+Dec 13	Wednesday	First Day of Hanukkah	Jewish holiday	 
+Dec 20	Wednesday	Last day of Hanukkah	Jewish holiday	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance	 
+Dec 25	Monday	Christmas Day	Public holiday	 
+Dec 26	Tuesday	Boxing Day	Bank holiday	 
+Dec 31	Sunday	New Year's Eve	Observance	 

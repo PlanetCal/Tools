@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 1	Wednesday	Day of Remembrance and Respect to Victims of the Communist Regime	Observance
+Mar 1	Wednesday	Baba Marta	Observance
+Mar 3	Friday	Liberation Day	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Holy Saturday	National holiday
+Apr 16	Sunday	Easter Sunday	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labor Day	National holiday
+May 6	Saturday	St. George's Day	National holiday
+May 24	Wednesday	Culture and Literacy Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Sep 6	Wednesday	Unification Day	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Independence Day	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 1	Wednesday	Revival Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Second day of Christmas	National holiday

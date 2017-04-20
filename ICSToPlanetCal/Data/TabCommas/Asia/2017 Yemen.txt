@@ -1,0 +1,19 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Mar 20	Monday	March equinox	Season
+May 1	Monday	May Day	Public Holiday
+May 22	Monday	Unity Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al-Fitr	Public Holiday
+Jun 27	Tuesday	Eid al-Fitr	Public Holiday
+Jun 28	Wednesday	Eid al-Fitr	Public Holiday
+Sep 2	Saturday	Eid al-Adha	Public Holiday
+Sep 2	Saturday	Eid al-Adha	Public Holiday
+Sep 2	Saturday	Eid al-Adha	Public Holiday
+Sep 2	Saturday	Eid al-Adha	Public Holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram	Public Holiday
+Sep 26	Tuesday	North Yemen Revolution Day	Public Holiday
+Oct 14	Saturday	Revolution Day	Public Holiday
+Nov 30	Thursday	Independence Day	Public Holiday
+Dec 1	Friday	The Prophet's Birthday	National holiday
+Dec 21	Thursday	December Solstice	Season

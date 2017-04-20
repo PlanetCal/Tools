@@ -1,0 +1,31 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Official Holiday
+Jan 2	Monday	New Year's Day observed	Official Holiday
+Jan 2	Monday	Second Day of New Year	Official Holiday
+Jan 7	Saturday	Christmas Day	Official Holiday
+Jan 9	Monday	Christmas Day observed	Official Holiday
+Feb 15	Wednesday	Day of Ashakalia	Observance
+Feb 17	Friday	Independence Day of the Republic of Kosovo	Official Holiday
+Mar 6	Monday	Day of Memorial and Respect for Veterans	Observance
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 8	Saturday	Day of Romas	Observance
+Apr 9	Sunday	Constitution Day of the Republic of Kosovo	Official Holiday
+Apr 10	Monday	Constitution Day of the Republic of Kosovo observed	Official Holiday
+Apr 16	Sunday	Easter	Official Holiday
+Apr 17	Monday	Easter Monday	Official Holiday
+Apr 23	Sunday	Day of Turks	Observance
+May 1	Monday	International Labour Day	Official Holiday
+May 6	Saturday	Day of Gorans	Observance
+May 9	Tuesday	Europe Day	Official Holiday
+Jun 12	Monday	Peace Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al Fitr	Official Holiday
+Sep 2	Saturday	Eid al Addha	Official Holiday
+Sep 22	Friday	September equinox	Season
+Sep 28	Thursday	Day of Bosnians	Observance
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 28	Tuesday	Day of Albanians	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Official Holiday
+Dec 31	Sunday	New Year's Eve	Observance

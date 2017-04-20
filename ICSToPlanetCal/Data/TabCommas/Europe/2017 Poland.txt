@@ -1,0 +1,25 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	Observance
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Day	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 3	Wednesday	Constitution Day	National holiday
+May 26	Friday	Mother's Day	Observance
+Jun 4	Sunday	Whit Sunday	National holiday
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Father's Day	Observance
+Aug 15	Tuesday	Assumption of Mary	National holiday
+Sep 22	Friday	September equinox	Season
+Nov 1	Wednesday	All Saints' Day	National holiday
+Nov 11	Saturday	Independence Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Second Day of Christmas	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

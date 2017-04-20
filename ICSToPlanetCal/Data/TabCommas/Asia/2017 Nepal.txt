@@ -1,0 +1,32 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 14	Saturday	Maghe Sankrankti	Public Holiday
+Jan 29	Sunday	Martyr's Memorial Day	Public Holiday
+Jan 29	Sunday	Sonam Losar (Tamang New Year)	Public Holiday
+Feb 18	Saturday	National Democracy Day	Public Holiday
+Feb 24	Friday	Maha ShivaRati	Public Holiday
+Mar 8	Wednesday	Nari Dibas	Public Holiday
+Mar 20	Monday	March equinox	Season
+Apr 4	Tuesday	Ram Nawami	Public Holiday
+Apr 13	Thursday	Nepali New Year	Public Holiday
+May 1	Monday	Majdoor Divas	Public Holiday
+May 10	Wednesday	Buddha Jayanti	Public Holiday
+May 28	Sunday	Ganatantra Diwas (Republic Day)	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 7	Monday	Janai Purnima / Rakshya Bandhan	Public Holiday
+Aug 14	Monday	Shree Krishna Janmasthami / Gaura Parba	Public Holiday
+Sep 20	Wednesday	Constitution Day	Public Holiday
+Sep 21	Thursday	Ghatasthapana	Public Holiday
+Sep 22	Friday	September equinox	Season
+Sep 27	Wednesday	Phulpati (Dashain)	Public Holiday
+Sep 28	Thursday	Astami (Dashain)	Public Holiday
+Sep 29	Friday	Nawami (Dashain)	Public Holiday
+Sep 30	Saturday	Dashami (Dashain)	Public Holiday
+Oct 1	Sunday	Ekadashi (Dashain)	Public Holiday
+Oct 2	Monday	Duwadashi (Dashain)	Public Holiday
+Oct 5	Thursday	Kojagrat Purnima	Public Holiday
+Oct 19	Thursday	Gobardhan Pooja (Tihar Festival)	Public Holiday
+Oct 20	Friday	Bhai Tika (Tihar Festival)	Public Holiday
+Oct 21	Saturday	Bhai Tika (Tihar Festival)	Public Holiday
+Oct 25	Wednesday	Chhat Parwa	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 30	Saturday	Lhosar	Public Holiday

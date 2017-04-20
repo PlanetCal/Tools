@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 9	Sunday	Palm Sunday	Observance
+Apr 14	Friday	Good Friday	Observance
+Apr 16	Sunday	Easter Day	Observance
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labor Day / May Day	National holiday
+May 25	Thursday	Ascension Day	National holiday
+Jun 4	Sunday	Whit Sunday	Observance
+Jun 5	Monday	Whit Monday	National holiday
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Assumption of Mary	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 24	Sunday	European Heritage Days	Observance
+Oct 26	Thursday	National Day	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 1	Wednesday	All Saints' Day	National holiday
+Nov 2	Thursday	All Souls' Day	Observance
+Dec 3	Sunday	First Sunday Advent	Observance
+Dec 8	Friday	Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Bank holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	St. Stephen's Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

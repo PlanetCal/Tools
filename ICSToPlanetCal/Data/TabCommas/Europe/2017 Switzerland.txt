@@ -1,0 +1,32 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Common Local holidays	All
+Jan 2	Monday	Berchtold Day	Common Local holidays	14 cantons
+Jan 6	Friday	Epiphany	Common Local holidays	GR*, SZ, TI, UR
+Mar 19	Sunday	Saint Joseph's Day	Common Local holidays	GR*, LU*, NW, SO*, SZ, TI, UR, VS
+Mar 20	Monday	March equinox	Season	 
+Apr 14	Friday	Good Friday	Common Local holidays	All except TI, VS
+Apr 16	Sunday	Easter Sunday	Observance	 
+Apr 17	Monday	Easter Monday	Common Local holidays	All except VS
+Apr 24	Monday	Sechseläuten	Observance	Zurich
+May 1	Monday	May Day	Common Local holidays	BL, BS, FR*, JU, LU*, SH, SO*, TG, TI, ZH
+May 25	Thursday	Ascension Day	Common Local holidays	All
+Jun 4	Sunday	Pentecost	Common Local holidays	All
+Jun 5	Monday	Pentecost Monday	Common Local holidays	All except VS
+Jun 15	Thursday	Corpus Christi	Common Local holidays	14 cantons
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 29	Thursday	St. Peter and St. Paul	Common Local holidays	Graubünden, Ticino
+Aug 1	Tuesday	Swiss National Day	National holiday	 
+Aug 15	Tuesday	Assumption of Mary	Common Local holidays	14 cantons
+Sep 7	Thursday	Jeune Genevois	Common Local holidays	Geneva
+Sep 9	Saturday	Knabenschiessen	Observance	Zurich
+Sep 10	Sunday	Knabenschiessen	Observance	Zurich
+Sep 11	Monday	Knabenschiessen	Observance	Zurich
+Sep 17	Sunday	Swiss federal fast	Observance	All except GE
+Sep 22	Friday	September equinox	Season	 
+Nov 1	Wednesday	All Saints' Day	Common Local holidays	16 cantons
+Dec 8	Friday	Immaculate Conception	Common Local holidays	13 cantons
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance	 
+Dec 25	Monday	Christmas Day	Common Local holidays	All
+Dec 26	Tuesday	St. Stephen's Day	Common Local holidays	All except JU, VD, VS
+Dec 31	Sunday	New Year's Eve	Observance	 

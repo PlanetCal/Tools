@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	Public Holiday
+Jan 12	Thursday	Geok Tepe Memorial Day	Public Holiday
+Feb 19	Sunday	State Flag of Turkmenistan Day	Public Holiday
+Mar 8	Wednesday	Turkmen Woman's Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Mar 20	Monday	Nowruz Bayram (Spring Festival)	Public Holiday
+Apr 2	Sunday	A Drop of Water - A grain of Gold	Observance
+Apr 23	Sunday	Turkmen Racing Horse Festival	Observance
+May 8	Monday	Commemoration National Heroes WWII	Public Holiday
+May 9	Tuesday	Victory Day	Public Holiday
+May 18	Thursday	Day of Revival, Unity, and the Poetry of Magtymguly	Public Holiday
+May 28	Sunday	Carpet Day	Observance
+Jun 18	Sunday	Galla Bayramy (Wheat Harvest Festival)	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid-al-Fitr	Public Holiday
+Jun 27	Tuesday	Day of Turkmen Workers of Culture and Art	Public Holiday
+Aug 13	Sunday	Turkmen Melon Day	Observance
+Sep 2	Saturday	Eid-al-Adha	Public Holiday
+Sep 10	Sunday	Day of the Workers in the Energy Sector	Observance
+Sep 10	Sunday	Turkmen Bakhshi Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 6	Friday	Day of Commemoration and National Mourning	Public Holiday
+Oct 27	Friday	Independence Day	Public Holiday
+Nov 4	Saturday	Health Day	Observance
+Nov 26	Sunday	Harvest Festival	Observance
+Dec 3	Sunday	Good Neighborliness Day	Observance
+Dec 12	Tuesday	Day of Neutrality	Public Holiday
+Dec 21	Thursday	December Solstice	Season

@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 23	Sunday	National Sovereignty and Children's Day	National holiday
+May 1	Monday	Labor and Solidarity Day	National holiday
+May 19	Friday	Commemoration of Atatürk, Youth and Sports Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 24	Saturday	Ramadan Feast Eve	Half Day
+Jun 25	Sunday	Ramadan Feast	National holiday
+Jun 26	Monday	Ramadan Feast Day 2	Extra Public Holiday
+Jun 27	Tuesday	Ramadan Feast Day 3	Common Local holidays
+Jul 15	Saturday	Veterans' Day	Observance
+Aug 30	Wednesday	Victory Day	National holiday
+Aug 31	Thursday	Sacrifice Feast Eve	Half Day
+Sep 1	Friday	Sacrifice Feast	National holiday
+Sep 2	Saturday	Sacrifice Feast Day 2	National holiday
+Sep 3	Sunday	Sacrifice Feast Day 3	National holiday
+Sep 4	Monday	Sacrifice Feast Day 4	Extra Public Holiday
+Sep 22	Friday	September equinox	Season
+Oct 28	Saturday	Republic Day Eve	Half Day
+Oct 29	Sunday	Republic Day	National holiday
+Nov 10	Friday	Ataturk Memorial Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 31	Sunday	New Year's Eve	Observance

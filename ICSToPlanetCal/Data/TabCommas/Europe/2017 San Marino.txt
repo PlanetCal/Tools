@@ -1,0 +1,29 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Feb 5	Sunday	Feast of St Agatha	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 25	Saturday	Anniversary of the Arengo	National holiday
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 1	Saturday	Investiture Ceremony of the Captains Regent 1	National holiday
+Apr 14	Friday	Good Friday	Observance
+Apr 15	Saturday	Holy Saturday	Observance
+Apr 16	Sunday	Easter Sunday	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labour Day/May Day	National holiday
+Jun 15	Thursday	Corpus Christi	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jul 28	Friday	Anniversary of the Fall of the Fascist Government	National holiday
+Aug 15	Tuesday	Assumption of Mary	National holiday
+Sep 3	Sunday	The Feast of St Marinus and Republic Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Investiture Ceremony of the Captains Regent 2	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Nov 1	Wednesday	All Saints' Day	National holiday
+Nov 2	Thursday	All Saints' Day	National holiday
+Dec 8	Friday	Feast of the Immaculate Conception	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Boxing Day	National holiday
+Dec 31	Sunday	New Year's Eve	National holiday

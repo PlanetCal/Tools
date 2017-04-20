@@ -1,0 +1,27 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National Holiday
+Jan 7	Saturday	Orthodox Christmas Day	National Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 23	Thursday	Defender of the Fatherland Day	Observance
+Mar 8	Wednesday	Women's Day	National Holiday
+Mar 15	Wednesday	Constitution Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 2	Sunday	Union Day of Belarus and Russia	Observance
+Apr 16	Sunday	Catholic Easter Sunday	Observance
+Apr 16	Sunday	Orthodox Easter Sunday	Observance, Orthodox
+Apr 25	Tuesday	Radonitsa	National Holiday
+Apr 26	Wednesday	Day of Remembrance of the Chernobyl Tragedy	Observance
+May 1	Monday	Labour Day	National Holiday
+May 9	Tuesday	Victory Day	National Holiday
+May 14	Sunday	Day of the National Emblem and Flag of Belarus	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 22	Thursday	Remembrance Day of Victims of the Great Patriotic War	Observance
+Jul 3	Monday	Independence Day of the Republic of Belarus	National Holiday
+Jul 6	Thursday	Kupalle (Day 1)	Observance
+Jul 7	Friday	Kupalle (Day 2)	Observance
+Sep 22	Friday	September equinox	Season
+Nov 2	Thursday	Remembrance Day	Observance
+Nov 7	Tuesday	October Revolution Day	National Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Catholic Christmas Day	National Holiday
+Dec 31	Sunday	New Year's Eve	Observance

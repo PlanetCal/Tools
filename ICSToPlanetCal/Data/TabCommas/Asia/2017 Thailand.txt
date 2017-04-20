@@ -1,0 +1,40 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day observed	National holiday
+Jan 14	Saturday	National Children's Day	Observance
+Jan 16	Monday	Teachers' Day	Observance
+Jan 28	Saturday	Chinese Lunar New Year's Day	Observance
+Jan 29	Sunday	Second day of Chinese Lunar New Year	Observance
+Jan 30	Monday	Third day of Chinese Lunar New Year	Observance
+Feb 11	Saturday	Makha Bucha	National holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 6	Thursday	Chakri Day	National holiday
+Apr 13	Thursday	Songkran	National holiday
+Apr 14	Friday	Songkran	National holiday
+Apr 15	Saturday	Songkran	National holiday
+Apr 17	Monday	Songkran observed	National holiday
+May 1	Monday	Labor Day	National holiday
+May 5	Friday	Coronation Day	National holiday
+May 10	Wednesday	Visakha Bucha	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 30	Friday	Mid Year Bank Holiday observed	Bank holiday
+Jul 1	Saturday	Mid Year Bank Holiday	Bank holiday
+Jul 9	Sunday	Buddhist Lent Day	National holiday
+Jul 10	Monday	Asalha Bucha	National holiday
+Aug 11	Friday	The Queen's Birthday observed	National holiday
+Aug 11	Friday	Mother's Day observed	National holiday
+Aug 12	Saturday	The Queen's Birthday	National holiday
+Aug 12	Saturday	Mother's Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 23	Monday	Chulalongkorn Day	National holiday
+Oct 31	Tuesday	Halloween	Observance
+Nov 3	Friday	Loy Krathong	Observance
+Dec 5	Tuesday	King Bhumibol Adulyadej day	National holiday
+Dec 5	Tuesday	Father's Day	National holiday
+Dec 10	Sunday	Constitution Day	National holiday
+Dec 11	Monday	Constitution Day observed	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Observance
+Dec 31	Sunday	New Year's Eve	National holiday

@@ -1,0 +1,21 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year	Public Holiday
+Mar 8	Wednesday	Revolution Day	Public Holiday
+Mar 20	Monday	March equinox	Season
+Mar 21	Tuesday	Mothers' Day	Observance
+Mar 30	Thursday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 16	Sunday	Easter Day	Observance
+Apr 16	Sunday	Orthodox Easter Day	Public Holiday
+Apr 17	Monday	Independence Day	Public Holiday
+May 1	Monday	May Day	Public Holiday
+May 6	Saturday	Martyrs' Day	Public Holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al-Fitr	Public Holiday
+Sep 2	Saturday	Eid al-Adha	Public Holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram	Public Holiday
+Oct 6	Friday	October Liberation Day	Public Holiday
+Oct 26	Thursday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Dec 1	Friday	The Prophet's Birthday	Public Holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 25	Monday	Christmas Day	Public Holiday

@@ -1,0 +1,18 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Mar 20	Monday	March equinox	Season
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	Eid-al-Fitr (End of Ramadan)	National holiday
+Jun 26	Monday	Eid-al-Fitr Holiday	National holiday
+Jun 27	Tuesday	Eid-al-Fitr Holiday	National holiday
+Jun 28	Wednesday	Eid-al-Fitr Holiday	National holiday
+Jun 29	Thursday	Eid-al-Fitr Holiday (public sector only)	Observance
+Jul 1	Saturday	Eid-al-Fitr Holiday (public sector only)	Observance
+Jul 2	Sunday	Eid-al-Fitr Holiday	National holiday
+Sep 2	Saturday	Eid-al-Adha (Feast of Sacrifice)	National holiday
+Sep 4	Monday	Eid-al-Adha Holiday	National holiday
+Sep 5	Tuesday	Eid-al-Adha Holiday	National holiday
+Sep 22	Friday	September equinox	Season
+Sep 22	Friday	Muharram (Muslim New Year)	Observance
+Sep 23	Saturday	Saudi National Day	National holiday
+Dec 1	Friday	Prophet's Birthday	Observance
+Dec 21	Thursday	December Solstice	Season

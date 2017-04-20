@@ -1,0 +1,33 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	New Year's Day observed	National holiday
+Jan 28	Saturday	Chinese Lunar New Year's Day	National holiday
+Jan 29	Sunday	Second day of Chinese Lunar New Year	National holiday
+Jan 30	Monday	Chinese Lunar New Year observed	National holiday
+Feb 9	Thursday	Thaipusam	Observance
+Feb 14	Tuesday	Valentine's Day	Observance
+Feb 15	Wednesday	Total Defense Day	Observance
+Mar 8	Wednesday	International Women's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 1	Saturday	April Fool's Day	Observance
+Apr 14	Friday	Good Friday	National holiday
+Apr 15	Saturday	Easter Saturday	Observance
+Apr 16	Sunday	Easter Sunday	Observance
+May 1	Monday	Labour Day	National holiday
+May 10	Wednesday	Vesak Day	National holiday
+May 14	Sunday	Mother's Day	Observance
+May 18	Thursday	International Museum Day	Observance
+Jun 18	Sunday	Father's Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jun 25	Sunday	Hari Raya Puasa	National holiday
+Jun 26	Monday	Hari Raya Puasa observed	National holiday
+Jul 1	Saturday	Singapore Armed Forces Day	Observance
+Jul 21	Friday	Racial Harmony Day	Observance
+Aug 9	Wednesday	National Day	National holiday
+Sep 1	Friday	Hari Raya Haji	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 18	Wednesday	Diwali/Deepavali	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

@@ -1,0 +1,37 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	Republic Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 25	Saturday	Struggle for Human Rights Day	Observance
+Apr 13	Thursday	Unfairly Prosecuted Persons Day	Observance
+Apr 14	Friday	Good Friday	National holiday
+Apr 16	Sunday	Easter Day	Observance, Christian
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labor Day	National holiday
+May 4	Thursday	Anniversary of the Decease of M. R. stefánika	Observance
+May 8	Monday	End of World War II	National holiday
+Jun 7	Wednesday	Anniversary of the Memorandum of the Slovak Nation	Observance
+Jun 21	Wednesday	June Solstice	Season
+Jul 5	Wednesday	St. Cyril & St. Methodius Day	National holiday
+Jul 5	Wednesday	Foreign Slovaks Day	Observance
+Jul 17	Monday	Independence Day	Observance
+Aug 4	Friday	Matice Slovenska Day	Observance
+Aug 29	Tuesday	National Uprising Day	National holiday
+Sep 1	Friday	Constitution Day	National holiday
+Sep 9	Saturday	Day of the Victims of Holocaust and of racial violence	Observance
+Sep 15	Friday	Day of Our Lady of Sorrows	National holiday
+Sep 19	Tuesday	Foundation of the Slovak National Council Day	Observance
+Sep 22	Friday	September equinox	Season
+Oct 6	Friday	Dukla Pass Victims Day	Observance
+Oct 27	Friday	Cernová Tragedy Day	Observance
+Oct 28	Saturday	Establishment of the Independent Czecho-Slovak State	Observance
+Oct 29	Sunday	Birth of Ludovít Stúr Day	Observance
+Oct 30	Monday	Anniversary of the Declaration of the Slovak Nation	Observance
+Oct 31	Tuesday	Reformation Day	Observance
+Nov 1	Wednesday	All Saints' Day	National holiday
+Nov 17	Friday	Fight for Freedom and Democracy Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	St. Stephen's Day	National holiday
+Dec 30	Saturday	Day of the Declaration of Slovakia as an Independent Ecclesiastic Province	Observance

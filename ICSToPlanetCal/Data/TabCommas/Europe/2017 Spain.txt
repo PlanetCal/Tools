@@ -1,0 +1,65 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday	 
+Jan 1	Sunday	Feast of the Holy Family	Observance	 
+Jan 2	Monday	New Year's Day	National holiday	AN, AR, CL, MU
+Jan 6	Friday	Epiphany	National holiday	 
+Feb 28	Tuesday	Day of Andalucía	Local holiday	Andalusia
+Mar 1	Wednesday	Day of the Balearic Islands	Local holiday	Balearic Islands
+Mar 1	Wednesday	Ash Wednesday	Observance	 
+Mar 6	Monday	Fifth of March	Local holiday	Zaragoza
+Mar 17	Friday	Martyr Vicente's Feast	Local holiday	Valencia
+Mar 19	Sunday	San Jose	Common Local holidays	21 states
+Mar 20	Monday	March equinox	Season	 
+Mar 20	Monday	San Jose	Local holiday	Extremadura, Madrid
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time	 
+Apr 9	Sunday	Palm Sunday	Observance	 
+Apr 13	Thursday	Maundy Thursday	Common Local holidays	15 states
+Apr 14	Friday	Good Friday	National holiday	 
+Apr 17	Monday	Easter Monday	Common Local holidays	CT, IB, LO, NA, PV, S, VC
+Apr 23	Sunday	St George's Day	Local holiday	Catalonia
+Apr 24	Monday	Day of Aragón	Local holiday	Aragon
+Apr 24	Monday	Castile and León Day	Local holiday	Castile-Leon
+May 1	Monday	Labor Day / May Day	National holiday	 
+May 2	Tuesday	Day of Madrid	Local holiday	Madrid
+May 7	Sunday	Mothers' Day	Observance	 
+May 15	Monday	Feast Day of St Isidore	Local holiday	Madrid
+May 17	Wednesday	Galicia Literature Day	Local holiday	Galicia
+May 30	Tuesday	Day of the Canary Islands	Local holiday	Canary Islands
+May 31	Wednesday	Canaries day observed	Local holiday	Canary Islands
+May 31	Wednesday	Day of Castile-La Mancha	Local holiday	Castile-La Mancha
+Jun 4	Sunday	Whit Sunday/Pentecost	Observance	 
+Jun 5	Monday	Whit Monday	Local holiday	Barcelona
+Jun 9	Friday	Day of Murcia	Local holiday	Murcia
+Jun 9	Friday	Day of La Rioja	Local holiday	La Rioja
+Jun 13	Tuesday	San Antonio	Local holiday	Ceuta
+Jun 15	Thursday	Corpus Christi	Local holiday	Castile-La Mancha, Madrid
+Jun 21	Wednesday	June Solstice	Season	 
+Jun 24	Saturday	Saint John the Baptist Day	Local holiday	Catalonia
+Jul 25	Tuesday	Feast of Saint James the Apostle	Common Local holidays	CL, CN, GA, M, NA, PV
+Jul 28	Friday	Day of the Institutions	Local holiday	Cantabria
+Aug 5	Saturday	The Day of Our Lady of Africa	Local holiday	Ceuta
+Aug 13	Sunday	The Day of Cantabria	Local holiday	Cantabria
+Aug 15	Tuesday	Assumption of Mary	National holiday	 
+Sep 2	Saturday	Day of the Independent City of Ceuta	Local holiday	Ceuta
+Sep 2	Saturday	Eid-al-Adha	Local holiday	Ceuta
+Sep 8	Friday	Day of Asturias	Local holiday	Asturias
+Sep 8	Friday	Day of Extremadura	Local holiday	Extremadura
+Sep 8	Friday	Virgin of the Victory	Local holiday	Melilla
+Sep 11	Monday	Day of Catalonia	Local holiday	Catalonia
+Sep 12	Tuesday	Eid-al-Adha	Local holiday	Melilla
+Sep 15	Friday	Nuestra Señora de la Bien Aparecida	Local holiday	Cantabria
+Sep 17	Sunday	Day of Melilla	Local holiday	Melilla
+Sep 22	Friday	September equinox	Season	 
+Oct 9	Monday	Day of the Valencian Community	Local holiday	Valencia
+Oct 12	Thursday	Hispanic Day	National holiday	 
+Oct 13	Friday	St. Valero's Feast	Local holiday	Zaragoza
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time	 
+Nov 1	Wednesday	All Saints' Day	National holiday	All except
+Dec 4	Monday	Day of Navarre	Local holiday	Navarre
+Dec 6	Wednesday	Constitution Day	National holiday	All except AN, AR, CE, CL, EX, LO, M, ML, MU, O, VC
+Dec 8	Friday	Immaculate Conception	National holiday	 
+Dec 21	Thursday	December Solstice	Season	 
+Dec 24	Sunday	Christmas Eve	Observance	 
+Dec 25	Monday	Christmas Day	National holiday	 
+Dec 26	Tuesday	St Stephen's Day	Local holiday	B, CT, IB
+Dec 31	Sunday	New Year's Eve	Observance	 

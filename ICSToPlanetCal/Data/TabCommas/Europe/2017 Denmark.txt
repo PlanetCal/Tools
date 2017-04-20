@@ -1,0 +1,24 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 26	Sunday	Carnival	Observance
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 9	Sunday	Palm Sunday	Observance
+Apr 13	Thursday	Maundy Thursday	National holiday
+Apr 14	Friday	Good Friday	National holiday
+Apr 16	Sunday	Easter Day	National holiday
+Apr 17	Monday	Easter Monday	National holiday
+May 1	Monday	Labor Day / May Day	Observance
+May 12	Friday	Great Prayer Day	National holiday
+May 25	Thursday	Ascension Day	National holiday
+Jun 4	Sunday	Whit Sunday	National holiday
+Jun 5	Monday	Whit Monday	National holiday
+Jun 5	Monday	Constitution Day	Observance
+Jun 21	Wednesday	June Solstice	Season
+Sep 22	Friday	September equinox	Season
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	2nd Christmas Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

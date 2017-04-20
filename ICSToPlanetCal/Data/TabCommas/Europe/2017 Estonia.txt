@@ -1,0 +1,18 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Feb 24	Friday	Independence Day	National holiday
+Mar 20	Monday	March equinox	Season
+Apr 14	Friday	Good Friday	National holiday
+Apr 16	Sunday	Easter Sunday	National holiday
+May 1	Monday	Labor Day	National holiday
+Jun 4	Sunday	Whitsunday	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 23	Friday	Victory Day	National holiday
+Jun 24	Saturday	Midsummer Day	National holiday
+Aug 20	Sunday	Independence Restoration Day	National holiday
+Sep 22	Friday	September equinox	Season
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	National holiday
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Boxing Day	National holiday
+

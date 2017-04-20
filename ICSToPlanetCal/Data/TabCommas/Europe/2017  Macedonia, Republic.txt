@@ -1,0 +1,44 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Christmas Eve (Orthodox)	Optional Holiday
+Jan 7	Saturday	Orthodox Christmas Day	National holiday, Orthodox
+Jan 19	Thursday	Epiphany (Orthodox)	Optional Holiday
+Jan 27	Friday	St Sava's Day	Optional Holiday
+Feb 14	Tuesday	Valentine's Day	Observance
+Mar 8	Wednesday	Mothers' Day/International Women's Day	Observance
+Mar 20	Monday	March equinox	Season
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 8	Saturday	International Romani Day (for Romani community)	Optional Holiday
+Apr 14	Friday	Good Friday (Orthodox)	Optional Holiday
+Apr 14	Friday	Good Friday	Observance
+Apr 15	Saturday	Easter Saturday (Orthodox)	Observance, Orthodox
+Apr 15	Saturday	Easter Saturday	Observance
+Apr 16	Sunday	Easter Sunday (Orthodox)	Observance, Orthodox
+Apr 16	Sunday	Easter Sunday	Observance
+Apr 17	Monday	Easter Monday (Orthodox)	National holiday, Orthodox
+Apr 17	Monday	Easter Monday	Optional Holiday
+May 1	Monday	Labour Day	National holiday
+May 23	Tuesday	Vlach’s National Day (for Vlach community)	Optional Holiday
+May 24	Wednesday	Saints Cyril and Methodius' Day	National holiday
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Eid al-Fitr	National holiday
+Aug 2	Wednesday	Republic Day	National holiday
+Aug 28	Monday	Feast of the Assumption of Mary (Orthodox)	Optional Holiday
+Sep 2	Saturday	Eid-al-Adha (Feast of Sacrifice)	Optional Holiday
+Sep 8	Friday	Independence Day	National holiday
+Sep 10	Sunday	Fathers' Day	Observance
+Sep 22	Friday	September equinox	Season
+Sep 28	Thursday	International Bosniaks' Day (for Bosniak community)	Optional Holiday
+Sep 30	Saturday	First day of Yom Kippur (Jewish community)	Optional Holiday
+Oct 11	Wednesday	Day of People’s Uprising	National holiday
+Oct 23	Monday	Day of the Macedonian Revolutionary Struggle	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Oct 31	Tuesday	Halloween	Observance
+Nov 1	Wednesday	All Saints' Day	Optional Holiday
+Nov 22	Wednesday	Albanian Alphabet Day (Albanian community)	Optional Holiday
+Dec 8	Friday	Saint Kliment Ohridski's Day	National holiday
+Dec 21	Thursday	December Solstice	Season
+Dec 21	Thursday	Turkish Language Day (Turkish community)	Optional Holiday
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	Optional Holiday
+Dec 31	Sunday	New Year's Eve	Observance

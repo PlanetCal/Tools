@@ -1,0 +1,26 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 6	Friday	Epiphany	National holiday
+Feb 27	Monday	Green Monday	National holiday
+Mar 20	Monday	March equinox	Season
+Mar 25	Saturday	Greek Independence Day	National holiday
+Mar 26	Sunday	Daylight Saving Time starts	Clock change/Daylight Saving Time
+Apr 1	Saturday	Cyprus National Holiday	National holiday
+Apr 14	Friday	Good Friday (Orthodox)	National holiday, Orthodox
+Apr 15	Saturday	Holy Saturday (Orthodox)	Observance, Orthodox
+Apr 16	Sunday	Easter Sunday (Orthodox)	Observance, Orthodox
+Apr 17	Monday	Easter Monday (Orthodox)	National holiday, Orthodox
+Apr 18	Tuesday	Orthodox Easter Tuesday (banks only)	Bank holiday
+May 1	Monday	Labour Day/May Day	National holiday
+Jun 5	Monday	Orthodox Pentecost Monday	National holiday, Orthodox
+Jun 21	Wednesday	June Solstice	Season
+Aug 15	Tuesday	Assumption of the Virgin Mary	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 1	Sunday	Cyprus Independence Day	National holiday
+Oct 28	Saturday	Ochi Day	National holiday
+Oct 29	Sunday	Daylight Saving Time ends	Clock change/Daylight Saving Time
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Boxing Day	National holiday
+Dec 31	Sunday	New Year's Eve	Observance

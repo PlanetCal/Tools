@@ -1,0 +1,32 @@
+DTSTART	Weekday	SUMMARY	CLASS	Details
+Jan 1	Sunday	New Year's Day	National holiday
+Jan 2	Monday	Day after New Year's Day	National holiday
+Jan 24	Tuesday	Unification Day	National holiday
+Feb 19	Sunday	Constantin Brancusi Day	Observance
+Feb 24	Friday	Dragobete	Observance
+Mar 1	Wednesday	Mar?i?or	Observance
+Mar 8	Wednesday	International Women's Day	Observance
+Mar 20	Monday	March equinox	Season
+Apr 16	Sunday	Orthodox Easter Day	National holiday, Orthodox
+Apr 17	Monday	Orthodox Easter Monday	National holiday, Orthodox
+May 1	Monday	Labor Day / May Day	National holiday
+May 7	Sunday	Mother's Day	Observance
+May 14	Sunday	Father's Day	Observance
+May 25	Thursday	Orthodox Ascension Day	Observance, Orthodox
+Jun 1	Thursday	Children's Day	National holiday
+Jun 4	Sunday	Orthodox Pentecost	National holiday, Orthodox
+Jun 5	Monday	Orthodox Pentecost Monday	National holiday, Orthodox
+Jun 21	Wednesday	June Solstice	Season
+Jun 26	Monday	Flag Day	Observance
+Jul 29	Saturday	National Anthem Day	Observance
+Aug 15	Tuesday	St Mary's Day	National holiday
+Sep 22	Friday	September equinox	Season
+Oct 31	Tuesday	Halloween	Observance
+Nov 30	Thursday	St Andrew's Day	National holiday
+Dec 1	Friday	National holiday	National holiday
+Dec 8	Friday	Constitution Day	Observance
+Dec 21	Thursday	December Solstice	Season
+Dec 24	Sunday	Christmas Eve	Observance
+Dec 25	Monday	Christmas Day	National holiday
+Dec 26	Tuesday	Second day of Christmas	National holiday
+Dec 31	Sunday	New Year's Eve	Observance
