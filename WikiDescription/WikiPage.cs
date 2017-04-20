@@ -6,6 +6,7 @@ using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using WikiClientLibrary;
 using WikiClientLibrary.Client;
+using HtmlAgilityPack;
 
 namespace WikiDescription
 {
@@ -13,6 +14,8 @@ namespace WikiDescription
     {
         private string topicName;
         private Site site;
+        private const int fullrefLength = 6;
+        private const int literefLength = 2;
 
         public WikiPage(Site site, string topicName)
         {
@@ -36,31 +39,40 @@ namespace WikiDescription
             var paragraphCount = 0;
             foreach (var paragraph in paragraphs)
             {
-                if (string.IsNullOrEmpty(paragraph) || paragraph.StartsWith("{{") || paragraph.StartsWith("[[") || paragraph.StartsWith("=="))
+                if (string.IsNullOrEmpty(paragraph) || paragraph.StartsWith("|") || paragraph.StartsWith("{{") || paragraph.StartsWith("[[") || paragraph.StartsWith("}}") || paragraph.StartsWith("=="))
                 {
                     continue;
                 }
 
-                var refStart = paragraph.IndexOf("<ref>");
-                var paragraphClean = string.Empty;
-                if (refStart > 0)
+                var paragraphClean = paragraph;
+                while (paragraphClean.Contains("<ref"))
                 {
-                    var refEnd = paragraph.IndexOf("</ref>");
-                    paragraphClean = paragraph.Replace(paragraph.Substring(refStart, (refEnd - refStart + 6)), "");
-                }
-                else
-                {
-                    paragraphClean = paragraph;
+                    var refLength = WikiPage.fullrefLength;
+                    var refStart = paragraphClean.IndexOf("<ref");
+                    var refEnd = paragraphClean.IndexOf("</ref>");
+                    var refEnd2 = paragraphClean.IndexOf("/>");
+                    if (refEnd2 > 0 && refEnd2 < refEnd)
+                    {
+                        refEnd = refEnd2;
+                        refLength = WikiPage.literefLength;
+                    }
+
+                    if (refEnd >= 0)
+                    {
+                        paragraphClean = paragraphClean.Replace(paragraphClean.Substring(refStart, (refEnd - refStart + refLength)), "");
+                    }
                 }
 
-                string regularExpressionPattern = @"\[\[(.*?)\]\]";
-                System.Text.RegularExpressions.Regex re = new Regex(regularExpressionPattern);
+                paragraphClean = WikiPage.ExtractTextFromHtml(paragraphClean);
+
+                string braketPattern = @"\[\[(.*?)\]\]";
+                Regex braketRegex = new Regex(braketPattern);
 
                 string key = string.Empty;
                 string keyValue = string.Empty;
                 Dictionary<string, string> stringKeyPairs = new Dictionary<string, string>();
-                MatchCollection mc = re.Matches(paragraphClean);
-                foreach (Match m in mc)
+                MatchCollection braketMatches = braketRegex.Matches(paragraphClean);
+                foreach (Match m in braketMatches)
                 {
                     if (m.Value.Contains("|"))
                     {
@@ -81,8 +93,18 @@ namespace WikiDescription
                 }
 
                 paragraphClean = paragraphClean.Replace("'''", "");
+                paragraphClean = paragraphClean.Replace("''", "");
                 paragraphClean = paragraphClean.Replace("[[", "");
                 paragraphClean = paragraphClean.Replace("]]", "");
+
+                string curlyPattern = @"{{(.*?)}}";
+                Regex curlyRegex = new Regex(curlyPattern);
+
+                MatchCollection curlyMatches = curlyRegex.Matches(paragraphClean);
+                foreach (Match m in curlyMatches)
+                {
+                    paragraphClean = paragraphClean.Replace(m.Value, "");
+                }
 
                 titleText.Append(paragraphClean);
                 paragraphCount++;
@@ -95,6 +117,33 @@ namespace WikiDescription
             }
 
             return titleText.ToString();
+        }
+
+        public static string ExtractTextFromHtml(string html)
+        {
+            if (string.IsNullOrWhiteSpace(html))
+            {
+                return string.Empty;
+            }
+
+            HtmlDocument doc = new HtmlDocument();
+            doc.LoadHtml(html);
+
+            var chunks = new List<string>();
+
+#pragma warning disable CS0618 // Type or member is obsolete
+            foreach (var item in doc.DocumentNode.DescendantNodesAndSelf())
+#pragma warning restore CS0618 // Type or member is obsolete
+            {
+                if (item.NodeType == HtmlNodeType.Text)
+                {
+                    if (item.InnerText.Trim() != "")
+                    {
+                        chunks.Add(item.InnerText.Trim());
+                    }
+                }
+            }
+            return String.Join(" ", chunks);
         }
     }
 }
