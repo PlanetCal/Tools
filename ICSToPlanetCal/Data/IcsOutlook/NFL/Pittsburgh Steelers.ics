@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Pittsburgh Steelers
+X-WR-CALNAME:Pittsburgh Steelers
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Browns
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:DI8spFUVc44UbkXFzwx7lfKA@stanza.co
+SUMMARY:Steelers at Browns
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Vikings
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:bCqwrN0nuECsN1p4RLrnmrOi@stanza.co
+SUMMARY:Steelers vs Vikings
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pW_W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Bears
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:z57j0ahw4yR45AA1Q4Gb6t-O@stanza.co
+SUMMARY:Steelers at Bears
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Ravens
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:lJPLFo4fJGjb2nVCIk-ECuTB@stanza.co
+SUMMARY:Steelers at Ravens
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Jaguars
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:cNufksyDx0RdTAveKnMmhs3i@stanza.co
+SUMMARY:Steelers vs Jaguars
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pW__\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Chiefs
+END:VALARM
+DTSTART:20171015T202500Z
+DTEND:20171015T232500Z
+UID:YjlKRhR5fjSk4G1_tcJkdWN-@stanza.co
+SUMMARY:Steelers at Chiefs
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Bengals
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:CPQXSBeHxni6X2_Bb5AO0M8W@stanza.co
+SUMMARY:Steelers vs Bengals
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pW$1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Lions
+END:VALARM
+DTSTART:20171030T003000Z
+DTEND:20171030T033000Z
+UID:KjJ77-YVq8NJUndWV2YQS8iY@stanza.co
+SUMMARY:Steelers at Lions
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Colts
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:xJ6e_te1XjR2yQ49-rODz07x@stanza.co
+SUMMARY:Steelers at Colts
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Titans
+END:VALARM
+DTSTART:20171117T012500Z
+DTEND:20171117T042500Z
+UID:ywjn8P-KcStEtnNrwlQu_Siw@stanza.co
+SUMMARY:Steelers vs Titans
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~pW$5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Packers
+END:VALARM
+DTSTART:20171127T013000Z
+DTEND:20171127T043000Z
+UID:yEUtPOnf1MdcrhxiwtXxeaD8@stanza.co
+SUMMARY:Steelers vs Packers
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~pW$7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Bengals
+END:VALARM
+DTSTART:20171205T013000Z
+DTEND:20171205T043000Z
+UID:faTVKK0jKfpq5zqpsa5_sK8X@stanza.co
+SUMMARY:Steelers at Bengals
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium\, 1 Paul Brown Stadium\, Cincinnati\, OH 45202
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Ravens
+END:VALARM
+DTSTART:20171211T013000Z
+DTEND:20171211T043000Z
+UID:GHkTWBsHthG5Y9mAd2h9z2M1@stanza.co
+SUMMARY:Steelers vs Ravens
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~pW$a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Patriots
+END:VALARM
+DTSTART:20171217T212500Z
+DTEND:20171218T002500Z
+UID:QhY7kzFQLz_j6nzUOrJfwEub@stanza.co
+SUMMARY:Steelers vs Patriots
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pW$c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers at Texans
+END:VALARM
+DTSTART:20171225T213000Z
+DTEND:20171226T003000Z
+UID:_HEPGelfPnA0lKj7mexaRen6@stanza.co
+SUMMARY:Steelers at Texans
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Steelers vs Browns
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:OOHpfR2eozgEj-mYVTLD6rUD@stanza.co
+SUMMARY:Steelers vs Browns
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pW$f\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T050126Z
+CREATED:20170421T050126Z
+LAST-MODIFIED:20170421T050126Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

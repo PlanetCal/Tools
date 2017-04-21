@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Arizona Cardinals
+X-WR-CALNAME:Arizona Cardinals
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Lions
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:D1lt4kMI8IhSx5OOFXqMT7u0@stanza.co
+SUMMARY:Cardinals at Lions
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_s-27\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Colts
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:HHkcg5T4pev_Xc73yuh5YBHs@stanza.co
+SUMMARY:Cardinals at Colts
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_t-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Cowboys
+END:VALARM
+DTSTART:20170926T003000Z
+DTEND:20170926T033000Z
+UID:g7gmQjhD6AAth-3HEkhEJ8Gz@stanza.co
+SUMMARY:Cardinals vs Cowboys
+DESCRIPTION:Watch the game on ESPN!\n\nBuy Gear Here: https://stza.co/+pW_u-_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs 49ers
+END:VALARM
+DTSTART:20171001T200500Z
+DTEND:20171001T230500Z
+UID:048a241SVZh33gzlG39_jvbi@stanza.co
+SUMMARY:Cardinals vs 49ers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_w-$\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Eagles
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:TWFG4HgRTMcqgi6kqsOWtdH9@stanza.co
+SUMMARY:Cardinals at Eagles
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_y-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lincoln Financial Field\, 1 Lincoln Financial Field Way\, Philadelphia\, PA 19147
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Buccaneers
+END:VALARM
+DTSTART:20171015T200500Z
+DTEND:20171015T230500Z
+UID:4UhHD0RrhuvN7--FXZ2xnU53@stanza.co
+SUMMARY:Cardinals vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_z-1M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Rams
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:hwfJlT27tbiOXEBRsHgjTdrK@stanza.co
+SUMMARY:Cardinals at Rams
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_B-r\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Twickenham Stadium\, Twickenham\, 
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at 49ers
+END:VALARM
+DTSTART:20171105T210500Z
+DTEND:20171106T000500Z
+UID:11NbkJYyZl4SmFpzfFfLOvwp@stanza.co
+SUMMARY:Cardinals at 49ers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_C-e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Seahawks
+END:VALARM
+DTSTART:20171110T012500Z
+DTEND:20171110T042500Z
+UID:Xr9k5pjvD_i4DydwgxWIssLV@stanza.co
+SUMMARY:Cardinals vs Seahawks
+DESCRIPTION:Watch the game on NBC!\n\nBuy Gear Here: https://stza.co/+pW_D-28\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Texans
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:IU71954LND6r8Atm3SG-AZwH@stanza.co
+SUMMARY:Cardinals at Texans
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_F-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Jaguars
+END:VALARM
+DTSTART:20171126T212500Z
+DTEND:20171127T002500Z
+UID:OnlYcjNajwkGZin5J1rSBvxy@stanza.co
+SUMMARY:Cardinals vs Jaguars
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pW_G-1q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Rams
+END:VALARM
+DTSTART:20171203T212500Z
+DTEND:20171204T002500Z
+UID:IuVSxXYeOc_67AP0kzgiAU4d@stanza.co
+SUMMARY:Cardinals vs Rams
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_I-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Titans
+END:VALARM
+DTSTART:20171210T210500Z
+DTEND:20171211T000500Z
+UID:YmIVWYUoExn1qHfY268GKS6T@stanza.co
+SUMMARY:Cardinals vs Titans
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pW_K-L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Redskins
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:eWoBXMh2Yo_jrz_gQ8I5yZm3@stanza.co
+SUMMARY:Cardinals at Redskins
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_M-2V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, 1600 Fedex Way\, Landover\, MD 20785
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals vs Giants
+END:VALARM
+DTSTART:20171224T212500Z
+DTEND:20171225T002500Z
+UID:ZhKIkcQo6CN1tL_IEB1GUcq1@stanza.co
+SUMMARY:Cardinals vs Giants
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_N-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Cardinals at Seahawks
+END:VALARM
+DTSTART:20171231T212500Z
+DTEND:20180101T002500Z
+UID:NUv0qVEFQvgUedmv8qiS7_c-@stanza.co
+SUMMARY:Cardinals at Seahawks
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pW_P-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20170421T043930Z
+CREATED:20170421T043930Z
+LAST-MODIFIED:20170421T043930Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

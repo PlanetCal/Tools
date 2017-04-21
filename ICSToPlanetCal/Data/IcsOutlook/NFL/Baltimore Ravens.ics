@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+NAME:Baltimore Ravens - 2017 Season Games
+X-WR-CALNAME:Baltimore Ravens - 2017 Season Games
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Browns
+END:VALARM
+DTSTART:20161111T012500Z
+DTEND:20161111T042500Z
+UID:rXc3ZrryTQRVcsFzgOiPkZgI@stanza.co
+SUMMARY:Ravens vs Browns
+DESCRIPTION:Watch on NFL Network or on your favorite devices here: http://bit.ly/2eSUR9o\n\nBuy tickets here: https://stza.co/~lhr8\n\nBuy Gear Here: https://stza.co/+lhr8-2Y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Watch on NFL Network or on your favorite devices here: http://bit.ly/2eSUR9o
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Bengals
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:8BRXonhXD2fLwetz3jQggpve@stanza.co
+SUMMARY:Ravens at Bengals
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1D-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium\, 1 Paul Brown Stadium\, Cincinnati\, OH 45202
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Browns
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:P3eIL9s1sZjQqYNXdlYGxaTr@stanza.co
+SUMMARY:Ravens vs Browns
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1E-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Jaguars
+END:VALARM
+DTSTART:20170924T133000Z
+DTEND:20170924T163000Z
+UID:SRUSuLq3zfVTQvdKGCHt0qr6@stanza.co
+SUMMARY:Ravens at Jaguars
+DESCRIPTION:Watch the game on TBD!\n\nBuy Gear Here: https://stza.co/+pX1F-3g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wembley Stadium\, Wembley\, London\, United Kingdom
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Steelers
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:uYC7bazAKrwQuQrEvLKuEF_J@stanza.co
+SUMMARY:Ravens vs Steelers
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1G-29\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Raiders
+END:VALARM
+DTSTART:20171008T200500Z
+DTEND:20171008T230500Z
+UID:IvNgX7uMyBc53PK44mOGxnkm@stanza.co
+SUMMARY:Ravens at Raiders
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1H-W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Bears
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:9HU_4c_bmEVj0uOJFARr5ONm@stanza.co
+SUMMARY:Ravens vs Bears
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX1I-I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Vikings
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:vi0AywB8G6ykK2ANBNi_iSqj@stanza.co
+SUMMARY:Ravens at Vikings
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1J-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Dolphins
+END:VALARM
+DTSTART:20171027T002500Z
+DTEND:20171027T032500Z
+UID:psEBrKYkMRV7r_b7y7i8ECIp@stanza.co
+SUMMARY:Ravens vs Dolphins
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1K-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Titans
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:-ORj3ruaz_Aiudh1hi0hkxOw@stanza.co
+SUMMARY:Ravens at Titans
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1L-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Packers
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:I12UtLhk5tkzt3DTb5Em7_8F@stanza.co
+SUMMARY:Ravens at Packers
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1M-1t\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Texans
+END:VALARM
+DTSTART:20171128T013000Z
+DTEND:20171128T043000Z
+UID:DDTvsyddwGlBzTz9G_vkpMrN@stanza.co
+SUMMARY:Ravens vs Texans
+DESCRIPTION:Watch the game on ESPN!\n\nBuy Gear Here: https://stza.co/+pX1N-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Lions
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:c9fZ_221CIw4NFibdV8dxTtk@stanza.co
+SUMMARY:Ravens vs Lions
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX1O-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Steelers
+END:VALARM
+DTSTART:20171211T013000Z
+DTEND:20171211T043000Z
+UID:xhnR_rjy_WE8gtDTW4aI5Pqa@stanza.co
+SUMMARY:Ravens at Steelers
+DESCRIPTION:Watch the game on NBC!\n\nBuy Gear Here: https://stza.co/+pX1P-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens at Browns
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:wWp_wjETPR1zMEdJCazrwAcl@stanza.co
+SUMMARY:Ravens at Browns
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1Q-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Colts
+END:VALARM
+DTSTART:20171223T213000Z
+DTEND:20171224T003000Z
+UID:obbKH2nbew-9HifxeSYxrcEA@stanza.co
+SUMMARY:Ravens vs Colts
+DESCRIPTION:Watch the game on NFL NETWORK!\n\nBuy Gear Here: https://stza.co/+pX1R-14\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Ravens vs Bengals
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:Hi7US3rfTGH3fI7lXayGHWZl@stanza.co
+SUMMARY:Ravens vs Bengals
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1S-1S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045939Z
+CREATED:20170421T045939Z
+LAST-MODIFIED:20170421T045939Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

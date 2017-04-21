@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Indianapolis Colts
+X-WR-CALNAME:Indianapolis Colts
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Rams
+END:VALARM
+DTSTART:20170910T200500Z
+DTEND:20170910T230500Z
+UID:PNtloyl3ODwyno8-sAGFiF4a@stanza.co
+SUMMARY:Colts at Rams
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Cardinals
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:T9ybGx_w1Dr3lQnRbItUcLFY@stanza.co
+SUMMARY:Colts vs Cardinals
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Browns
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:tvi35EZQX7eOqZWVv6UXB4p2@stanza.co
+SUMMARY:Colts vs Browns
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Seahawks
+END:VALARM
+DTSTART:20171002T003000Z
+DTEND:20171002T033000Z
+UID:FcMF-Usn9vwNc_6BYHPF_8Mk@stanza.co
+SUMMARY:Colts at Seahawks
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs 49ers
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:TPhCRgHN-Ir7frXy6JZdddPv@stanza.co
+SUMMARY:Colts vs 49ers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Titans
+END:VALARM
+DTSTART:20171017T003000Z
+DTEND:20171017T033000Z
+UID:oAMpH4HGEI2V8ZhCjdaHBumZ@stanza.co
+SUMMARY:Colts at Titans
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Jaguars
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:TWbxZQvk9NKvZi17fD0bFNuO@stanza.co
+SUMMARY:Colts vs Jaguars
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Bengals
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:L5L49GkRw2phDVUhDsrIYrSt@stanza.co
+SUMMARY:Colts at Bengals
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium\, 1 Paul Brown Stadium\, Cincinnati\, OH 45202
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Texans
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:rhZWPSdJcegeVhbuRK4x-Yeo@stanza.co
+SUMMARY:Colts at Texans
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Steelers
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:s2aIXJ1vvdMoPUt_jnH9GbFv@stanza.co
+SUMMARY:Colts vs Steelers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Titans
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:4-rcxqACThkutrvuG67SG6aN@stanza.co
+SUMMARY:Colts vs Titans
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Jaguars
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:Y2Hk_x7B3lnxM2gmWANs5gXJ@stanza.co
+SUMMARY:Colts at Jaguars
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:EverBank Field\, 1 Everbank Field Dr\, Jacksonville\, FL 32202
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Bills
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:ZZneVjUyKx-_AKZO5iVLyxWL@stanza.co
+SUMMARY:Colts at Bills
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Broncos
+END:VALARM
+DTSTART:20171215T012500Z
+DTEND:20171215T042500Z
+UID:6TD3SnZmtMCDfGQLKTkNoZ5u@stanza.co
+SUMMARY:Colts vs Broncos
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts at Ravens
+END:VALARM
+DTSTART:20171223T213000Z
+DTEND:20171224T003000Z
+UID:-8QmzFnJm2lAQSLfnIJqTI0R@stanza.co
+SUMMARY:Colts at Ravens
+DESCRIPTION:Watch the game on NFL NETWORK!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Colts vs Texans
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:p544vF-NY2685Rq8CXhCt-ar@stanza.co
+SUMMARY:Colts vs Texans
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052155Z
+CREATED:20170421T052155Z
+LAST-MODIFIED:20170421T052155Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

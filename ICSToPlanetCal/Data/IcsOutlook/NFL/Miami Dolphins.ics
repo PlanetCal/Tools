@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Miami Dolphins
+X-WR-CALNAME:Miami Dolphins
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Buccaneers
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:Icf6OxVtPXpSupbcnFOAldwo@stanza.co
+SUMMARY:Dolphins vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Chargers
+END:VALARM
+DTSTART:20170917T200500Z
+DTEND:20170917T230500Z
+UID:Ny5OwpZjsV0ia75U95cR9kNH@stanza.co
+SUMMARY:Dolphins at Chargers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, Carson\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Jets
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:g_itzKW9-vXcbg3qWHJlwPII@stanza.co
+SUMMARY:Dolphins at Jets
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Saints
+END:VALARM
+DTSTART:20171001T133000Z
+DTEND:20171001T163000Z
+UID:p-XvnQxffzCT7Zf9LEaALxzU@stanza.co
+SUMMARY:Dolphins vs Saints
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wembley Stadium\, Wembley\, London\, United Kingdom
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Titans
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:2t6UCNba5zyhy3LvCy6OrwF5@stanza.co
+SUMMARY:Dolphins vs Titans
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Falcons
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:M9JgThveX9VZoO0XIdXofRfJ@stanza.co
+SUMMARY:Dolphins at Falcons
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Jets
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:G8bT5REOwPkeJ8bIPDb72_p9@stanza.co
+SUMMARY:Dolphins vs Jets
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Ravens
+END:VALARM
+DTSTART:20171027T002500Z
+DTEND:20171027T032500Z
+UID:31fbOcgdsKPihuFNb3tx4cCV@stanza.co
+SUMMARY:Dolphins at Ravens
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Raiders
+END:VALARM
+DTSTART:20171106T013000Z
+DTEND:20171106T043000Z
+UID:GVk-qglmzPSTffGB2tWnaOdb@stanza.co
+SUMMARY:Dolphins vs Raiders
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Panthers
+END:VALARM
+DTSTART:20171114T013000Z
+DTEND:20171114T043000Z
+UID:eWZvNTfaVcF51KkAVJN92zX4@stanza.co
+SUMMARY:Dolphins at Panthers
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Patriots
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:CNHwfKkExeQKHfGUU67PJuMd@stanza.co
+SUMMARY:Dolphins at Patriots
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Broncos
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:gav83ictj8WjFRTNHJitQfPT@stanza.co
+SUMMARY:Dolphins vs Broncos
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Patriots
+END:VALARM
+DTSTART:20171212T013000Z
+DTEND:20171212T043000Z
+UID:kdWTsSEkQDe3tgAg07HAQ1eU@stanza.co
+SUMMARY:Dolphins vs Patriots
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Bills
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:YUfiAKsKyUja4AuBjuv9Roia@stanza.co
+SUMMARY:Dolphins at Bills
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins at Chiefs
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:XCI-uwHzIEaEhzJUhWp17P8t@stanza.co
+SUMMARY:Dolphins at Chiefs
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Dolphins vs Bills
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:noPYi83S6skf1aQbkyVfqXEk@stanza.co
+SUMMARY:Dolphins vs Bills
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045913Z
+CREATED:20170421T045913Z
+LAST-MODIFIED:20170421T045913Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

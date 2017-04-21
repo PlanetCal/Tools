@@ -1,0 +1,348 @@
+BEGIN:VCALENDAR
+NAME:Tennessee Titans 2016 Football Schedule - Football
+X-WR-CALNAME:Tennessee Titans 2016 Football Schedule - Football
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+DTSTART:20160814T000000Z
+DTEND:20160814T030000Z
+UID:_le96dIBDUMGv6YuntKL3eEv@stanza.co
+SUMMARY:Tennessee Titans vs San Diego Chargers
+DESCRIPTION:TV: WKRN-News 2 | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_h-3s\n\nGameday Stadium Info: https://stza.co/+li_h-3j\n\nShop: https://stza.co/+li_h-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Carolina Panthers
+END:VALARM
+DTSTART:20160820T190000Z
+DTEND:20160820T220000Z
+UID:miur8gmGKcyXQMD_CqflfQpF@stanza.co
+SUMMARY:Tennessee Titans vs Carolina Panthers
+DESCRIPTION:TV: WKRN-News 2 | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_i-36\n\nGameday Stadium Info: https://stza.co/+li_i-1W\n\nShop: https://stza.co/+li_i-d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Oakland Raiders
+END:VALARM
+DTSTART:20160828T000000Z
+DTEND:20160828T030000Z
+UID:2pKGAYVFOZFpskWXFedoI4NB@stanza.co
+SUMMARY:Tennessee Titans at Oakland Raiders
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_j-D\n\nVIP Travel Packages: https://stza.co/+li_j-_\n\nShop: https://stza.co/+li_j-1F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:O.co Coliseum\, Coliseum Way\, Oakland\, CA\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160911T170000Z
+DTEND:20160911T200000Z
+UID:KFXR5JprLdrmdEtxBLZxJkxv@stanza.co
+SUMMARY:Tennessee Titans vs Minnesota Vikings
+DESCRIPTION:TV: FOX | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_k-3h\n\nGameday Stadium Info: https://stza.co/+li_k-X\n\nShop: https://stza.co/+li_k-2n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Detroit Lions
+END:VALARM
+DTSTART:20160918T170000Z
+DTEND:20160918T200000Z
+UID:o2XGkz5EnJPrF2vHZ4ihsM5z@stanza.co
+SUMMARY:Tennessee Titans at Detroit Lions
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_l-2l\n\nVIP Travel Packages: https://stza.co/+li_l-25\n\nShop: https://stza.co/+li_l-7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, Brush Street\, Detroit\, MI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20160925T170000Z
+DTEND:20160925T200000Z
+UID:FpBCtZJtfWCBKd_7TRc-GKYl@stanza.co
+SUMMARY:Tennessee Titans vs Oakland Raiders
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_m-1A\n\nGameday Stadium Info: https://stza.co/+li_m-2O\n\nShop: https://stza.co/+li_m-a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Houston Texans
+END:VALARM
+DTSTART:20161002T170000Z
+DTEND:20161002T200000Z
+UID:WJHspEBBrkWnxRswqVZFiewN@stanza.co
+SUMMARY:Tennessee Titans at Houston Texans
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_n-22\n\nVIP Travel Packages: https://stza.co/+li_n-3X\n\nShop: https://stza.co/+li_n-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Parkway\, Houston\, TX\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20161009T170000Z
+DTEND:20161009T200000Z
+UID:gyZrUbZDrpjBD4rZYHxekVMQ@stanza.co
+SUMMARY:Tennessee Titans at Miami Dolphins
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_o-2$\n\nVIP Travel Packages: https://stza.co/+li_o-O\n\nShop: https://stza.co/+li_o-2b\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sun Life Stadium\, Miami Gardens\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Cleveland Browns
+END:VALARM
+DTSTART:20161016T170000Z
+DTEND:20161016T200000Z
+UID:lr2rZS5EVEGUOmFxi1qVyR2f@stanza.co
+SUMMARY:Tennessee Titans vs Cleveland Browns
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_p-1C\n\nGameday Stadium Info: https://stza.co/+li_p-J\n\nShop: https://stza.co/+li_p-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Indianapolis Colts
+END:VALARM
+DTSTART:20161023T170000Z
+DTEND:20161023T200000Z
+UID:DChFJoKSmpD9ssP2op_X6_zq@stanza.co
+SUMMARY:Tennessee Titans vs Indianapolis Colts
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_q-c\n\nGameday Info: https://stza.co/+li_q-2i\n\nShop: https://stza.co/+li_q-20\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Jacksonville Jaguars
+END:VALARM
+DTSTART:20161028T002500Z
+DTEND:20161028T032500Z
+UID:YypRc8ib12e3J4Z9tx7w44mc@stanza.co
+SUMMARY:Tennessee Titans vs Jacksonville Jaguars
+DESCRIPTION:TV: NFL Network | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_s-39\n\nGameday Stadium Info: https://stza.co/+li_s-3L\n\nShop: https://stza.co/+li_s-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at San Diego Chargers
+END:VALARM
+DTSTART:20161106T212500Z
+DTEND:20161107T002500Z
+UID:0pcTKFBrmTSiAb3C4aAP4XQR@stanza.co
+SUMMARY:Tennessee Titans at San Diego Chargers
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_u-k\n\nVIP Travel Packages https://stza.co/+li_u-19\n\nShop: https://stza.co/+li_u-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Qualcomm Stadium\, San Diego\, CA\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Green Bay Packers
+END:VALARM
+DTSTART:20161113T180000Z
+DTEND:20161113T210000Z
+UID:1mhlekF_HtUkC_EIMHR_rCaD@stanza.co
+SUMMARY:Tennessee Titans vs Green Bay Packers
+DESCRIPTION:TV: FOX | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_v-1t\n\nGameday Stadium Info: https://stza.co/+li_v-2b\n\nShop: https://stza.co/+li_v-2K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Indianapolis Colts
+END:VALARM
+DTSTART:20161120T180000Z
+DTEND:20161120T210000Z
+UID:gL9onnqr5e71bRUh4A44BnFl@stanza.co
+SUMMARY:Tennessee Titans at Indianapolis Colts
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_w-6\n\nVIP Travel Packages: https://stza.co/+li_w-2z\n\nShop: https://stza.co/+li_w-1n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, South Capitol Avenue\, Indianapolis\, IN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Chicago Bears
+END:VALARM
+DTSTART:20161127T180000Z
+DTEND:20161127T210000Z
+UID:Lbql-3sXU_e0BGQlusWopVs9@stanza.co
+SUMMARY:Tennessee Titans at Chicago Bears
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_x-3Z\n\nVIP Travel Packages: https://stza.co/+li_x-2H\n\nShop: https://stza.co/+li_x-2c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, Museum Campus Drive\, Chicago\, IL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Denver Broncos
+END:VALARM
+DTSTART:20161211T180000Z
+DTEND:20161211T210000Z
+UID:jQkyQULS71JlDVcj_5qOma2e@stanza.co
+SUMMARY:Tennessee Titans vs Denver Broncos
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_y-3k\n\nGameday Stadium Info: https://stza.co/+li_y-3t\n\nShop: https://stza.co/+li_y-1m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Kansas City Chiefs
+END:VALARM
+DTSTART:20161218T180000Z
+DTEND:20161218T210000Z
+UID:LbCFLmcykdjUVfMCzoYw2rNr@stanza.co
+SUMMARY:Tennessee Titans at Kansas City Chiefs
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_z-1X\n\nVIP Travel Packages: https://stza.co/+li_z-3S\n\nShop: https://stza.co/+li_z-3D\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, Arrowhead Drive\, KCMO\, MO\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans at Jacksonville Jaguars
+END:VALARM
+DTSTART:20161224T180000Z
+DTEND:20161224T210000Z
+UID:pa1Qon3nk8x4imliNt5ra7O_@stanza.co
+SUMMARY:Tennessee Titans at Jacksonville Jaguars
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets: https://stza.co/+li_A-2F\n\nVIP Travel Packages: https://stza.co/+li_A-3g\n\nShop: https://stza.co/+li_A-2E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:EverBank Field\, Jacksonville\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Houston Texans
+END:VALARM
+DTSTART:20170101T180000Z
+DTEND:20170101T210000Z
+UID:r427AZkRJP4D4FdHcoem62O_@stanza.co
+SUMMARY:Tennessee Titans vs Houston Texans
+DESCRIPTION:TV: CBS | Radio: TitansRadio.com\n\nBuy Tickets https://stza.co/+li_B-2a\n\nGameday Stadium Info: https://stza.co/+li_B-a\n\nShop: https://stza.co/+li_B-2h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Tennessee Titans vs Miami Dolphins
+END:VALARM
+DTSTART:20160901T230000Z
+DTEND:20160902T020000Z
+UID:QARnJPJ8VCfm2Hgb8O6GYpre@stanza.co
+SUMMARY:Tennessee Titans vs Miami Dolphins
+DESCRIPTION:TV: WKRN News 2 | Radio: TitansRadio.com\n\nBuy Tickets https://stza.co/+lWRm-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sun Life Stadium\, Miami Gardens\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T052341Z
+CREATED:20170421T052341Z
+LAST-MODIFIED:20170421T052341Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:New York Jets
+X-WR-CALNAME:New York Jets
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Bills
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:p3HcX1jZn-lzvuxWwq_kGGlB@stanza.co
+SUMMARY:Jets at Bills
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Raiders
+END:VALARM
+DTSTART:20170917T200500Z
+DTEND:20170917T230500Z
+UID:No4WUfdpjhUAXtxZbGqKaUkB@stanza.co
+SUMMARY:Jets at Raiders
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Dolphins
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:TRYR9QfEIctxbzi2ISKr7PiC@stanza.co
+SUMMARY:Jets vs Dolphins
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Jaguars
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:BeFRUGu0j0EBLA0_BZc-dkjw@stanza.co
+SUMMARY:Jets vs Jaguars
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX3P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Browns
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:uZxanA_q3Fx2LquxrzIZ0Aum@stanza.co
+SUMMARY:Jets at Browns
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Patriots
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:DH_s39XS3eINmXlmLSupfyAg@stanza.co
+SUMMARY:Jets vs Patriots
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX3S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Dolphins
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:uEMHz_JcVsDb-0GQ-JcAHnXp@stanza.co
+SUMMARY:Jets at Dolphins
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Falcons
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:JTjiKc51NbahgUctz6yh6nxs@stanza.co
+SUMMARY:Jets vs Falcons
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Bills
+END:VALARM
+DTSTART:20171103T002500Z
+DTEND:20171103T032500Z
+UID:WWZPmsp_JVjnjzADaseBZ3YL@stanza.co
+SUMMARY:Jets vs Bills
+DESCRIPTION:Watch the game on NFL NETWORK!\n\nBuy tickets here: https://stza.co/~pX3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Buccaneers
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:F9v_YOcXQxFpZqP5McZoZ71Y@stanza.co
+SUMMARY:Jets at Buccaneers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Panthers
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:SLVLHz1d26yDXrdqgSWFUyp6@stanza.co
+SUMMARY:Jets vs Panthers
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Chiefs
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:3ElKGEfocu21-pBw4F-Iuxy6@stanza.co
+SUMMARY:Jets vs Chiefs
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX40\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Broncos
+END:VALARM
+DTSTART:20171210T210500Z
+DTEND:20171211T000500Z
+UID:Trz2p4jF9RPnvPTyQMWnV9x4@stanza.co
+SUMMARY:Jets at Broncos
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Saints
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:2Fuh7d9Macl3vLCSz78UZa4X@stanza.co
+SUMMARY:Jets at Saints
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets vs Chargers
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:KBIfX_DW9OTJfph79X-33nNr@stanza.co
+SUMMARY:Jets vs Chargers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Jets at Patriots
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:TOO5vLYmvm8WcEhRl8yWbfPt@stanza.co
+SUMMARY:Jets at Patriots
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T050302Z
+CREATED:20170421T050302Z
+LAST-MODIFIED:20170421T050302Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

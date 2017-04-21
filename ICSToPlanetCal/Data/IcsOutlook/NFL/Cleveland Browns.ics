@@ -1,0 +1,314 @@
+BEGIN:VCALENDAR
+NAME:Cleveland Browns
+X-WR-CALNAME:Cleveland Browns
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Ravens (Week 10)
+END:VALARM
+DTSTART:20161111T012500Z
+DTEND:20161111T042500Z
+UID:qACyuMue0NvqkZNBKvoCvQwI@stanza.co
+SUMMARY:Browns at Ravens (Week 10)
+DESCRIPTION:Watch on NFL Network or on your favorite devices here: http://bit.ly/2eSUR9o\n\nBuy tickets here: https://stza.co/~lht1\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Watch on NFL Network or on your favorite devices here: http://bit.ly/2eSUR9o
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Steelers
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:T0DvXwEhH-GhTf4rnKNappHZ@stanza.co
+SUMMARY:Browns vs Steelers
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX03\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Ravens
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:PRvWjUzzJRYKN4EfiJEhWcHZ@stanza.co
+SUMMARY:Browns at Ravens
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:M&T Bank Stadium\, 1101 Russell St\, Baltimore\, MD 21230
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Colts
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:-yqW3-ZdZ17WsBuQKwQfqAch@stanza.co
+SUMMARY:Browns at Colts
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Bengals
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:3v2-Gr6YQgzsUEhmOkjizUKg@stanza.co
+SUMMARY:Browns vs Bengals
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX07\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Jets
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:RiVwanqfywGizWQGoZxGPBl9@stanza.co
+SUMMARY:Browns vs Jets
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX09\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Texans
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:fOjDqdFZA4666iecUNQMN63H@stanza.co
+SUMMARY:Browns at Texans
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Titans
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:M5Q85oapCPEJ0nDfIJXVEvp6@stanza.co
+SUMMARY:Browns vs Titans
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX0c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Vikings
+END:VALARM
+DTSTART:20171029T133000Z
+DTEND:20171029T163000Z
+UID:f4wsRApd8qGdVQcWrd-qmJbA@stanza.co
+SUMMARY:Browns vs Vikings
+DESCRIPTION:Watch the game on NFL NETWORK!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Twickenham Stadium\, Twickenham\, 
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Lions
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:U8QtfqSSSO7-8mFTgEHTgTBy@stanza.co
+SUMMARY:Browns at Lions
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Jaguars
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:W8XXNuqV02H0VO2Mp5nzwk1q@stanza.co
+SUMMARY:Browns vs Jaguars
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX0h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Bengals
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:S9ImbwV3JdfUf3LXALOfZc4Y@stanza.co
+SUMMARY:Browns at Bengals
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium\, 1 Paul Brown Stadium\, Cincinnati\, OH 45202
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Chargers
+END:VALARM
+DTSTART:20171203T210500Z
+DTEND:20171204T000500Z
+UID:14DFWvdVBjIIU6fUqfVGRMx0@stanza.co
+SUMMARY:Browns at Chargers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, Carson\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Packers
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:_zCSM4IoO4OzEoyFxo9WeC2c@stanza.co
+SUMMARY:Browns vs Packers
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX0l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns vs Ravens
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:7GGYY3UZp3krF3Ztw6Rg0Rcc@stanza.co
+SUMMARY:Browns vs Ravens
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX0n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FirstEnergy Stadium\, 100 Alfred Lerner Way\, Cleveland\, OH 44114
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Bears
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:eZqexia25TdkbVqTDn_6ydNP@stanza.co
+SUMMARY:Browns at Bears
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Browns at Steelers
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:ZB-ZF7cGSgqimKfMl4EGwNzW@stanza.co
+SUMMARY:Browns at Steelers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T052004Z
+CREATED:20170421T052004Z
+LAST-MODIFIED:20170421T052004Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

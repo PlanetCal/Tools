@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Buffalo Bills
+X-WR-CALNAME:Buffalo Bills
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Jets
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:7mkJd8t3HqW3EefOdXzQf1Ed@stanza.co
+SUMMARY:Bills vs Jets
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1T-3p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Panthers
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:3tJ1kIQSHLEI7aT418n7-tKE@stanza.co
+SUMMARY:Bills at Panthers
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1V-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Broncos
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:qYNTqn7-fllxdlisRRqrPpzx@stanza.co
+SUMMARY:Bills vs Broncos
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1W-2I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Falcons
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:JbpATM3ABx7oAzfHgB5l6sEP@stanza.co
+SUMMARY:Bills at Falcons
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1Y-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Bengals
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:dO1yCt4VUXTP8Kx0hIfRMM0G@stanza.co
+SUMMARY:Bills at Bengals
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1Z-5\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium\, 1 Paul Brown Stadium\, Cincinnati\, OH 45202
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Buccaneers
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:u6D0RGz-BSTjYklETTOk6kEf@stanza.co
+SUMMARY:Bills vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX1_-1Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Raiders
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:AE4ewo_0gxoF_cCHetg_zW3e@stanza.co
+SUMMARY:Bills vs Raiders
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX20-3j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Jets
+END:VALARM
+DTSTART:20171103T002500Z
+DTEND:20171103T032500Z
+UID:V-yeaECLrFnqehi6-EzTLruR@stanza.co
+SUMMARY:Bills at Jets
+DESCRIPTION:Watch the game on NFL NETWORK!\n\nBuy Gear Here: https://stza.co/+pX22-C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Saints
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:-F0irK-UJlRwcEJA0TyZf-Ia@stanza.co
+SUMMARY:Bills vs Saints
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX23-1v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Chargers
+END:VALARM
+DTSTART:20171119T210500Z
+DTEND:20171120T000500Z
+UID:eQVJShmnrSPrsWVxjL5wDATM@stanza.co
+SUMMARY:Bills at Chargers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX25-1E\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, Carson\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Chiefs
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:erqJqCvAm_zSKk0ypKp9weJD@stanza.co
+SUMMARY:Bills at Chiefs
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX26-24\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Patriots
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:IQSaT30yskJyG2XK9upMLAfe@stanza.co
+SUMMARY:Bills vs Patriots
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX27-Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Colts
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:AU62pLJ1b1qoQTfqhg9VOIAE@stanza.co
+SUMMARY:Bills vs Colts
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX29-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills vs Dolphins
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:Ah-MKCNeRKOVla2cBA5zWHIY@stanza.co
+SUMMARY:Bills vs Dolphins
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX2b-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Patriots
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:B-WvrhhKkhseW8jAmfVdHVsX@stanza.co
+SUMMARY:Bills at Patriots
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX2d-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Bills at Dolphins
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:cFTXXA7E7pd07XB8bWijXw0P@stanza.co
+SUMMARY:Bills at Dolphins
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX2e-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T045640Z
+CREATED:20170421T045640Z
+LAST-MODIFIED:20170421T045640Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

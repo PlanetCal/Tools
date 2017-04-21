@@ -1,0 +1,404 @@
+BEGIN:VCALENDAR
+NAME:San Francisco 49ers - 2017 Season
+X-WR-CALNAME:San Francisco 49ers - 2017 Season
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Rams
+END:VALARM
+DTSTART:20160913T022000Z
+DTEND:20160913T052000Z
+UID:LOeBVneSUv1nOIE8I-B09vo8@stanza.co
+SUMMARY:49ers vs Rams
+DESCRIPTION:Join the Faithful 49 Loyalty Program Presented By Esurance and get rewarded for being a loyal fan: http://bit.ly/2c6nCCa\n\nWatch the game on ESPN!\n\nBuy tickets here: https://stza.co/~lhwA\n\nDownload the 49ers App from iTunes: https://stza.co/+lhwA-3m\n\nDownload the 49ers App from Google Play: https://stza.co/+lhwA-30\n\nDownload the Levi's Stadium App: https://stza.co/+lhwA-2b\n\nTeam Store: https://stza.co/+lhwA-3K\n\nBuy Gear Here: https://stza.co/+lhwA-26\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Join the Faithful 49 Loyalty Program Presented By Esurance and get rewarded for being a loyal fan: http://bit.ly/2c6nCCa
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Panthers
+END:VALARM
+DTSTART:20160918T170000Z
+DTEND:20160918T200000Z
+UID:nJN-HAE3lzOgTUqNhWD5B-Px@stanza.co
+SUMMARY:49ers at Panthers
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhwC\n\nDownload the 49ers App from iTunes: https://stza.co/+lhwC-2m\n\nDownload the 49ers App from Google Play: https://stza.co/+lhwC-2I\n\nDownload the Levi's Stadium App: https://stza.co/+lhwC-3R\n\nTeam Store: https://stza.co/+lhwC-3u\n\nBuy Gear Here: https://stza.co/+lhwC-1z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Join the Faithful 49 Loyalty Program Presented By Esurance and get rewarded for being a loyal fan: http://bit.ly/2c6nCCa
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Seahawks
+END:VALARM
+DTSTART:20160925T200500Z
+DTEND:20160925T230500Z
+UID:VX6uMBSyU9rgGG17jjruPqJX@stanza.co
+SUMMARY:49ers at Seahawks
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhwD\n\nDownload the 49ers App from iTunes: https://stza.co/+lhwD-3N\n\nDownload the 49ers App from Google Play: https://stza.co/+lhwD-w\n\nDownload the Levi's Stadium App: https://stza.co/+lhwD-2E\n\nTeam Store: https://stza.co/+lhwD-1T\n\nBuy Gear Here: https://stza.co/+lhwD-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Join the Faithful 49 Loyalty Program Presented By Esurance and get rewarded for being a loyal fan: http://bit.ly/2c6nCCa
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT2880M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Cowboys
+END:VALARM
+DTSTART:20161002T202500Z
+DTEND:20161002T232500Z
+UID:EAYIFxTVUIEaW81pVk8lTSM9@stanza.co
+SUMMARY:49ers vs Cowboys
+DESCRIPTION:See how you can gain yards for free rewards with the Faithful 49 Program presented by Esurance: http://bit.ly/2dxPA6y\n\nWatch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhwE\n\nDownload the 49ers App from iTunes: https://stza.co/+lhwE-2q\n\nDownload the 49ers App from Google Play: https://stza.co/+lhwE-8\n\nDownload the Levi's Stadium App: https://stza.co/+lhwE-2l\n\nTeam Store: https://stza.co/+lhwE-3G\n\nBuy Gear Here: https://stza.co/+lhwE-3F\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for Sunday's game! Click to be there http://ticketmaster.evyy.net/c/258437/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F1C00508BBA474A9E
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Cardinals
+END:VALARM
+DTSTART:20161007T002500Z
+DTEND:20161007T032500Z
+UID:9bZGOh3lrfMOrpXmXscqL8ZM@stanza.co
+SUMMARY:49ers vs Cardinals
+DESCRIPTION:See how you can win prizes for following the Niners with faithful49 rewards presented by Esurance here: http://bit.ly/2e5PMxB\n\nWatch the game on CBS!\n\nBuy tickets here: https://stza.co/~lhwG\n\nDownload the 49ers App from iTunes: https://stza.co/+lhwG-3A\n\nDownload the 49ers App from Google Play: https://stza.co/+lhwG-X\n\nDownload the Levi's Stadium App: https://stza.co/+lhwG-1Y\n\nTeam Store: https://stza.co/+lhwG-3x\n\nBuy Gear Here: https://stza.co/+lhwG-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:See how you can win prizes for following the Niners with faithful49 rewards presented by Esurance here: http://bit.ly/2e5PMxB
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT2880M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Buccaneers
+END:VALARM
+DTSTART:20161023T200500Z
+DTEND:20161023T230500Z
+UID:vzM9bs_JqVuz0blA6KAIz_fg@stanza.co
+SUMMARY:49ers vs Buccaneers
+DESCRIPTION:Get rewarded for being a 49ers faithful with Faithful 49 Rewards presented by Esurance: http://bit.ly/2e5PMxB\n\nWatch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhwJ\n\nDownload the 49ers App from iTunes: https://stza.co/+lhwJ-2L\n\nDownload the 49ers App from Google Play: https://stza.co/+lhwJ-$\n\nDownload the Levi's Stadium App: https://stza.co/+lhwJ-14\n\nTeam Store: https://stza.co/+lhwJ-3T\n\nBuy Gear Here: https://stza.co/+lhwJ-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for Sunday's game! Click to be there http://ticketmaster.evyy.net/c/258437/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F1C00508BBA554AAB
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Panthers
+END:VALARM
+DTSTART:20170910T202500Z
+DTEND:20170910T232500Z
+UID:pGB7eicH6LqttGLoteqU5f09@stanza.co
+SUMMARY:49ers vs Panthers
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2D-37\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2D-1b\n\nDownload the Levi's Stadium App: https://stza.co/+pX2D-1n\n\nTeam Store: https://stza.co/+pX2D-2N\n\nBuy Gear Here: https://stza.co/+pX2D-l\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Seahawks
+END:VALARM
+DTSTART:20170917T202500Z
+DTEND:20170917T232500Z
+UID:D2cYdHbo0bcpf_uwNJRxxkl8@stanza.co
+SUMMARY:49ers at Seahawks
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2F-1Z\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2F-28\n\nDownload the Levi's Stadium App: https://stza.co/+pX2F-Y\n\nTeam Store: https://stza.co/+pX2F-1b\n\nBuy Gear Here: https://stza.co/+pX2F-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Rams
+END:VALARM
+DTSTART:20170922T002500Z
+DTEND:20170922T032500Z
+UID:rNPJ6azRhAiK-S9leORCfRKF@stanza.co
+SUMMARY:49ers vs Rams
+DESCRIPTION:Watch the game on NFL NETWORK!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2G-3c\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2G-B\n\nDownload the Levi's Stadium App: https://stza.co/+pX2G-27\n\nTeam Store: https://stza.co/+pX2G-37\n\nBuy Gear Here: https://stza.co/+pX2G-18\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Cardinals
+END:VALARM
+DTSTART:20171001T200500Z
+DTEND:20171001T230500Z
+UID:A974NF0mOPo3yHTZVQ15I6qb@stanza.co
+SUMMARY:49ers at Cardinals
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2I-21\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2I-1p\n\nDownload the Levi's Stadium App: https://stza.co/+pX2I-3t\n\nTeam Store: https://stza.co/+pX2I-3c\n\nBuy Gear Here: https://stza.co/+pX2I-1I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Colts
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:h1KLdVzX5ZnIf72OV1p1LLUi@stanza.co
+SUMMARY:49ers at Colts
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2J-1y\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2J-5\n\nDownload the Levi's Stadium App: https://stza.co/+pX2J-A\n\nTeam Store: https://stza.co/+pX2J-2Y\n\nBuy Gear Here: https://stza.co/+pX2J-2i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Redskins
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:1VnhtAYI4H37oD2OexQAEOd2@stanza.co
+SUMMARY:49ers at Redskins
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2K-2M\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2K-1s\n\nDownload the Levi's Stadium App: https://stza.co/+pX2K-1R\n\nTeam Store: https://stza.co/+pX2K-1h\n\nBuy Gear Here: https://stza.co/+pX2K-i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, 1600 Fedex Way\, Landover\, MD 20785
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Cowboys
+END:VALARM
+DTSTART:20171022T200500Z
+DTEND:20171022T230500Z
+UID:CTnLclMfzQ9Gg2-JGAlGp0eV@stanza.co
+SUMMARY:49ers vs Cowboys
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2L-3g\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2L-2F\n\nDownload the Levi's Stadium App: https://stza.co/+pX2L-3t\n\nTeam Store: https://stza.co/+pX2L-3w\n\nBuy Gear Here: https://stza.co/+pX2L-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Eagles
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:IEuWciqxbzmqzM3RC9BlZYZ8@stanza.co
+SUMMARY:49ers at Eagles
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2N-$\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2N-2D\n\nDownload the Levi's Stadium App: https://stza.co/+pX2N-U\n\nTeam Store: https://stza.co/+pX2N-2Y\n\nBuy Gear Here: https://stza.co/+pX2N-R\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lincoln Financial Field\, 1 Lincoln Financial Field Way\, Philadelphia\, PA 19147
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Cardinals
+END:VALARM
+DTSTART:20171105T210500Z
+DTEND:20171106T000500Z
+UID:XJiHE6lOJEEVndTyxJPQpXM0@stanza.co
+SUMMARY:49ers vs Cardinals
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2O-3U\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2O-1N\n\nDownload the Levi's Stadium App: https://stza.co/+pX2O-2L\n\nTeam Store: https://stza.co/+pX2O-1v\n\nBuy Gear Here: https://stza.co/+pX2O-K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Giants
+END:VALARM
+DTSTART:20171112T212500Z
+DTEND:20171113T002500Z
+UID:XlqDqPmGrAauA--CFR3XN4Zs@stanza.co
+SUMMARY:49ers vs Giants
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2Q-2E\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2Q-18\n\nDownload the Levi's Stadium App: https://stza.co/+pX2Q-1e\n\nTeam Store: https://stza.co/+pX2Q-D\n\nBuy Gear Here: https://stza.co/+pX2Q-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Seahawks
+END:VALARM
+DTSTART:20171126T210500Z
+DTEND:20171127T000500Z
+UID:93Myv0z1wMydG3JgrY7QQ0ek@stanza.co
+SUMMARY:49ers vs Seahawks
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2S-3M\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2S-b\n\nDownload the Levi's Stadium App: https://stza.co/+pX2S-2d\n\nTeam Store: https://stza.co/+pX2S-23\n\nBuy Gear Here: https://stza.co/+pX2S-2y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Bears
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:u7BebotTF0uwW1g4_e3DNIOW@stanza.co
+SUMMARY:49ers at Bears
+DESCRIPTION:Watch the game on CBS!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2U-21\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2U-12\n\nDownload the Levi's Stadium App: https://stza.co/+pX2U-2v\n\nTeam Store: https://stza.co/+pX2U-2W\n\nBuy Gear Here: https://stza.co/+pX2U-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Texans
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:__CzAPtW3G77H1O7LpJAg6FH@stanza.co
+SUMMARY:49ers at Texans
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2V-29\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2V-V\n\nDownload the Levi's Stadium App: https://stza.co/+pX2V-2R\n\nTeam Store: https://stza.co/+pX2V-2o\n\nBuy Gear Here: https://stza.co/+pX2V-2B\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Titans
+END:VALARM
+DTSTART:20171217T212500Z
+DTEND:20171218T002500Z
+UID:ar8C-c01KKv9gzSVPuR1wBCp@stanza.co
+SUMMARY:49ers vs Titans
+DESCRIPTION:Watch the game on CBS!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2W-3x\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2W-2R\n\nDownload the Levi's Stadium App: https://stza.co/+pX2W-E\n\nTeam Store: https://stza.co/+pX2W-3L\n\nBuy Gear Here: https://stza.co/+pX2W-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers vs Jaguars
+END:VALARM
+DTSTART:20171224T210500Z
+DTEND:20171225T000500Z
+UID:NnoU4fZdIx5subec12TS4r-Z@stanza.co
+SUMMARY:49ers vs Jaguars
+DESCRIPTION:Watch the game on CBS!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2Y-1E\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2Y-3u\n\nDownload the Levi's Stadium App: https://stza.co/+pX2Y-1C\n\nTeam Store: https://stza.co/+pX2Y-1o\n\nBuy Gear Here: https://stza.co/+pX2Y-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:49ers at Rams
+END:VALARM
+DTSTART:20171231T212500Z
+DTEND:20180101T002500Z
+UID:HJ0U7rzZ1Pd_F3ihTGrDUyU0@stanza.co
+SUMMARY:49ers at Rams
+DESCRIPTION:Watch the game on FOX!\n\nDownload the 49ers App from iTunes: https://stza.co/+pX2_-2n\n\nDownload the 49ers App from Google Play: https://stza.co/+pX2_-Z\n\nDownload the Levi's Stadium App: https://stza.co/+pX2_-3C\n\nTeam Store: https://stza.co/+pX2_-M\n\nBuy Gear Here: https://stza.co/+pX2_-3w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170421T044535Z
+CREATED:20170421T044535Z
+LAST-MODIFIED:20170421T044535Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
