@@ -1,0 +1,584 @@
+BEGIN:VCALENDAR
+NAME:Atlanta Falcons
+X-WR-CALNAME:Atlanta Falcons
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Buccaneers (Week 1)
+END:VALARM
+DTSTART:20160911T170000Z
+DTEND:20160911T200000Z
+UID:xUQy5wD5UosZUjY6tIw-bCqy@stanza.co
+SUMMARY:Falcons vs Buccaneers (Week 1)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuk\n\nTickets https://stza.co/+lhuk-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Raiders (Week 2)
+END:VALARM
+DTSTART:20160918T202500Z
+DTEND:20160918T232500Z
+UID:yMEf-DRGVRU38XR-sYdFEUMh@stanza.co
+SUMMARY:Falcons at Raiders (Week 2)
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~lhum\n\nTickets https://stza.co/+lhum-1G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Saints (Week 3)
+END:VALARM
+DTSTART:20160927T003000Z
+DTEND:20160927T033000Z
+UID:O8GqMU7noHergTfej2USKWmr@stanza.co
+SUMMARY:Falcons at Saints (Week 3)
+DESCRIPTION:Watch the game on ESPN!\n\nBuy tickets here: https://stza.co/~lhun\n\nTickets https://stza.co/+lhun-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Panthers (Week 4)
+END:VALARM
+DTSTART:20161002T170000Z
+DTEND:20161002T200000Z
+UID:RKiFK1-aY86aCHbVmNMPflXP@stanza.co
+SUMMARY:Falcons vs Panthers (Week 4)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuo\n\nTickets https://stza.co/+lhuo-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Tickets are still available for Sunday's game! Click here to grab seats http://ticketmaster.evyy.net/c/258437/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E00508ED3D9BD95
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Broncos (Week 5)
+END:VALARM
+DTSTART:20161009T200500Z
+DTEND:20161009T230500Z
+UID:OPTlxSJvzQJZ1l-U3B3slgSI@stanza.co
+SUMMARY:Falcons at Broncos (Week 5)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuq\n\nTIckets https://stza.co/+lhuq-3h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Seahawks (Week 6)
+END:VALARM
+DTSTART:20161016T202500Z
+DTEND:20161016T232500Z
+UID:4nCushwjijhlaWfNg0mZSVk9@stanza.co
+SUMMARY:Falcons at Seahawks (Week 6)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhur\n\nTickets https://stza.co/+lhur-3m\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT2880M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Chargers (Week 7)
+END:VALARM
+DTSTART:20161023T200500Z
+DTEND:20161023T230500Z
+UID:TUr1FjYZLo32IYuaPzWYV2iU@stanza.co
+SUMMARY:Falcons vs Chargers (Week 7)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhus\n\nTickets https://stza.co/+lhus-3K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for Sunday's game! Click to be there http://ticketmaster.evyy.net/c/258437/264167/4272?u=http%3A%2F%2Fticketmaster.com%2Fevent%2F0E00508ED3FEBE5F
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT2880M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Packers (Week 8)
+END:VALARM
+DTSTART:20161030T202500Z
+DTEND:20161030T232500Z
+UID:L091sUSsY0WOzmWKVe8GbcFj@stanza.co
+SUMMARY:Falcons vs Packers (Week 8)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuu\n\nTickets https://stza.co/+lhuu-10\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for Sunday's game! Click to be there https://stza.co/~lhuu
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Buccaneers (Week 9)
+END:VALARM
+DTSTART:20161104T002500Z
+DTEND:20161104T032500Z
+UID:JAcKPzO0XdWH6KikLOuE1TQa@stanza.co
+SUMMARY:Falcons at Buccaneers (Week 9)
+DESCRIPTION:Watch the game on NFL NETWORK!\n\nBuy tickets here: https://stza.co/~lhuw\n\nTickets https://stza.co/+lhuw-1N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Eagles (Week 10)
+END:VALARM
+DTSTART:20161113T180000Z
+DTEND:20161113T210000Z
+UID:akhn_8crIRhUsO8VTJcQxyWE@stanza.co
+SUMMARY:Falcons at Eagles (Week 10)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhux\n\nTickets https://stza.co/+lhux-o\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lincoln Financial Field\, 1 Lincoln Financial Field Way\, Philadelphia\, PA 19147
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Cardinals (Week 12)
+END:VALARM
+DTSTART:20161127T180000Z
+DTEND:20161127T210000Z
+UID:OSShwUh-MSENKVPsn1qsPO89@stanza.co
+SUMMARY:Falcons vs Cardinals (Week 12)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuy\n\nTickets https://stza.co/+lhuy-3y\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Chiefs (Week 13)
+END:VALARM
+DTSTART:20161204T180000Z
+DTEND:20161204T210000Z
+UID:N9t3q8yapU6IhF0ZxINAALFx@stanza.co
+SUMMARY:Falcons vs Chiefs (Week 13)
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~lhuA\n\nTickets https://stza.co/+lhuA-2Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Rams (Week 14)
+END:VALARM
+DTSTART:20161211T212500Z
+DTEND:20161212T002500Z
+UID:NZbs7_3WBKYYbzqT3M33bjzk@stanza.co
+SUMMARY:Falcons at Rams (Week 14)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuC\n\nBuy Tickets https://stza.co/+lhuC-1V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT2880M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs 49ers (Week 15)
+END:VALARM
+DTSTART:20161218T210500Z
+DTEND:20161219T000500Z
+UID:IM2M59CrV9ijLXRAlLpoZmwu@stanza.co
+SUMMARY:Falcons vs 49ers (Week 15)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuD\n\nTickets https://stza.co/+lhuD-3N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for Sunday's game! Click to be there https://stza.co/~lhuD
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Panthers (Week 16)
+END:VALARM
+DTSTART:20161224T180000Z
+DTEND:20161224T210000Z
+UID:ctQZYc85SIgR-KU-gpiAAnlG@stanza.co
+SUMMARY:Falcons at Panthers (Week 16)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuF\n\nTickets https://stza.co/+lhuF-3k\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT2880M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Saints (Week 17)
+END:VALARM
+DTSTART:20170101T212500Z
+DTEND:20170102T002500Z
+UID:aVhpDv6aBuCGYQbEp4-9dsWs@stanza.co
+SUMMARY:Falcons vs Saints (Week 17)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~lhuG\n\nTickets https://stza.co/+lhuG-2e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get awesome seats for Sunday's game! Click to be there https://stza.co/~lhuG
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Bears
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:2vGhDyszgrM0x0e6wUyCwS0i@stanza.co
+SUMMARY:Falcons at Bears
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Packers
+END:VALARM
+DTSTART:20170918T003000Z
+DTEND:20170918T033000Z
+UID:8gB0ipZ6RvK1oVlOtW7wmpi-@stanza.co
+SUMMARY:Falcons vs Packers
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Lions
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:MtG8IYkIAd3dgGmZ_W3NevGB@stanza.co
+SUMMARY:Falcons at Lions
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Bills
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:0g-4ZHWgi-hHoBLouDx3o9OD@stanza.co
+SUMMARY:Falcons vs Bills
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Dolphins
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:dSk5gheXtst21IEOYkgismpm@stanza.co
+SUMMARY:Falcons vs Dolphins
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Patriots
+END:VALARM
+DTSTART:20171023T003000Z
+DTEND:20171023T033000Z
+UID:51pIa6-YhjiIgc_-6XSrk-vO@stanza.co
+SUMMARY:Falcons at Patriots
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Jets
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:X-tU8j0L7HoEXdaw2RmYEVYO@stanza.co
+SUMMARY:Falcons at Jets
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Panthers
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:i55cmou9MCCiLk9C8DqI3Rfv@stanza.co
+SUMMARY:Falcons at Panthers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Cowboys
+END:VALARM
+DTSTART:20171112T212500Z
+DTEND:20171113T002500Z
+UID:uGNaA16ZPyTGKO_x78D9mlga@stanza.co
+SUMMARY:Falcons vs Cowboys
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Seahawks
+END:VALARM
+DTSTART:20171121T013000Z
+DTEND:20171121T043000Z
+UID:M6uqEzj0634t9hQEmOeiNpyB@stanza.co
+SUMMARY:Falcons at Seahawks
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Buccaneers
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:FjgOwx84bDmfQVbJy5mAbFJM@stanza.co
+SUMMARY:Falcons vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Vikings
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:q54h4Blw6D2ZcfX_vD1xi-NQ@stanza.co
+SUMMARY:Falcons vs Vikings
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Saints
+END:VALARM
+DTSTART:20171208T012500Z
+DTEND:20171208T042500Z
+UID:wuJ79-o7wcHU8oWhNzBoSC4n@stanza.co
+SUMMARY:Falcons vs Saints
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Buccaneers
+END:VALARM
+DTSTART:20171219T013000Z
+DTEND:20171219T043000Z
+UID:2IIt3jJ7ChumvCCRO09qYK_K@stanza.co
+SUMMARY:Falcons at Buccaneers
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons at Saints
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:9Y8ibZ-FINKwhv4lixa4p4Db@stanza.co
+SUMMARY:Falcons at Saints
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Falcons vs Panthers
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:AV_1IgatX-HbFYPssuklzUrm@stanza.co
+SUMMARY:Falcons vs Panthers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025844Z
+CREATED:20170421T025844Z
+LAST-MODIFIED:20170421T025844Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

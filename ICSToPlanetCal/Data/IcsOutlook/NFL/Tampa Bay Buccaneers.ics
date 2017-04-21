@@ -1,0 +1,368 @@
+BEGIN:VCALENDAR
+NAME:Tampa Bay Buccaneers
+X-WR-CALNAME:Tampa Bay Buccaneers
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Bengals
+END:VALARM
+DTSTART:20170811T233000Z
+DTEND:20170812T023000Z
+UID:mSf3vhZZs-bhayWhgXA0TDQ7@stanza.co
+SUMMARY:Buccaneers at Bengals
+DESCRIPTION:Buccaneers at Bengals\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium\, Cincinnati\, OH\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Jaguars
+END:VALARM
+DTSTART:20170818T000000Z
+DTEND:20170818T030000Z
+UID:Q45bjuW7F5mOeO5mw-x0I3g_@stanza.co
+SUMMARY:Buccaneers at Jaguars
+DESCRIPTION:Buccaneers at Jaguars\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:EverBank Field\, Jacksonville\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Browns
+END:VALARM
+DTSTART:20170826T233000Z
+DTEND:20170827T023000Z
+UID:e3Y019unLukSdCnbA9hDy2Nh@stanza.co
+SUMMARY:Buccaneers vs Browns
+DESCRIPTION:Buccaneers vs Browns\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, North Dale Mabry Highway\, Tampa\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Redskins
+END:VALARM
+DTSTART:20170831T233000Z
+DTEND:20170901T023000Z
+UID:_2IH_4SN4mIG8QLhfP9sL5JK@stanza.co
+SUMMARY:Buccaneers vs Redskins
+DESCRIPTION:Buccaneers vs Redskins\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, North Dale Mabry Highway\, Tampa\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Dolphins
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:KT0oMI0Gmgg8vph4-0vGU0c1@stanza.co
+SUMMARY:Buccaneers at Dolphins
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Bears
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:DIw5Vpj4w1nVLfFCdH58t-HC@stanza.co
+SUMMARY:Buccaneers vs Bears
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Vikings
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:FA5iq7CKEIX6S2DEZJsdt4MJ@stanza.co
+SUMMARY:Buccaneers at Vikings
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Giants
+END:VALARM
+DTSTART:20171001T200500Z
+DTEND:20171001T230500Z
+UID:tsdNcoUqPpPFJXQIX_nrGZDc@stanza.co
+SUMMARY:Buccaneers vs Giants
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Patriots
+END:VALARM
+DTSTART:20171006T002500Z
+DTEND:20171006T032500Z
+UID:qT97iBOjoxeOgYSJwfukb6hY@stanza.co
+SUMMARY:Buccaneers vs Patriots
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Cardinals
+END:VALARM
+DTSTART:20171015T200500Z
+DTEND:20171015T230500Z
+UID:1vj_gtxQiI17s7hZUndkbBkn@stanza.co
+SUMMARY:Buccaneers at Cardinals
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Bills
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:pX4i08RXOdie7ljvcRnRVzro@stanza.co
+SUMMARY:Buccaneers at Bills
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Panthers
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:j0VdcbnxFhpOLNsCnULI0-Ed@stanza.co
+SUMMARY:Buccaneers vs Panthers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Saints
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:YY4zIH7AEYsVYZgJ8C7GV3Hk@stanza.co
+SUMMARY:Buccaneers at Saints
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Jets
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:r3jeN9Q8e5EUt1SJAOwHu0y9@stanza.co
+SUMMARY:Buccaneers vs Jets
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Falcons
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:GSlppxFdf1iGXF4O_7o_bzCJ@stanza.co
+SUMMARY:Buccaneers at Falcons
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Packers
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:ieSrQuOuM5g3ZrnB--ADfVdi@stanza.co
+SUMMARY:Buccaneers at Packers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Lions
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:LLfQj0IiIvtGrIt1HGw99pBr@stanza.co
+SUMMARY:Buccaneers vs Lions
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Falcons
+END:VALARM
+DTSTART:20171219T013000Z
+DTEND:20171219T043000Z
+UID:XxPI5Ish6-8BLghdUluvZwWd@stanza.co
+SUMMARY:Buccaneers vs Falcons
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers at Panthers
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:ikuwADHu7BPjupI6r4L4sdMX@stanza.co
+SUMMARY:Buccaneers at Panthers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Buccaneers vs Saints
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:1xsVW5_uKQ68acU4gQ7l5cJB@stanza.co
+SUMMARY:Buccaneers vs Saints
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T025949Z
+CREATED:20170421T025949Z
+LAST-MODIFIED:20170421T025949Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

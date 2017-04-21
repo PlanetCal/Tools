@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Oakland Raiders
+X-WR-CALNAME:Oakland Raiders
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Titans
+END:VALARM
+DTSTART:20170910T170000Z
+DTEND:20170910T200000Z
+UID:wlW3KE7-kmOCMBWOUbmQft9z@stanza.co
+SUMMARY:Raiders at Titans
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1b-38\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Jets
+END:VALARM
+DTSTART:20170917T200500Z
+DTEND:20170917T230500Z
+UID:ViPDw_GRb-AYkWLLyum7Esbh@stanza.co
+SUMMARY:Raiders vs Jets
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1c-2a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Redskins
+END:VALARM
+DTSTART:20170925T003000Z
+DTEND:20170925T033000Z
+UID:-Bn4GB4dTTV_d5cp3ndn33Qy@stanza.co
+SUMMARY:Raiders at Redskins
+DESCRIPTION:Watch the game on NBC!\n\nBuy Gear Here: https://stza.co/+pX1e-2d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, 1600 Fedex Way\, Landover\, MD 20785
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Broncos
+END:VALARM
+DTSTART:20171001T202500Z
+DTEND:20171001T232500Z
+UID:ad-ok3wlfrxyNbBRqJdKgw_D@stanza.co
+SUMMARY:Raiders at Broncos
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1f-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Ravens
+END:VALARM
+DTSTART:20171008T200500Z
+DTEND:20171008T230500Z
+UID:lybcdEtkQ1sJjGukTzZs5f6k@stanza.co
+SUMMARY:Raiders vs Ravens
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1g-3C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Chargers
+END:VALARM
+DTSTART:20171015T202500Z
+DTEND:20171015T232500Z
+UID:LkFz4WGGnquwujBi_IM_INw0@stanza.co
+SUMMARY:Raiders vs Chargers
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1i-3Z\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Chiefs
+END:VALARM
+DTSTART:20171020T002500Z
+DTEND:20171020T032500Z
+UID:qR_phG0xjwBoXLocTd8wQzcL@stanza.co
+SUMMARY:Raiders vs Chiefs
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1k-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Bills
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:xLWmO-ywlylfSS9NeH8CHw5V@stanza.co
+SUMMARY:Raiders at Bills
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1m-3H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Dolphins
+END:VALARM
+DTSTART:20171106T013000Z
+DTEND:20171106T043000Z
+UID:eZlfK5Hb3C2OebyH5uP_96Zp@stanza.co
+SUMMARY:Raiders at Dolphins
+DESCRIPTION:Watch the game on NBC!\n\nBuy Gear Here: https://stza.co/+pX1n-1a\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Patriots
+END:VALARM
+DTSTART:20171119T212500Z
+DTEND:20171120T002500Z
+UID:t2T1fN6X-3OzjVsmQOU0jOuo@stanza.co
+SUMMARY:Raiders vs Patriots
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1o-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Estadio Azteca\, Mexico City\, 
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Broncos
+END:VALARM
+DTSTART:20171126T212500Z
+DTEND:20171127T002500Z
+UID:hmM_wy6Mhrq4vOOW-YM0vojV@stanza.co
+SUMMARY:Raiders vs Broncos
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1q-3U\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Giants
+END:VALARM
+DTSTART:20171203T212500Z
+DTEND:20171204T002500Z
+UID:hK4IF-fCeSUd5sju26UlKbb2@stanza.co
+SUMMARY:Raiders vs Giants
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX1s-3_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Chiefs
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:1klgfOsMpz17n8PxQ99W1ZWa@stanza.co
+SUMMARY:Raiders at Chiefs
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1u-A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders vs Cowboys
+END:VALARM
+DTSTART:20171218T013000Z
+DTEND:20171218T043000Z
+UID:xTkp8qeynN5ZjEE1AdBIiEdu@stanza.co
+SUMMARY:Raiders vs Cowboys
+DESCRIPTION:Watch the game on NBC!\n\nBuy Gear Here: https://stza.co/+pX1v-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Eagles
+END:VALARM
+DTSTART:20171226T013000Z
+DTEND:20171226T043000Z
+UID:DMihaX7uKpBVNDysi5aNzqCL@stanza.co
+SUMMARY:Raiders at Eagles
+DESCRIPTION:Watch the game on ESPN!\n\nBuy Gear Here: https://stza.co/+pX1x-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lincoln Financial Field\, 1 Lincoln Financial Field Way\, Philadelphia\, PA 19147
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Raiders at Chargers
+END:VALARM
+DTSTART:20171231T212500Z
+DTEND:20180101T002500Z
+UID:b1FTO2xTdTwNk9ZLa-HQpCqn@stanza.co
+SUMMARY:Raiders at Chargers
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX1y-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, Carson\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024322Z
+CREATED:20170421T024322Z
+LAST-MODIFIED:20170421T024322Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

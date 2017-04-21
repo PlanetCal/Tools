@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Denver Broncos - Denver Broncos Schedule
+X-WR-CALNAME:Denver Broncos - Denver Broncos Schedule
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Chargers
+END:VALARM
+DTSTART:20170912T022000Z
+DTEND:20170912T052000Z
+UID:3pJqC4NQKkmMiKq40kBTds_q@stanza.co
+SUMMARY:Broncos vs Chargers
+DESCRIPTION:Watch the game on ESPN!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Cowboys
+END:VALARM
+DTSTART:20170917T202500Z
+DTEND:20170917T232500Z
+UID:36Fc9Zyi7RIa4ZjuBxDcgImW@stanza.co
+SUMMARY:Broncos vs Cowboys
+DESCRIPTION:Watch the game on FOX!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Bills
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:LL0cimqVMfKa9QNnkahuTv4o@stanza.co
+SUMMARY:Broncos at Bills
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Raiders
+END:VALARM
+DTSTART:20171001T202500Z
+DTEND:20171001T232500Z
+UID:t99nj78LnPhRfi5ZimcDoRCg@stanza.co
+SUMMARY:Broncos vs Raiders
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Giants
+END:VALARM
+DTSTART:20171016T003000Z
+DTEND:20171016T033000Z
+UID:WahX3HPv0mE0sEOLMUBHqE1B@stanza.co
+SUMMARY:Broncos vs Giants
+DESCRIPTION:Watch the game on NBC!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Chargers
+END:VALARM
+DTSTART:20171022T202500Z
+DTEND:20171022T232500Z
+UID:-6GaOEnL9bubfG5awfCTIuB0@stanza.co
+SUMMARY:Broncos at Chargers
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, Carson\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Chiefs
+END:VALARM
+DTSTART:20171031T003000Z
+DTEND:20171031T033000Z
+UID:T_1p6gu_vzCBTHwsZxfHR9sf@stanza.co
+SUMMARY:Broncos at Chiefs
+DESCRIPTION:Watch the game on ESPN!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Eagles
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:opFTo3A86Ji97qzilZnDUWpp@stanza.co
+SUMMARY:Broncos at Eagles
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lincoln Financial Field\, 1 Lincoln Financial Field Way\, Philadelphia\, PA 19147
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Patriots
+END:VALARM
+DTSTART:20171113T013000Z
+DTEND:20171113T043000Z
+UID:I0lUYReNqPzP2TaTMiMsyP1o@stanza.co
+SUMMARY:Broncos vs Patriots
+DESCRIPTION:Watch the game on NBC!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Bengals
+END:VALARM
+DTSTART:20171119T212500Z
+DTEND:20171120T002500Z
+UID:j9CoCp1JsGX9lFEYMpJ9pbVd@stanza.co
+SUMMARY:Broncos vs Bengals
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Raiders
+END:VALARM
+DTSTART:20171126T212500Z
+DTEND:20171127T002500Z
+UID:z2cBzTaYH3-pSSqoHi-3PmgY@stanza.co
+SUMMARY:Broncos at Raiders
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Dolphins
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:SoxLPDiOFgk_mwOA1Lby1Yku@stanza.co
+SUMMARY:Broncos at Dolphins
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Hard Rock Stadium\, Miami Gardens\, FL
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Jets
+END:VALARM
+DTSTART:20171210T210500Z
+DTEND:20171211T000500Z
+UID:yKbuzXRKIPJOKX1v1wHCzZmw@stanza.co
+SUMMARY:Broncos vs Jets
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Colts
+END:VALARM
+DTSTART:20171215T012500Z
+DTEND:20171215T042500Z
+UID:izian6hAAUu0-MjCkjQz2Nv7@stanza.co
+SUMMARY:Broncos at Colts
+DESCRIPTION:Watch the game on NBC!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lucas Oil Stadium\, 500 S Capitol Ave\, Indianapolis\, IN 46225
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos at Redskins
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:jlFvwNeejezp6ukQ8ZF2RU8p@stanza.co
+SUMMARY:Broncos at Redskins
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, 1600 Fedex Way\, Landover\, MD 20785
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Broncos vs Chiefs
+END:VALARM
+DTSTART:20171231T212500Z
+DTEND:20180101T002500Z
+UID:YlV2hmPpf9YmTqW4jJL3VoNZ@stanza.co
+SUMMARY:Broncos vs Chiefs
+DESCRIPTION:Watch the game on CBS!\n\nFly United to a Broncos Game: \nhttp://www.united.com/CMS/en-US/Pages/denverbroncos.aspx?SID=23B563D982A14C6A855981CECA05774E \n\nDownload the Broncos Mobile App:\nhttp://www.broncosmobile.com\n\nBuy Tickets:\nhttp://www.ticketexchangebyticketmaster.com/NFL/denver-broncos-tickets/\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T024317Z
+CREATED:20170421T024317Z
+LAST-MODIFIED:20170421T024317Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

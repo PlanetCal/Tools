@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Kansas City Chiefs
+X-WR-CALNAME:Kansas City Chiefs
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Patriots
+END:VALARM
+DTSTART:20170908T003000Z
+DTEND:20170908T033000Z
+UID:DwkFLgjJ94VSPujV75ng8oAC@stanza.co
+SUMMARY:Chiefs at Patriots
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Eagles
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:_UKTe336zdn0sALjG0RtZ4BW@stanza.co
+SUMMARY:Chiefs vs Eagles
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Chargers
+END:VALARM
+DTSTART:20170924T202500Z
+DTEND:20170924T232500Z
+UID:WcJO4EsdVXJICmo968Z1hr4t@stanza.co
+SUMMARY:Chiefs at Chargers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:StubHub Center\, Carson\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Redskins
+END:VALARM
+DTSTART:20171003T003000Z
+DTEND:20171003T033000Z
+UID:t1NUszrfnzmT4QSBw5g2oWzY@stanza.co
+SUMMARY:Chiefs vs Redskins
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Texans
+END:VALARM
+DTSTART:20171009T003000Z
+DTEND:20171009T033000Z
+UID:yrmtG1okBV1ULYQuglkfPQm-@stanza.co
+SUMMARY:Chiefs at Texans
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Steelers
+END:VALARM
+DTSTART:20171015T202500Z
+DTEND:20171015T232500Z
+UID:Ams8gM-MSw9x5jGN9oL6L2OB@stanza.co
+SUMMARY:Chiefs vs Steelers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Raiders
+END:VALARM
+DTSTART:20171020T002500Z
+DTEND:20171020T032500Z
+UID:J1KvZ2_-0KL1I4BLslW9ExqQ@stanza.co
+SUMMARY:Chiefs at Raiders
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Broncos
+END:VALARM
+DTSTART:20171031T003000Z
+DTEND:20171031T033000Z
+UID:97LYN5XjCad1LY0Uzi0KtYR2@stanza.co
+SUMMARY:Chiefs vs Broncos
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Cowboys
+END:VALARM
+DTSTART:20171105T212500Z
+DTEND:20171106T002500Z
+UID:sDKppJW1t8lCEtwaSrv9pQpJ@stanza.co
+SUMMARY:Chiefs at Cowboys
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:AT&T Stadium\, 1 AT&T Way\, Arlington\, TX 76011
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Giants
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:XnHzydFWRRf9XI5zCvRJfN_y@stanza.co
+SUMMARY:Chiefs at Giants
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Bills
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:XiSZ3tKlDl1wiy9fbZbzf_DV@stanza.co
+SUMMARY:Chiefs vs Bills
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Jets
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:l3djNd55ZBj1Cs0avmmwCcIs@stanza.co
+SUMMARY:Chiefs at Jets
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Raiders
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:OvDUUurdTI55R9Y4muYs55Es@stanza.co
+SUMMARY:Chiefs vs Raiders
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Chargers
+END:VALARM
+DTSTART:20171217T012500Z
+DTEND:20171217T042500Z
+UID:DyG6SqLyp_keXiDbwAo7EkHK@stanza.co
+SUMMARY:Chiefs vs Chargers
+DESCRIPTION:Watch the game on NFL NETWORK!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs vs Dolphins
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:vFjJK__-_kjICikTAyIzbnty@stanza.co
+SUMMARY:Chiefs vs Dolphins
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, 1 Arrowhead Dr\, Kansas City\, MO 64129
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Chiefs at Broncos
+END:VALARM
+DTSTART:20171231T212500Z
+DTEND:20180101T002500Z
+UID:qakP00jMxiyWBbFurpcDzJML@stanza.co
+SUMMARY:Chiefs at Broncos
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T023632Z
+CREATED:20170421T023632Z
+LAST-MODIFIED:20170421T023632Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

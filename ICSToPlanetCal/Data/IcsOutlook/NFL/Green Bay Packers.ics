@@ -1,0 +1,1214 @@
+BEGIN:VCALENDAR
+NAME:Green Bay Packers - Green Bay Packers Games
+X-WR-CALNAME:Green Bay Packers - Green Bay Packers Games
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Colts
+END:VALARM
+DTSTART:20160808T000000Z
+DTEND:20160808T030000Z
+UID:798jnze0ogj_74Dk7wVHN-3Y@stanza.co
+SUMMARY:Packers vs Colts
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Browns
+END:VALARM
+DTSTART:20160813T000000Z
+DTEND:20160813T030000Z
+UID:onon7NpUVOjsRBZu9eibEWac@stanza.co
+SUMMARY:Packers vs Browns
+DESCRIPTION:Packers vs Browns\n\nBuy tickets here: https://stza.co/~lhC6\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Raiders
+END:VALARM
+DTSTART:20160819T000000Z
+DTEND:20160819T030000Z
+UID:XKvk-AaOA7QgDJnjKXszktPX@stanza.co
+SUMMARY:Packers vs Raiders
+DESCRIPTION:Packers vs Raiders\n\nBuy tickets here: https://stza.co/~lhC7\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at 49ers
+END:VALARM
+DTSTART:20160827T020000Z
+DTEND:20160827T043000Z
+UID:DlCEWnMVNNfMYV21VmexyMNk@stanza.co
+SUMMARY:Packers at 49ers
+DESCRIPTION:Packers at 49ers\n\nBuy tickets here: https://stza.co/~lhC8\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi’s® Stadium\, Marie P DeBartolo Way\, Santa Clara\, CA\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Chiefs
+END:VALARM
+DTSTART:20160902T000000Z
+DTEND:20160902T030000Z
+UID:ecfQUteGSEGBvxtlEADyxzls@stanza.co
+SUMMARY:Packers at Chiefs
+DESCRIPTION:Packers at Chiefs\n\nBuy tickets here: https://stza.co/~lhC9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Arrowhead Stadium\, Arrowhead Drive\, KCMO\, MO\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Jaguars
+END:VALARM
+DTSTART:20160911T170000Z
+DTEND:20160911T200000Z
+UID:AQh2K4_7gVq878F4RJjR2G3j@stanza.co
+SUMMARY:Packers at Jaguars
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBF\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:EverBank Field\, Jacksonville\, FL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Vikings
+END:VALARM
+DTSTART:20160919T003000Z
+DTEND:20160919T033000Z
+UID:9k8orAI71ot64JjdJ1Irkz0N@stanza.co
+SUMMARY:Packers at Vikings
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~lhBG\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U. S. Bank Stadium\, South 5th Street\, Minneapolis\, MN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Lions
+END:VALARM
+DTSTART:20160925T170000Z
+DTEND:20160925T200000Z
+UID:PGTOja0YlrnxTYd4BpeuJsRk@stanza.co
+SUMMARY:Packers vs Lions
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBH\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Giants
+END:VALARM
+DTSTART:20161010T003000Z
+DTEND:20161010T033000Z
+UID:KEuslptYaHEA9dN6_-ITEKuU@stanza.co
+SUMMARY:Packers vs Giants
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~lhBI\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Cowboys
+END:VALARM
+DTSTART:20161016T202500Z
+DTEND:20161016T232500Z
+UID:-DiehBQyZxwAlEKGOcwtx-kN@stanza.co
+SUMMARY:Packers vs Cowboys
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBJ\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Bears
+END:VALARM
+DTSTART:20161021T002500Z
+DTEND:20161021T032500Z
+UID:y-0z0Wb_9NXFz0ejs2zBAf6G@stanza.co
+SUMMARY:Packers vs Bears
+DESCRIPTION:Watch the game on CBS / NFL!\n\nBuy tickets here: https://stza.co/~lhBK\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Falcons
+END:VALARM
+DTSTART:20161030T202500Z
+DTEND:20161030T232500Z
+UID:9f4W7d0RkqcGzHbf_Al3ouud@stanza.co
+SUMMARY:Packers at Falcons
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBL\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, Georgia Dome Drive\, Atlanta\, GA\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Colts
+END:VALARM
+DTSTART:20161106T212500Z
+DTEND:20161107T002500Z
+UID:NZ79Ax-qTJoe7ubWuIRcOJ9D@stanza.co
+SUMMARY:Packers vs Colts
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBM\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Titans
+END:VALARM
+DTSTART:20161113T180000Z
+DTEND:20161113T210000Z
+UID:8Vq4yLMmEHX_1dFjKrrKvSnW@stanza.co
+SUMMARY:Packers at Titans
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBN\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Titans Way\, Nashville\, TN\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Redskins
+END:VALARM
+DTSTART:20161121T013000Z
+DTEND:20161121T043000Z
+UID:Zk61pW-qEVJjSOOic5_nkwnA@stanza.co
+SUMMARY:Packers at Redskins
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~lhBO\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, FedEx Way\, Greater Landover\, MD\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Eagles
+END:VALARM
+DTSTART:20161129T013000Z
+DTEND:20161129T043000Z
+UID:DDDMY_BEUkeB1ihYrBwtNTKg@stanza.co
+SUMMARY:Packers at Eagles
+DESCRIPTION:Watch the game on ESPN!\n\nBuy tickets here: https://stza.co/~lhBP\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lincoln Financial Field Way\, Philadelphia\, PA\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Texans
+END:VALARM
+DTSTART:20161204T180000Z
+DTEND:20161204T210000Z
+UID:eNyCyyeUt3BHCQ9GbXbgXa5Z@stanza.co
+SUMMARY:Packers vs Texans
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~lhBQ\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Seahawks
+END:VALARM
+DTSTART:20161211T212500Z
+DTEND:20161212T002500Z
+UID:Zq7e4uvLVXGM7FB7Bkf9AIna@stanza.co
+SUMMARY:Packers vs Seahawks
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBR\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Bears
+END:VALARM
+DTSTART:20161218T180000Z
+DTEND:20161218T210000Z
+UID:m8pj9Pd4BdJ7HwCQciUjb4K1@stanza.co
+SUMMARY:Packers at Bears
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBS\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, Museum Campus Drive\, Chicago\, IL\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Vikings
+END:VALARM
+DTSTART:20161224T180000Z
+DTEND:20161224T210000Z
+UID:yEJrdV9D5oNY1l3dZilYNvfx@stanza.co
+SUMMARY:Packers vs Vikings
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBT\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Lions
+END:VALARM
+DTSTART:20170102T013000Z
+DTEND:20170102T043000Z
+UID:yIr75PcdpOFIoUJimZQYAH0q@stanza.co
+SUMMARY:Packers at Lions
+DESCRIPTION:Watch the game on Fox!\n\nBuy tickets here: https://stza.co/~lhBU\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, Brush Street\, Detroit\, MI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Patriots (Preseason Week 1)
+END:VALARM
+DTSTART:20150813T233000Z
+DTEND:20150814T023000Z
+UID:QLb9vFha1Tci_-KJo-Z5asVs@stanza.co
+SUMMARY:Packers at Patriots (Preseason Week 1)
+DESCRIPTION:Packers at Patriots (Preseason Week 1)\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Steelers (Preseason Week 2)
+END:VALARM
+DTSTART:20150823T170000Z
+DTEND:20150823T200000Z
+UID:gZWQSHcw99u12yGdg-hY4rl4@stanza.co
+SUMMARY:Packers at Steelers (Preseason Week 2)
+DESCRIPTION:Packers at Steelers (Preseason Week 2)\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Eagles (Preseason Week 3)
+END:VALARM
+DTSTART:20150830T000000Z
+DTEND:20150830T030000Z
+UID:JtiwBBdJdphjFpgz0oDP7N0l@stanza.co
+SUMMARY:Packers vs Eagles (Preseason Week 3)
+DESCRIPTION:Packers vs Eagles (Preseason Week 3)\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Saints (Preseason Week 4)
+END:VALARM
+DTSTART:20150903T230000Z
+DTEND:20150904T020000Z
+UID:l722R2E0hirABe0k0dsCA7K0@stanza.co
+SUMMARY:Packers vs Saints (Preseason Week 4)
+DESCRIPTION:Packers vs Saints (Preseason Week 4)\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Bears (Week 1)
+END:VALARM
+DTSTART:20150913T170000Z
+DTEND:20150913T200000Z
+UID:DHNBcBjCoONSDFua3AEuRbOx@stanza.co
+SUMMARY:Packers at Bears (Week 1)
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Seahawks (Week 2)
+END:VALARM
+DTSTART:20150921T003000Z
+DTEND:20150921T033000Z
+UID:hnqkeaQINptEs7GBRNfjl-eu@stanza.co
+SUMMARY:Packers vs Seahawks (Week 2)
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Chiefs (Week 3)
+END:VALARM
+DTSTART:20150929T003000Z
+DTEND:20150929T033000Z
+UID:BosXRGEhr25PvxWwo7cw5w3C@stanza.co
+SUMMARY:Packers vs Chiefs (Week 3)
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at 49ers (Week 4)
+END:VALARM
+DTSTART:20151004T202500Z
+DTEND:20151004T232500Z
+UID:wobX9UOfYAl-GW-3Vt6DD0ux@stanza.co
+SUMMARY:Packers at 49ers (Week 4)
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Rams (Week 5)
+END:VALARM
+DTSTART:20151011T170000Z
+DTEND:20151011T200000Z
+UID:3Jh9YvJMwWh0jq5gFLASzn1H@stanza.co
+SUMMARY:Packers vs Rams (Week 5)
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Chargers (Week 6)
+END:VALARM
+DTSTART:20151018T202500Z
+DTEND:20151018T232500Z
+UID:JX3K5r99s0zCY8jKSHDq3d6O@stanza.co
+SUMMARY:Packers vs Chargers (Week 6)
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~3T8G\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Broncos (Week 8)
+END:VALARM
+DTSTART:20151102T013000Z
+DTEND:20151102T043000Z
+UID:4B64nI0Q-oLKJhTqcaArkY9b@stanza.co
+SUMMARY:Packers at Broncos (Week 8)
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~3T8H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Panthers (Week 9)
+END:VALARM
+DTSTART:20151108T180000Z
+DTEND:20151108T210000Z
+UID:j0u6v7FXoN57ZyQzRUdZsmsr@stanza.co
+SUMMARY:Packers at Panthers (Week 9)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~3T8I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Lions (Week 10)
+END:VALARM
+DTSTART:20151115T180000Z
+DTEND:20151115T210000Z
+UID:RVWpG2-jU5jB7dFJMbIGiraT@stanza.co
+SUMMARY:Packers vs Lions (Week 10)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~3T8J\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Vikings (Week 11)
+END:VALARM
+DTSTART:20151122T212500Z
+DTEND:20151123T002500Z
+UID:K1yeHiIr4wdd7v8v9bJSsjlm@stanza.co
+SUMMARY:Packers at Vikings (Week 11)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~3T8K\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:TCF Bank Stadium\, 420 SE 23rd Ave\, Minneapolis\, MN 55455
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Bears (Week 12)
+END:VALARM
+DTSTART:20151127T013000Z
+DTEND:20151127T043000Z
+UID:pJNcEGzPH9w5KkNTiWuOpKIF@stanza.co
+SUMMARY:Packers vs Bears (Week 12)
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~3T8L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Lions (Week 13)
+END:VALARM
+DTSTART:20151204T012500Z
+DTEND:20151204T042500Z
+UID:Ok8RKJe2avL5epkvnA_LCz7y@stanza.co
+SUMMARY:Packers at Lions (Week 13)
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Cowboys (Week 14)
+END:VALARM
+DTSTART:20151213T212500Z
+DTEND:20151214T002500Z
+UID:MHB5c7Zm1DkH-c41P2sng81r@stanza.co
+SUMMARY:Packers vs Cowboys (Week 14)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~3T8N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Raiders (Week 15)
+END:VALARM
+DTSTART:20151220T210500Z
+DTEND:20151221T000500Z
+UID:9Mp7sqVsTeezkHFRP6Kk5hnP@stanza.co
+SUMMARY:Packers at Raiders (Week 15)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~3T8O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:O.co Coliseum\, Oakland\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Cardinals (Week 16)
+END:VALARM
+DTSTART:20151227T212500Z
+DTEND:20151228T002500Z
+UID:rvgpAAMFUxFFXJNXfhiWkomT@stanza.co
+SUMMARY:Packers at Cardinals (Week 16)
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~3T8P\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Vikings (Week 17)
+END:VALARM
+DTSTART:20160104T013000Z
+DTEND:20160104T043000Z
+UID:yIPJgVzan6KCPmYc9HscfKa9@stanza.co
+SUMMARY:Packers vs Vikings (Week 17)
+DESCRIPTION:Watch the game on NBC!\n\nBuy tickets here: https://stza.co/~3T8Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Redskins (Wild Card Weekend)
+END:VALARM
+DTSTART:20160110T214000Z
+DTEND:20160111T004000Z
+UID:ShTLIL73XrVmLP-dfEg0BqAi@stanza.co
+SUMMARY:Packers at Redskins (Wild Card Weekend)
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, 1600 Fedex Way\, Landover\, MD 20785
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Cardinals (Divisional Playoffs)
+END:VALARM
+DTSTART:20160117T011500Z
+DTEND:20160117T041500Z
+UID:SAgW96by2i8g6AD7oW_0--aS@stanza.co
+SUMMARY:Packers at Cardinals (Divisional Playoffs)
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT60M
+ACTION:DISPLAY
+DESCRIPTION:Super Bowl 50
+END:VALARM
+DTSTART:20160207T233000Z
+DTEND:20160208T023000Z
+UID:9abDdkZTeUgApcxf8IDDIJpL@stanza.co
+SUMMARY:Super Bowl 50
+DESCRIPTION:Get ready for Super Bowl 50! Check out the top play from each week of the 2015-2016 season here: http://bit.ly/1X9tDv4\n\nWatch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Get ready for Super Bowl 50! Check out the top play from each week of the 2015-2016 season here: http://bit.ly/1X9tDv4
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Giants
+END:VALARM
+DTSTART:20170108T214000Z
+DTEND:20170109T010000Z
+UID:gcWY6V1AKHm-UoMnCf1JXNe2@stanza.co
+SUMMARY:Packers vs Giants
+DESCRIPTION:Watch the game on Fox!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, Lombardi Avenue\, Green Bay\, WI\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers @ Cowboys
+END:VALARM
+DTSTART:20170115T214000Z
+DTEND:20170116T004000Z
+UID:vP6nwa2KYCzcdyF5P3EZW5Rp@stanza.co
+SUMMARY:Packers @ Cowboys
+DESCRIPTION:Watch live on Fox\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:AT&T Stadium\, AT&T Way\, Arlington\, TX\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Falcons (NFC Championship)
+END:VALARM
+DTSTART:20170122T200500Z
+DTEND:20170122T233000Z
+UID:l_uWPX6uHoxerydNZBaYai9B@stanza.co
+SUMMARY:Packers at Falcons (NFC Championship)
+DESCRIPTION:Watch Live on FOX\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, Georgia Dome Drive\, Atlanta\, GA\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Eagles
+END:VALARM
+DTSTART:20170811T000000Z
+DTEND:20170811T030000Z
+UID:D6y6HapcE18B8CrPDBLk2lEj@stanza.co
+SUMMARY:Packers vs Eagles
+DESCRIPTION:Packers vs Eagles\n\nEvent Info https://stza.co/+pX9J-h\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Redskins
+END:VALARM
+DTSTART:20170819T233000Z
+DTEND:20170820T023000Z
+UID:haen1buE3RMVrDC7ssL6Cgyw@stanza.co
+SUMMARY:Packers at Redskins
+DESCRIPTION:Packers at Redskins\n\nEvent Info https://stza.co/+pX9K-2C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Broncos
+END:VALARM
+DTSTART:20170827T010000Z
+DTEND:20170826T160000Z
+UID:DPqYZZz8DVmc2EqBZ8qwvWu0@stanza.co
+SUMMARY:Packers at Broncos
+DESCRIPTION:Packers at Broncos\n\nEvent Info https://stza.co/+pX9L-3e\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Rams
+END:VALARM
+DTSTART:20170831T230000Z
+DTEND:20170901T020000Z
+UID:8mMQFhg-36WFxHnKJDTEo4oM@stanza.co
+SUMMARY:Packers vs Rams
+DESCRIPTION:Packers vs Rams\n\nEvent Info https://stza.co/+pX9M-3x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:LA Memorial Coliseum
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Seahawks
+END:VALARM
+DTSTART:20170910T202500Z
+DTEND:20170910T232500Z
+UID:_YQCWw3UewpksKWeWLRDV0Gn@stanza.co
+SUMMARY:Packers vs Seahawks
+DESCRIPTION:Packers vs Seahawks\n\nEvent Info https://stza.co/+pX9N-2M\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Falcons
+END:VALARM
+DTSTART:20170918T003000Z
+DTEND:20170918T033000Z
+UID:zViXRS-8XkEm-WbQ9dxMJlZ7@stanza.co
+SUMMARY:Packers at Falcons
+DESCRIPTION:Packers at Falcons\n\nEvent Info https://stza.co/+pX9O-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Stadium
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Bengals
+END:VALARM
+DTSTART:20170924T202500Z
+DTEND:20170924T232500Z
+UID:a15MqwzUym5s13VAKifu7VWV@stanza.co
+SUMMARY:Packers vs Bengals
+DESCRIPTION:Packers vs Bengals\n\nEvent Info https://stza.co/+pX9P-9\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Bears
+END:VALARM
+DTSTART:20170929T002500Z
+DTEND:20170929T032500Z
+UID:rE_e2gKSltoaF_fal0skSP7A@stanza.co
+SUMMARY:Packers vs Bears
+DESCRIPTION:Packers vs Bears\n\nEvent Info https://stza.co/+pX9Q-3I\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Cowboys
+END:VALARM
+DTSTART:20171008T202500Z
+DTEND:20171008T232500Z
+UID:sTrvhyN4ijJhCkZGwSWJVDZs@stanza.co
+SUMMARY:Packers at Cowboys
+DESCRIPTION:Packers at Cowboys\n\nEvent Info https://stza.co/+pX9R-1u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:AT&T Stadium
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Vikings
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:TZuayLoOkeRq4gJnIrezfJ3R@stanza.co
+SUMMARY:Packers at Vikings
+DESCRIPTION:Packers at Vikings\n\nEvent Info https://stza.co/+pX9S-2g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Saints
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:6vYsya9npruhVV3aAlcDeaDY@stanza.co
+SUMMARY:Packers at Saints
+DESCRIPTION:Packers at Saints\n\nEvent Info https://stza.co/+pX9T-3d\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Lions
+END:VALARM
+DTSTART:20171107T013000Z
+DTEND:20171107T043000Z
+UID:En8vhVcmQFCxr2AtpYMBVAW1@stanza.co
+SUMMARY:Packers vs Lions
+DESCRIPTION:Packers vs Lions\n\nEvent Info https://stza.co/+pX9U-2S\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Bears
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:b0Rbef9yhbQ1BHUhDHaDpB6u@stanza.co
+SUMMARY:Packers at Bears
+DESCRIPTION:Packers at Bears\n\nEvent Info https://stza.co/+pX9V-2A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Ravens
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:oWSk68N4NaZfoAHMgmHCIISe@stanza.co
+SUMMARY:Packers vs Ravens
+DESCRIPTION:Packers vs Ravens\n\nEvent Info https://stza.co/+pX9W-1W\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Steelers
+END:VALARM
+DTSTART:20171127T013000Z
+DTEND:20171127T043000Z
+UID:SH1GqnlC9KkE_JSk8HuAzR29@stanza.co
+SUMMARY:Packers at Steelers
+DESCRIPTION:Packers at Steelers\n\nEvent Info https://stza.co/+pX9X-1_\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Buccaneers
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:wDr_R_pTm0zd0liFr6HpC3Wq@stanza.co
+SUMMARY:Packers vs Buccaneers
+DESCRIPTION:Packers vs Buccaneers\n\nEvent Info https://stza.co/+pX9Y-3v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Panthers
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:DL0r-VVIitsXQqN2mytQMO4X@stanza.co
+SUMMARY:Packers at Panthers
+DESCRIPTION:Packers at Panthers\n\nEvent Info https://stza.co/+pX9_-2j\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Browns
+END:VALARM
+DTSTART:20171223T180000Z
+DTEND:20171223T210000Z
+UID:pexYocM1xe39WuncPEFKKzPr@stanza.co
+SUMMARY:Packers at Browns
+DESCRIPTION:Packers at Browns\n\nEvent Info https://stza.co/+pX9Z-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Paul Brown Stadium
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers vs Vikings
+END:VALARM
+DTSTART:20171224T013000Z
+DTEND:20171224T043000Z
+UID:3_VZiS8cIcQgtRvQZ9PsMy9Q@stanza.co
+SUMMARY:Packers vs Vikings
+DESCRIPTION:Packers vs Vikings\n\nEvent Info https://stza.co/+pX9$-3q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Packers at Lions
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:UQcismKXIDnR35RpPmDvCpjh@stanza.co
+SUMMARY:Packers at Lions
+DESCRIPTION:Packers at Lions\n\nEvent Info https://stza.co/+pXa0-3i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field
+STATUS:CONFIRMED
+DTSTAMP:20170421T025148Z
+CREATED:20170421T025148Z
+LAST-MODIFIED:20170421T025148Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

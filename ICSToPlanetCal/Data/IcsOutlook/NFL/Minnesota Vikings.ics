@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Minnesota Vikings
+X-WR-CALNAME:Minnesota Vikings
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Saints
+END:VALARM
+DTSTART:20170911T231000Z
+DTEND:20170912T021000Z
+UID:LpeeHNzstaHUqKUT6PzT3Mla@stanza.co
+SUMMARY:Vikings vs Saints
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Steelers
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:2yrK0xnAQJ2Z2cLuOOgxTlVH@stanza.co
+SUMMARY:Vikings at Steelers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Buccaneers
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:mPg0BjDlzyJobLMe2VfPPcaC@stanza.co
+SUMMARY:Vikings vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Lions
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:gjltDDA_lNHymru55EyK_Lzz@stanza.co
+SUMMARY:Vikings vs Lions
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Bears
+END:VALARM
+DTSTART:20171010T003000Z
+DTEND:20171010T033000Z
+UID:f_6hcoYkj1JeTutTxSqrlFVS@stanza.co
+SUMMARY:Vikings at Bears
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Packers
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:kdYF2I9mKZWU3t4NjdhoKYHu@stanza.co
+SUMMARY:Vikings vs Packers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Ravens
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:WCyWBgUjqNbK2HA43M0Nci8y@stanza.co
+SUMMARY:Vikings vs Ravens
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Browns
+END:VALARM
+DTSTART:20171029T133000Z
+DTEND:20171029T163000Z
+UID:JpyIurbcvcWAGKjeXQ7QITRD@stanza.co
+SUMMARY:Vikings at Browns
+DESCRIPTION:Watch the game on NFL NETWORK!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Twickenham Stadium\, Twickenham\, 
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Redskins
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:eBnFfPl28WM-juMOPPM2uUFj@stanza.co
+SUMMARY:Vikings at Redskins
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:FedExField\, 1600 Fedex Way\, Landover\, MD 20785
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Rams
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:I-rIestvgCWP1pFvs_8N-74x@stanza.co
+SUMMARY:Vikings vs Rams
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Lions
+END:VALARM
+DTSTART:20171123T173000Z
+DTEND:20171123T203000Z
+UID:1skKnPFefjkWZPzrcybdQrvx@stanza.co
+SUMMARY:Vikings at Lions
+DESCRIPTION:Watch the game on Fox!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Falcons
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:1-W9UZFsq38MlO03pp6PRmsv@stanza.co
+SUMMARY:Vikings at Falcons
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Panthers
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:9TrgTBaoQ97pEDatDTBTgjZC@stanza.co
+SUMMARY:Vikings at Panthers
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Bengals
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:Bltj1XmCiubXDWdzGnLllxPv@stanza.co
+SUMMARY:Vikings vs Bengals
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings at Packers
+END:VALARM
+DTSTART:20171224T013000Z
+DTEND:20171224T043000Z
+UID:8xpYOK40qWq9bwueY1JbMtNd@stanza.co
+SUMMARY:Vikings at Packers
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Vikings vs Bears
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:KV676jAGh8Ef_AK0Eznzcx1u@stanza.co
+SUMMARY:Vikings vs Bears
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170421T025132Z
+CREATED:20170421T025132Z
+LAST-MODIFIED:20170421T025132Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

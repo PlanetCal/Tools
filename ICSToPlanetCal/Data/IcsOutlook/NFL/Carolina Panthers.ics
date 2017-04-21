@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Carolina Panthers
+X-WR-CALNAME:Carolina Panthers
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at 49ers
+END:VALARM
+DTSTART:20170910T202500Z
+DTEND:20170910T232500Z
+UID:FgFz0HxTakHDhj4cwi6sUej2@stanza.co
+SUMMARY:Panthers at 49ers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6G-3X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Bills
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:NDOVi_bgKGOCR8PTvyC4O4hI@stanza.co
+SUMMARY:Panthers vs Bills
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX6H-1C\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Saints
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:TNJp55KkVWOF3HkK4S5oEHYC@stanza.co
+SUMMARY:Panthers vs Saints
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6J-3\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Patriots
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:wWG0Gt-YP5oyyZQlSYT58hJh@stanza.co
+SUMMARY:Panthers at Patriots
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6L-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Lions
+END:VALARM
+DTSTART:20171008T170000Z
+DTEND:20171008T200000Z
+UID:aiQklGSOuIfB1DylINthqDzN@stanza.co
+SUMMARY:Panthers at Lions
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6M-1i\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Eagles
+END:VALARM
+DTSTART:20171013T002500Z
+DTEND:20171013T032500Z
+UID:JU8_1BFln18iu0XJWAIHPr7s@stanza.co
+SUMMARY:Panthers vs Eagles
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX6N-N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Bears
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:FzWUfsKe7DAbnDIOOseoj9pA@stanza.co
+SUMMARY:Panthers at Bears
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6P-c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Soldier Field\, 1410 Museum Campus Dr\, Chicago\, IL 60605
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Buccaneers
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:Yc85KEQAjLk4TY0Wt5lkGs4r@stanza.co
+SUMMARY:Panthers at Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6Q-H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Falcons
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:oRFC0lDWhm0YojBs7DZQA0hz@stanza.co
+SUMMARY:Panthers vs Falcons
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6R-3O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Dolphins
+END:VALARM
+DTSTART:20171114T013000Z
+DTEND:20171114T043000Z
+UID:oobu16k22RNZDaggTUAkIfeg@stanza.co
+SUMMARY:Panthers vs Dolphins
+DESCRIPTION:Watch the game on ESPN!\n\nBuy Gear Here: https://stza.co/+pX6T-2v\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Jets
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:CCieusAl5-2VNFXG0A1tpWe3@stanza.co
+SUMMARY:Panthers at Jets
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6V-1H\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Saints
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:R6RXC9wsQKyYMYdIxtaDpkrp@stanza.co
+SUMMARY:Panthers at Saints
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6W-3n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Vikings
+END:VALARM
+DTSTART:20171210T180000Z
+DTEND:20171210T210000Z
+UID:BsdkX9GJShuwM6rlkRPBUxhy@stanza.co
+SUMMARY:Panthers vs Vikings
+DESCRIPTION:Watch the game on CBS!\n\nBuy Gear Here: https://stza.co/+pX6X-11\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Packers
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:o9meGkDD6nq_8U00EHVVcwAp@stanza.co
+SUMMARY:Panthers vs Packers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6Z-32\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers vs Buccaneers
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:J8V_tCFfBY2FlVvQRTX6CV_C@stanza.co
+SUMMARY:Panthers vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX6$-3A\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Panthers at Falcons
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:Lq2x9pOJTjYVuW1DaPUCQSYS@stanza.co
+SUMMARY:Panthers at Falcons
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX71-1x\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Georgia Dome\, 1 Georgia Dome Dr NW\, Atlanta\, GA 30313
+STATUS:CONFIRMED
+DTSTAMP:20170421T030255Z
+CREATED:20170421T030255Z
+LAST-MODIFIED:20170421T030255Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
