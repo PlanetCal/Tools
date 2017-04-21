@@ -1,0 +1,495 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.14805//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Seattle Seahawks Schedule
+X-WR-TIMEZONE:America/Los_Angeles
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Los_Angeles
+BEGIN:STANDARD
+TZOFFSETFROM:-0700
+TZOFFSETTO:-0800
+TZNAME:PST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Seahawks at LA Chargers
+LOCATION:Stubhub Center
+DTSTART;TZID=America/Los_Angeles:20170813T170000
+DTEND;TZID=America/Los_Angeles:20170813T200000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Chargers
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:Stubhub Cent
+ er
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ www.stubhubcenter.com/
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:Q13 FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Chargers\nVisiting Team: Seahawks\nS
+ tadium: Stubhub Center\nStadium Information: http://www.stubhubcenter.co
+ m/\nTV: Q13 FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375782
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375782
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Vikings
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20170818T190000
+DTEND;TZID=America/Los_Angeles:20170818T220000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Vikings
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:Q13 FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Vikings\nSt
+ adium: CenturyLink Field\nStadium Information: http://centurylinkfield.c
+ om\nTV: Q13 FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375785
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375785
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Chiefs
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20170825T170000
+DTEND;TZID=America/Los_Angeles:20170825T200000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Chiefs
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:CBS
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Chiefs\nSta
+ dium: CenturyLink Field\nStadium Information: http://centurylinkfield.co
+ m\nTV: CBS
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375787
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375787
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at Packers
+DTSTART;TZID=America/Los_Angeles:20170910T132500
+DTEND;TZID=America/Los_Angeles:20170910T162500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Packers
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:Lambeau Fiel
+ d
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ www.packers.com/lambeau-field/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:CBS
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Packers\nVisiting Team: Seahawks\nSt
+ adium: Lambeau Field\nStadium Information: http://www.packers.com/lambea
+ u-field/index.html\nTV: CBS
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375790
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375790
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. 49ers
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20170917T132500
+DTEND;TZID=America/Los_Angeles:20170917T162500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:49ers
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: 49ers\nStad
+ ium: CenturyLink Field\nStadium Information: http://centurylinkfield.com
+ \nTV: FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375793
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375793
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at Titans
+LOCATION:Nissan Stadium
+DTSTART;TZID=America/Los_Angeles:20170924T130500
+DTEND;TZID=America/Los_Angeles:20170924T160500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Titans
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:Nissan Stadi
+ um
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ nissanstadium.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Titans\nVisiting Team: Seahawks\nSta
+ dium: Nissan Stadium\nStadium Information: http://nissanstadium.com\nTV:
+  FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375794
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375794
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Colts
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171001T173000
+DTEND;TZID=America/Los_Angeles:20171001T203000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Colts
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:NBC
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Colts\nStad
+ ium: CenturyLink Field\nStadium Information: http://centurylinkfield.com
+ \nTV: NBC
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375815
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375815
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at LA Rams
+LOCATION:LA Memorial Stadium
+DTSTART;TZID=America/Los_Angeles:20171008T130500
+DTEND;TZID=America/Los_Angeles:20171008T160500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Rams
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:LA Memorial 
+ Stadium
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:CBS
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Rams\nVisiting Team: Seahawks\nStadi
+ um: LA Memorial Stadium\nTV: CBS
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375806
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375806
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at NY Giants
+LOCATION:Metlife Stadium
+DTSTART;TZID=America/Los_Angeles:20171022T132500
+DTEND;TZID=America/Los_Angeles:20171022T162500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Giants
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:Metlife Stad
+ ium
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ metlifestadium.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:CBS
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Giants\nVisiting Team: Seahawks\nSta
+ dium: Metlife Stadium\nStadium Information: http://metlifestadium.com\nT
+ V: CBS
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375834
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375834
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Texans
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171029T130500
+DTEND;TZID=America/Los_Angeles:20171029T160500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Texans
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:CBS
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Texans\nSta
+ dium: CenturyLink Field\nStadium Information: http://centurylinkfield\nT
+ V: CBS
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375855
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375855
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Redskins
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171105T130500
+DTEND;TZID=America/Los_Angeles:20171105T160500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Redskins
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Redskins\nS
+ tadium: CenturyLink Field\nStadium Information: http://centurylinkfield.
+ com\nTV: FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375861
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375861
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at Cardinals
+LOCATION:University of Phoenix Stadium
+DTSTART;TZID=America/Los_Angeles:20171109T172500
+DTEND;TZID=America/Los_Angeles:20171109T202500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Cardinals
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:University o
+ f Phoenix Stadium
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ www.universityofphoenixstadium.com/
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:NBC
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Cardinals\nVisiting Team: Seahawks\n
+ Stadium: University of Phoenix Stadium\nStadium Information: http://www.
+ universityofphoenixstadium.com/\nTV: NBC
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375870
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375870
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Falcons
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171120T173000
+DTEND;TZID=America/Los_Angeles:20171120T203000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Falcons
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:ESPN
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Falcons\nSt
+ adium: CenturyLink Field\nStadium Information: http://centurylinkfield.c
+ om\nTV: ESPN
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375873
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375873
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at 49ers
+LOCATION:Levi's Stadium
+DTSTART;TZID=America/Los_Angeles:20171126T130500
+DTEND;TZID=America/Los_Angeles:20171126T140500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:49ers
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:Levi's Stadi
+ um
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ levisstadium.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: 49ers\nVisiting Team: Seahawks\nStad
+ ium: Levi's Stadium\nStadium Information: http://levisstadium.com\nTV: F
+ OX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375878
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375878
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Eagles
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171203T173000
+DTEND;TZID=America/Los_Angeles:20171203T203000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Eagles
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:NBC
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Eagles\nSta
+ dium: CenturyLink Field\nStadium Information: http://centurylinkfield.co
+ m\nTV: NBC
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375882
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375882
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at Jaguars
+LOCATION:EverBank Field
+DTSTART;TZID=America/Los_Angeles:20171210T100000
+DTEND;TZID=America/Los_Angeles:20171210T130000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Jaguars
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:EverBank Fie
+ ld
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ www.jaguars.com/everbank-field
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Jaguars\nVisiting Team: Seahawks\nSt
+ adium: EverBank Field\nStadium Information: http://www.jaguars.com/everb
+ ank-field\nTV: FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375887
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375887
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. LA Rams
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171217T130500
+DTEND;TZID=America/Los_Angeles:20171217T160500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Rams
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Seahawks\nVisiting Team: Rams\nStadi
+ um: CenturyLink Field\nStadium Information: http://centurylinkfield.com
+ \nTV: FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375906
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375906
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks at Cowboys
+LOCATION:AT&T Stadium
+DTSTART;TZID=America/Los_Angeles:20171224T132500
+DTEND;TZID=America/Los_Angeles:20171224T162500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Away
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Cowboys
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:AT&T Stadium
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ attstadium.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Away\nHome Team: Cowboys\nVisiting Team: Seahawks\nSt
+ adium: AT&T Stadium\nStadium Information: http://attstadium.com\nTV: FOX
+ 
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375910
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375910
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Seahawks vs. Cardinals
+LOCATION:CenturyLink Field
+DTSTART;TZID=America/Los_Angeles:20171231T132500
+DTEND;TZID=America/Los_Angeles:20171231T162500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Seahawks/Sounde
+ rs FC Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="H / W";ID=12037;TYPE=CustomAsset:Home
+X-TRUMBA-CUSTOMFIELD;NAME="Home Team";ID=32;TYPE=SingleLine:Cardinals
+X-TRUMBA-CUSTOMFIELD;NAME="Visiting Team";ID=33;TYPE=SingleLine:Seahawks
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium";ID=8584;TYPE=SingleLine:CenturyLink 
+ Field
+X-TRUMBA-CUSTOMFIELD;NAME="Stadium Information";ID=8583;TYPE=Url:http://
+ centurylinkfield.com
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=8585;TYPE=SingleLine:FOX
+DTSTAMP:20170420T170257Z
+DESCRIPTION:H / W: Home\nHome Team: Cardinals\nVisiting Team: Seahawks\n
+ Stadium: CenturyLink Field\nStadium Information: http://centurylinkfield
+ .com\nTV: FOX
+CATEGORIES:Seattle Seahawks Schedule
+UID:http://uid.trumba.com/event/123375913
+X-TRUMBA-LINK:http://www.seahawks.com/schedule?trumbaEmbed=view%3devent%
+ 26eventid%3d123375913
+END:VEVENT
+END:VCALENDAR
