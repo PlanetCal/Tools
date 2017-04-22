@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:Los Angeles Rams
+X-WR-CALNAME:Los Angeles Rams
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Colts
+END:VALARM
+DTSTART:20170910T200500Z
+DTEND:20170910T230500Z
+UID:lOLKSp7myK1WB0jZkeXxZjcV@stanza.co
+SUMMARY:Rams vs Colts
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX0r\n\nBuy Gear Here: https://stza.co/+pX0r-1X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Redskins
+END:VALARM
+DTSTART:20170917T202500Z
+DTEND:20170917T232500Z
+UID:grMUddW-DptEM3pISUnv-NKk@stanza.co
+SUMMARY:Rams vs Redskins
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX0t\n\nBuy Gear Here: https://stza.co/+pX0t-2u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at 49ers
+END:VALARM
+DTSTART:20170922T002500Z
+DTEND:20170922T032500Z
+UID:wy38UkPNwc9lHRW-uoJqrj1e@stanza.co
+SUMMARY:Rams at 49ers
+DESCRIPTION:Watch the game on NFL NETWORK!\n\nBuy Gear Here: https://stza.co/+pX0v-3u\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Levi's Stadium\, Santa Clara\, CA
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Cowboys
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:d8Mb4lFgRTWWs0_fvfXWLDrx@stanza.co
+SUMMARY:Rams at Cowboys
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0w-X\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:AT&T Stadium\, 1 AT&T Way\, Arlington\, TX 76011
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Seahawks
+END:VALARM
+DTSTART:20171008T200500Z
+DTEND:20171008T230500Z
+UID:qUVbVEPoO6wD0aSOdHq9swjH@stanza.co
+SUMMARY:Rams vs Seahawks
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX0x\n\nBuy Gear Here: https://stza.co/+pX0x-1s\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Jaguars
+END:VALARM
+DTSTART:20171015T200500Z
+DTEND:20171015T230500Z
+UID:uOWJdNDTmCNwiob89ZsrZNhy@stanza.co
+SUMMARY:Rams at Jaguars
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0z-3L\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:EverBank Field\, 1 Everbank Field Dr\, Jacksonville\, FL 32202
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Cardinals
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:EKKv0aFhbHZr_6uEnbzas8K9@stanza.co
+SUMMARY:Rams vs Cardinals
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0A-3Q\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Twickenham Stadium\, Twickenham\, 
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Giants
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:ZAd1XjDLCfJdTzvK6KNH66E0@stanza.co
+SUMMARY:Rams at Giants
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0C-2N\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ 07073
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Texans
+END:VALARM
+DTSTART:20171112T210500Z
+DTEND:20171113T000500Z
+UID:TLmXUqgmPmJi9LJ1XnXP2iC_@stanza.co
+SUMMARY:Rams vs Texans
+DESCRIPTION:Watch the game on CBS!\n\nBuy tickets here: https://stza.co/~pX0D\n\nBuy Gear Here: https://stza.co/+pX0D-36\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Vikings
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:iTM1ZGXaI5-2lWYsec3m08U1@stanza.co
+SUMMARY:Rams at Vikings
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0F-1O\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Saints
+END:VALARM
+DTSTART:20171126T210500Z
+DTEND:20171127T000500Z
+UID:3uQSGBVVZ6Se4Ja5bx6ma1dw@stanza.co
+SUMMARY:Rams vs Saints
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX0G\n\nBuy Gear Here: https://stza.co/+pX0G-12\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Cardinals
+END:VALARM
+DTSTART:20171203T212500Z
+DTEND:20171204T002500Z
+UID:Rozj1IBcSXWkMnuT-IRWJrja@stanza.co
+SUMMARY:Rams at Cardinals
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0I-3V\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:University of Phoenix Stadium\, 1 Cardinals Dr\, Glendale\, AZ 85305
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs Eagles
+END:VALARM
+DTSTART:20171210T212500Z
+DTEND:20171211T002500Z
+UID:A62Sgj3epvy_KUlCEBdhwd0g@stanza.co
+SUMMARY:Rams vs Eagles
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX0J\n\nBuy Gear Here: https://stza.co/+pX0J-2p\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Seahawks
+END:VALARM
+DTSTART:20171217T210500Z
+DTEND:20171218T000500Z
+UID:QQUYNIpzluPdHrqeFngLar-q@stanza.co
+SUMMARY:Rams at Seahawks
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0L-1c\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:CenturyLink Field\, 800 Occidental Ave S\, Seattle\, WA 98134
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams at Titans
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:9rbUrmy_c5R--c4JZeVthjav@stanza.co
+SUMMARY:Rams at Titans
+DESCRIPTION:Watch the game on FOX!\n\nBuy Gear Here: https://stza.co/+pX0M-1g\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Nissan Stadium\, Nashville\, TN
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Rams vs 49ers
+END:VALARM
+DTSTART:20171231T212500Z
+DTEND:20180101T002500Z
+UID:331OfcUxpskVW2rXOrr6MePe@stanza.co
+SUMMARY:Rams vs 49ers
+DESCRIPTION:Watch the game on FOX!\n\nBuy tickets here: https://stza.co/~pX0N\n\nBuy Gear Here: https://stza.co/+pX0N-w\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T011915Z
+CREATED:20170422T011915Z
+LAST-MODIFIED:20170422T011915Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

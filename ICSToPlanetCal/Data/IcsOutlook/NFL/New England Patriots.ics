@@ -1,0 +1,386 @@
+BEGIN:VCALENDAR
+NAME:New England Patriots
+X-WR-CALNAME:New England Patriots
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Falcons
+END:VALARM
+DTSTART;VALUE=DATE:20170205
+DTEND;VALUE=DATE:20170205
+UID:x0RdEHfP_hXYbcuXWBzx_F33@stanza.co
+SUMMARY:Patriots at Falcons
+DESCRIPTION:Patriots at Falcons\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, NRG Parkway\, Houston\, TX\, United States
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Jaguars
+END:VALARM
+DTSTART:20170810T233000Z
+DTEND:20170811T023000Z
+UID:HV77DYWeCfz8PYvL29HqNxIk@stanza.co
+SUMMARY:Patriots vs Jaguars
+DESCRIPTION:Watch the game on Patriots Preseason Network\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Texans
+END:VALARM
+DTSTART:20170820T000000Z
+DTEND:20170820T030000Z
+UID:lhOjmnScbFhkO8rCf8IofdPC@stanza.co
+SUMMARY:Patriots at Texans
+DESCRIPTION:Watch the game on Patriots Preseason Network\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:NRG Stadium\, Reliant Pkwy\, Houston\, TX 77054
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Lions
+END:VALARM
+DTSTART:20170825T230000Z
+DTEND:20170826T020000Z
+UID:t2yKs9nH_ASM3GOXqFm1SLYJ@stanza.co
+SUMMARY:Patriots at Lions
+DESCRIPTION:Watch the game on Patriots Preseason Network\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ford Field\, 2000 Brush St\, Detroit\, MI 48226
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Giants
+END:VALARM
+DTSTART:20170831T233000Z
+DTEND:20170901T023000Z
+UID:rsLxuEB7q9bUhrrmFMYMwij5@stanza.co
+SUMMARY:Patriots vs Giants
+DESCRIPTION:Watch the game on Patriots Preseason Network\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Chiefs
+END:VALARM
+DTSTART:20170908T003000Z
+DTEND:20170908T033000Z
+UID:uuBMzpAy-4qliqTdYApFl8os@stanza.co
+SUMMARY:Patriots vs Chiefs
+DESCRIPTION:Watch the game on NBC\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Saints
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:gu4jmT-rengyk_jzB2rrQHUD@stanza.co
+SUMMARY:Patriots at Saints
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Texans
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:kkLvMxWfaHXFfLInqu4y6gdW@stanza.co
+SUMMARY:Patriots vs Texans
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Panthers
+END:VALARM
+DTSTART:20171001T170000Z
+DTEND:20171001T200000Z
+UID:e3eflQ0kfSiHvqQ1tWp4YwdB@stanza.co
+SUMMARY:Patriots vs Panthers
+DESCRIPTION:Watch the game on FOX\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Buccaneers
+END:VALARM
+DTSTART:20171006T002500Z
+DTEND:20171006T032500Z
+UID:YYArJzYm43lFH3_yfE7wU31_@stanza.co
+SUMMARY:Patriots at Buccaneers
+DESCRIPTION:Watch the game on CBSNFL NETWORK\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Jets
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:WSygwRazSbwQHi7A8YSUItxj@stanza.co
+SUMMARY:Patriots at Jets
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:MetLife Stadium\, 1 MetLife Stadium Dr\, East Rutherford\, NJ
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Falcons
+END:VALARM
+DTSTART:20171023T003000Z
+DTEND:20171023T033000Z
+UID:oK3q-zGWkgX1XIINKvDquyLh@stanza.co
+SUMMARY:Patriots vs Falcons
+DESCRIPTION:Watch the game on NBC\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Chargers
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:gsw7Tc1kq5NqYUyTqmDDnKeu@stanza.co
+SUMMARY:Patriots vs Chargers
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Broncos
+END:VALARM
+DTSTART:20171113T013000Z
+DTEND:20171113T043000Z
+UID:-RHaFcDFEU0LI3df_LWayrvQ@stanza.co
+SUMMARY:Patriots at Broncos
+DESCRIPTION:Watch the game on NBC\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sports Authority Field at Mile High\, 1701 Bryant St\, Denver\, CO 80204
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Raiders
+END:VALARM
+DTSTART:20171119T212500Z
+DTEND:20171120T002500Z
+UID:cqBsskQoPdgYD_689vHhlrCS@stanza.co
+SUMMARY:Patriots at Raiders
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Oakland-Alameda County Coliseum\, 7000 Coliseum Way\, Oakland\, CA 94621
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Dolphins
+END:VALARM
+DTSTART:20171126T180000Z
+DTEND:20171126T210000Z
+UID:JLoUVfEPnhECjAjmvBTOkGNE@stanza.co
+SUMMARY:Patriots vs Dolphins
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Bills
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:iqVsv75GDUZGKEdpnqtbaxk6@stanza.co
+SUMMARY:Patriots at Bills
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Ralph Wilson Stadium\, 1 Bills Dr\, Orchard Park\, NY 14127
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Dolphins
+END:VALARM
+DTSTART:20171212T013000Z
+DTEND:20171212T043000Z
+UID:0mZq9Xxb_e-lKODXkzZVOzeG@stanza.co
+SUMMARY:Patriots at Dolphins
+DESCRIPTION:Watch the game on ESPN\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Sun Life Stadium\, 47 Don Shula Dr\, Miami Gardens\, FL 33056
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots at Steelers
+END:VALARM
+DTSTART:20171217T212500Z
+DTEND:20171218T002500Z
+UID:StU74Utx6hsSvNmTiK9Gat5w@stanza.co
+SUMMARY:Patriots at Steelers
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Heinz Field\, 100 Art Rooney Ave\, Pittsburgh\, PA 15212
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Bills
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:vTNRM0VTnx4-qJDvPTV-EJ-a@stanza.co
+SUMMARY:Patriots vs Bills
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Patriots vs Jets
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:puvldRlhHnNtcxVwEfGVjpWv@stanza.co
+SUMMARY:Patriots vs Jets
+DESCRIPTION:Watch the game on CBS\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Gillette Stadium\, 1 Patriot Pl\, Foxborough\, MA 02035
+STATUS:CONFIRMED
+DTSTAMP:20170422T011706Z
+CREATED:20170422T011706Z
+LAST-MODIFIED:20170422T011706Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
