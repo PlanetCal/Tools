@@ -1,0 +1,672 @@
+BEGIN:VCALENDAR
+PRODID:-//Trumba Corporation//Trumba Calendar Services 0.11.14805//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Chicago Bears Schedule
+X-WR-TIMEZONE:America/Chicago
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:America/Chicago
+BEGIN:STANDARD
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0600
+TZNAME:CST
+DTSTART:20071104T020000
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+TZOFFSETFROM:-0600
+TZOFFSETTO:-0500
+TZNAME:CDT
+DTSTART:20070311T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+SUMMARY:Miller Lite Chicago Bears Draft Party
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20170427T160000
+DTEND;TZID=America/Chicago:20170427T220000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+URL:http://www.chicagobears.com/events/draft-party.html
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgDiPDcxTMxSAB9Yv9ZI7YgX.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:N/A
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:N/A
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:http:
+ //smarturl.it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170309T113610Z
+DESCRIPTION:TV: N/A\nRadio: N/A\nGamecenter: http://www.chicagobears.com
+ /index.html\nTwitter updates: https://twitter.com/ChicagoBears\nFacebook
+ : https://www.facebook.com/ChicagoBears\nInstagram: http://instagram.com
+ /chicagobears#\nMobile App: http://smarturl.it/94spli\nBears Daily iPad 
+ App: http://smarturl.it/94spli\nPro Shop: http://store.chicagobears.com
+ \nLink: http://www.chicagobears.com/events/draft-party.html
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/122920266
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d122920266
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs. Atlanta Falcons
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20170910T120000
+DTEND;TZID=America/Chicago:20170910T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgCLwRavtf4M8UO%2Ax7W2G0qR.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:TBA
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: TBA\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375776
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375776
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Tampa Bay Buccaneers
+LOCATION:Raymond James Stadium
+DTSTART;TZID=America/Chicago:20170917T120000
+DTEND;TZID=America/Chicago:20170917T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgAKIfnLx8A%2AtAFCT7YGl3vn.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375788
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375788
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs Pittsburgh Steelers
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20170924T120000
+DTEND;TZID=America/Chicago:20170924T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgAWtprS5DlCqdDpOlzXzmwC.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:CBS
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: CBS\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375791
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375791
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Green Bay Packers
+LOCATION:Lambeau Field
+DTSTART;TZID=America/Chicago:20170928T192500
+DTEND;TZID=America/Chicago:20170928T222500
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgCLZnNYE05vnA6hXvDNWubx.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:CBS/NFLN/Amazon
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: CBS/NFLN/Amazon\nRadio: WBBM (English) | TBA (Español)\n
+ Gamecenter: http://www.chicagobears.com/index.html\nTwitter updates: htt
+ ps://twitter.com/ChicagoBears\nFacebook: https://www.facebook.com/Chicag
+ oBears\nInstagram: http://instagram.com/chicagobears#\nMobile App: http:
+ //smarturl.it/94spli\nBears Daily iPad App: https://itunes.apple.com/us/
+ app/bears-daily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobea
+ rs.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375837
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375837
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs Minnesota Vikings
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20171009T193000
+DTEND;TZID=America/Chicago:20171009T223000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgD5qdDys3W18DvIRLE-UGtQ.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:ESPN
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: ESPN\nRadio: WBBM (English) | TBA (Español)\nGamecenter:
+  http://www.chicagobears.com/index.html\nTwitter updates: https://twitte
+ r.com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nIns
+ tagram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.
+ it/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-d
+ aily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375792
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375792
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Baltimore Ravens
+LOCATION:M&T Bank Stadium
+DTSTART;TZID=America/Chicago:20171015T120000
+DTEND;TZID=America/Chicago:20171015T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgBTK6K%2Aeo8OREELof6-Za5Z.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375863
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375863
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs Carolina Panthers
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20171022T120000
+DTEND;TZID=America/Chicago:20171022T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgDWOhezeN73A211wiGp6-V8.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375799
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375799
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at New Orleans Saints
+LOCATION:Mercedes-Benz Superdome
+DTSTART;TZID=America/Chicago:20171029T120000
+DTEND;TZID=America/Chicago:20171029T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgAEupr5xWsxmEgHeR3be2tD.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375866
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375866
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs Green Bay Packers
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20171112T120000
+DTEND;TZID=America/Chicago:20171112T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgD4LRkAY%2AkGxZVQuk1foAk9.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375802
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375802
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs Detroit Lions
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20171119T120000
+DTEND;TZID=America/Chicago:20171119T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgBnqlEvyr3TGr03QSzb6DlK.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375804
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375804
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Philadelphia Eagles
+LOCATION:Lincoln Financial Field
+DTSTART;TZID=America/Chicago:20171126T120000
+DTEND;TZID=America/Chicago:20171126T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgC188F8v73vXi%2AoYLnhCR26.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375874
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375874
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs San Francisco 49ers
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20171203T120000
+DTEND;TZID=America/Chicago:20171203T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgDEo-%2A1YWmlWBivQ3e4S644.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:CBS
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: CBS\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375812
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375812
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Cincinnati Bengals
+LOCATION:Paul Brown Stadium
+DTSTART;TZID=America/Chicago:20171210T120000
+DTEND;TZID=America/Chicago:20171210T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgCsnS29TNqrYhOEBhYf5gGB.png
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375879
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375879
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Detroit Lions
+LOCATION:Ford Field
+DTSTART;TZID=America/Chicago:20171216T153000
+DTEND;TZID=America/Chicago:20171216T183000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgCUkOOx%2ADbtujALz5h1ztH%2A.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:NFLN
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: NFLN\nRadio: WBBM (English) | TBA (Español)\nGamecenter:
+  http://www.chicagobears.com/index.html\nTwitter updates: https://twitte
+ r.com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nIns
+ tagram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.
+ it/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-d
+ aily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375881
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375881
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears vs Cleveland Browns
+LOCATION:Soldier Field
+DTSTART;TZID=America/Chicago:20171224T120000
+DTEND;TZID=America/Chicago:20171224T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgCpVXKZ-Z1Du-5qlse8uaJD.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:CBS
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: CBS\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375816
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375816
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Bears at Minnesota Vikings
+LOCATION:U.S. Bank Stadium
+DTSTART;TZID=America/Chicago:20171231T120000
+DTEND;TZID=America/Chicago:20171231T150000
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-TRUMBA-CUSTOMFIELD;NAME="Event Type";ID=21;TYPE=number:Season Schedule
+X-TRUMBA-CUSTOMFIELD;NAME="Event image";ID=40;TYPE=Image:http://www.trum
+ ba.com/i/DgC5lkfJBjs8tSz6IBmlxXOk.jpg
+X-TRUMBA-CUSTOMFIELD;NAME="TV";ID=35887;TYPE=SingleLine:FOX
+X-TRUMBA-CUSTOMFIELD;NAME="Radio";ID=35888;TYPE=MultiLine:WBBM (English)
+  | TBA (Español)
+X-TRUMBA-CUSTOMFIELD;NAME="Gamecenter";ID=35889;TYPE=Url:http://www.chic
+ agobears.com/index.html
+X-TRUMBA-CUSTOMFIELD;NAME="Twitter updates";ID=35890;TYPE=Url:https://tw
+ itter.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Facebook";ID=35891;TYPE=Url:https://www.faceb
+ ook.com/ChicagoBears
+X-TRUMBA-CUSTOMFIELD;NAME="Instagram";ID=35892;TYPE=Url:http://instagram
+ .com/chicagobears#
+X-TRUMBA-CUSTOMFIELD;NAME="Mobile App";ID=35894;TYPE=Url:http://smarturl
+ .it/94spli
+X-TRUMBA-CUSTOMFIELD;NAME="Bears Daily iPad App";ID=35895;TYPE=Url:https
+ ://itunes.apple.com/us/app/bears-daily/id766800095?ls=1&mt=8
+X-TRUMBA-CUSTOMFIELD;NAME="Pro Shop";ID=35897;TYPE=Url:http://store.chic
+ agobears.com
+DTSTAMP:20170420T190200Z
+DESCRIPTION:TV: FOX\nRadio: WBBM (English) | TBA (Español)\nGamecenter: 
+ http://www.chicagobears.com/index.html\nTwitter updates: https://twitter
+ .com/ChicagoBears\nFacebook: https://www.facebook.com/ChicagoBears\nInst
+ agram: http://instagram.com/chicagobears#\nMobile App: http://smarturl.i
+ t/94spli\nBears Daily iPad App: https://itunes.apple.com/us/app/bears-da
+ ily/id766800095?ls=1&mt=8\nPro Shop: http://store.chicagobears.com
+CATEGORIES:Chicago Bears Schedule
+UID:http://uid.trumba.com/event/123375884
+X-TRUMBA-LINK:http://www.chicagobears.com/gameday/schedule_download.html
+ ?trumbaEmbed=view%3devent%26eventid%3d123375884
+END:VEVENT
+END:VCALENDAR
