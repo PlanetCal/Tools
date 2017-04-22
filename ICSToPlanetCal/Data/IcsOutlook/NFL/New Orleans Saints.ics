@@ -1,0 +1,296 @@
+BEGIN:VCALENDAR
+NAME:New Orleans Saints
+X-WR-CALNAME:New Orleans Saints
+VERSION:2.0
+PRODID:-//Stanza //Stanza Calendar v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Vikings
+END:VALARM
+DTSTART:20170911T231000Z
+DTEND:20170912T021000Z
+UID:cMvgT58xKkqMDsIcVB7i2V7D@stanza.co
+SUMMARY:Saints at Vikings
+DESCRIPTION:Watch the game on ESPN!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:U.S. Bank Stadium\, Minneapolis\, MN
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Patriots
+END:VALARM
+DTSTART:20170917T170000Z
+DTEND:20170917T200000Z
+UID:RNHGdFKVZg0kUT4HOENITy27@stanza.co
+SUMMARY:Saints vs Patriots
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Panthers
+END:VALARM
+DTSTART:20170924T170000Z
+DTEND:20170924T200000Z
+UID:yAqCBAbgv45rPnFlXU9unWvj@stanza.co
+SUMMARY:Saints at Panthers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Bank of America Stadium\, 800 S Mint St\, Charlotte\, NC 28202
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Dolphins
+END:VALARM
+DTSTART:20171001T133000Z
+DTEND:20171001T163000Z
+UID:bUFOmIaRPU4uLHBGC-KRJM09@stanza.co
+SUMMARY:Saints at Dolphins
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Wembley Stadium\, Wembley\, London\, United Kingdom
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Lions
+END:VALARM
+DTSTART:20171015T170000Z
+DTEND:20171015T200000Z
+UID:KeuOPZZFo8kZsg0iASOWbds6@stanza.co
+SUMMARY:Saints vs Lions
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Packers
+END:VALARM
+DTSTART:20171022T170000Z
+DTEND:20171022T200000Z
+UID:bXwyAOOXNhR_2687duSumdhA@stanza.co
+SUMMARY:Saints at Packers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Lambeau Field\, 1265 Lombardi Ave\, Green Bay\, WI 54304
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Bears
+END:VALARM
+DTSTART:20171029T170000Z
+DTEND:20171029T200000Z
+UID:42iWS1QoWyaOGInVDm4tPGEV@stanza.co
+SUMMARY:Saints vs Bears
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Buccaneers
+END:VALARM
+DTSTART:20171105T180000Z
+DTEND:20171105T210000Z
+UID:-bYVS8UUn9UqQB5Tom21DV3A@stanza.co
+SUMMARY:Saints vs Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Bills
+END:VALARM
+DTSTART:20171112T180000Z
+DTEND:20171112T210000Z
+UID:Xub9XzD0NXFsOWr37m_H1_bP@stanza.co
+SUMMARY:Saints at Bills
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:New Era Field\, Orchard Park\, NY
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Redskins
+END:VALARM
+DTSTART:20171119T180000Z
+DTEND:20171119T210000Z
+UID:1iIz6Ij2mPK2Z3Um-117vbgd@stanza.co
+SUMMARY:Saints vs Redskins
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Rams
+END:VALARM
+DTSTART:20171126T210500Z
+DTEND:20171127T000500Z
+UID:lgipbkxifXnuQ5FlMa9JMN0Q@stanza.co
+SUMMARY:Saints at Rams
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Los Angeles Coliseum\, 3911 S Figueroa St\, Los Angeles\, CA 90037
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Panthers
+END:VALARM
+DTSTART:20171203T180000Z
+DTEND:20171203T210000Z
+UID:uPv9sJ4hei3_L-sNCGx39KcF@stanza.co
+SUMMARY:Saints vs Panthers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Falcons
+END:VALARM
+DTSTART:20171208T012500Z
+DTEND:20171208T042500Z
+UID:zXBZ3JaoT4mORNw3AHyW3lXk@stanza.co
+SUMMARY:Saints at Falcons
+DESCRIPTION:Watch the game on NBC!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Stadium\, Atlanta\, GA
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Jets
+END:VALARM
+DTSTART:20171217T180000Z
+DTEND:20171217T210000Z
+UID:IyqKoiOj6gqMBed8s0mZScN_@stanza.co
+SUMMARY:Saints vs Jets
+DESCRIPTION:Watch the game on CBS!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints vs Falcons
+END:VALARM
+DTSTART:20171224T180000Z
+DTEND:20171224T210000Z
+UID:rp8cF5Qe4nA4lVR4Aj1Et0kz@stanza.co
+SUMMARY:Saints vs Falcons
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Mercedes-Benz Superdome\, 1500 Sugar Bowl Dr\, New Orleans\, LA 70112
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+BEGIN:VALARM
+TRIGGER;VALUE=DURATION:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Saints at Buccaneers
+END:VALARM
+DTSTART:20171231T180000Z
+DTEND:20171231T210000Z
+UID:l9XGAOXnTnoeLx7Q3oWB7noL@stanza.co
+SUMMARY:Saints at Buccaneers
+DESCRIPTION:Watch the game on FOX!\n\n\n\nSynced via Stanza - create your own live updating calendar (https://stanza.co)\n\nFor questions, check out Stanza’s FAQs page: https://stanza.co/faqs
+LOCATION:Raymond James Stadium\, 4201 N Dale Mabry Hwy\, Tampa\, FL 33607
+STATUS:CONFIRMED
+DTSTAMP:20170422T013817Z
+CREATED:20170422T013817Z
+LAST-MODIFIED:20170422T013817Z
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
