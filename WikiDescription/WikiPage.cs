@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 using WikiClientLibrary;
 using WikiClientLibrary.Client;
 using HtmlAgilityPack;
+using System.Globalization;
 
 namespace WikiDescription
 {
@@ -20,7 +21,9 @@ namespace WikiDescription
         public WikiPage(Site site, string topicName)
         {
             this.site = site;
-            this.topicName = topicName;
+
+            TextInfo textInfo = new CultureInfo("en-US", false).TextInfo;
+            this.topicName = textInfo.ToTitleCase(topicName);
         }
 
         public async Task<string> GetDescription()
