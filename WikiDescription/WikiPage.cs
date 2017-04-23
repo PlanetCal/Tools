@@ -28,10 +28,29 @@ namespace WikiDescription
 
         public async Task<string> GetDescription()
         {
-            var page = new Page(this.site, this.topicName);
-            await page.RefreshAsync(PageQueryOptions.FetchContent);
+            Page page = null;
 
-            if (string.IsNullOrWhiteSpace(page.Content) || page.Content.StartsWith("#REDIRECT"))
+            var retryCount = 0;
+            while (retryCount < 3)
+            {
+                page = new Page(this.site, this.topicName);
+                await page.RefreshAsync(PageQueryOptions.FetchContent);
+                if (((string.IsNullOrWhiteSpace(page.Content) == false) && (page.Content.StartsWith("#REDIRECT"))))
+                {
+                    var startIndex = page.Content.IndexOf("[[");
+                    var endIndex = page.Content.IndexOf("]]");
+
+                    this.topicName = page.Content.Substring(startIndex+2, (endIndex - startIndex-2));
+                }
+                else
+                {
+                    break;
+                }
+
+                retryCount++;
+            }
+
+            if (string.IsNullOrWhiteSpace(page.Content))
             {
                 return string.Empty;
             }
