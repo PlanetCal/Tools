@@ -1,0 +1,481 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:27th match Chennai Super Kings v Mumbai Indians
+DTSTART:20180428T143000Z
+DTEND:20180428T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1136587_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:28th match Rajasthan Royals v Sunrisers Hyderabad
+DTSTART:20180429T103000Z
+DTEND:20180429T143000Z
+LOCATION:Sawai Mansingh Stadium, Jaipur
+TRANSP:OPAQUE
+UID:1136588_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:29th match Royal Challengers Bangalore v Kolkata Knight Riders
+DTSTART:20180429T143000Z
+DTEND:20180429T183000Z
+LOCATION:M Chinnaswamy Stadium, Bengaluru
+TRANSP:OPAQUE
+UID:1136589_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:30th match Chennai Super Kings v Delhi Daredevils
+DTSTART:20180430T143000Z
+DTEND:20180430T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1136590_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:31st match Royal Challengers Bangalore v Mumbai Indians
+DTSTART:20180501T143000Z
+DTEND:20180501T183000Z
+LOCATION:M Chinnaswamy Stadium, Bengaluru
+TRANSP:OPAQUE
+UID:1136591_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:32nd match Delhi Daredevils v Rajasthan Royals
+DTSTART:20180502T143000Z
+DTEND:20180502T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1136592_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:33rd match Kolkata Knight Riders v Chennai Super Kings
+DTSTART:20180503T143000Z
+DTEND:20180503T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1136593_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:34th match Kings XI Punjab v Mumbai Indians
+DTSTART:20180504T143000Z
+DTEND:20180504T183000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1136594_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:35th match Chennai Super Kings v Royal Challengers Bangalore
+DTSTART:20180505T103000Z
+DTEND:20180505T143000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1136595_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:36th match Sunrisers Hyderabad v Delhi Daredevils
+DTSTART:20180505T143000Z
+DTEND:20180505T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1136596_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:37th match Mumbai Indians v Kolkata Knight Riders
+DTSTART:20180506T103000Z
+DTEND:20180506T143000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1136597_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:38th match Kings XI Punjab v Rajasthan Royals
+DTSTART:20180506T143000Z
+DTEND:20180506T183000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1136598_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:39th match Sunrisers Hyderabad v Royal Challengers Bangalore
+DTSTART:20180507T143000Z
+DTEND:20180507T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1136599_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:40th match Rajasthan Royals v Kings XI Punjab
+DTSTART:20180508T143000Z
+DTEND:20180508T183000Z
+LOCATION:Sawai Mansingh Stadium, Jaipur
+TRANSP:OPAQUE
+UID:1136600_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:41st match Kolkata Knight Riders v Mumbai Indians
+DTSTART:20180509T143000Z
+DTEND:20180509T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1136601_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:42nd match Delhi Daredevils v Sunrisers Hyderabad
+DTSTART:20180510T143000Z
+DTEND:20180510T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1136602_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:43rd match Rajasthan Royals v Chennai Super Kings
+DTSTART:20180511T143000Z
+DTEND:20180511T183000Z
+LOCATION:Sawai Mansingh Stadium, Jaipur
+TRANSP:OPAQUE
+UID:1136603_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:44th match Kings XI Punjab v Kolkata Knight Riders
+DTSTART:20180512T103000Z
+DTEND:20180512T143000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1136604_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:45th match Delhi Daredevils v Royal Challengers Bangalore
+DTSTART:20180512T143000Z
+DTEND:20180512T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1136605_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:46th match Chennai Super Kings v Sunrisers Hyderabad
+DTSTART:20180513T103000Z
+DTEND:20180513T143000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1136606_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:47th match Mumbai Indians v Rajasthan Royals
+DTSTART:20180513T143000Z
+DTEND:20180513T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1136607_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:48th match Kings XI Punjab v Royal Challengers Bangalore
+DTSTART:20180514T143000Z
+DTEND:20180514T183000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1136608_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:49th match Kolkata Knight Riders v Rajasthan Royals
+DTSTART:20180515T143000Z
+DTEND:20180515T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1136609_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:50th match Mumbai Indians v Kings XI Punjab
+DTSTART:20180516T143000Z
+DTEND:20180516T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1136610_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:51st match Royal Challengers Bangalore v Sunrisers Hyderabad
+DTSTART:20180517T143000Z
+DTEND:20180517T183000Z
+LOCATION:M Chinnaswamy Stadium, Bengaluru
+TRANSP:OPAQUE
+UID:1136611_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:52nd match Delhi Daredevils v Chennai Super Kings
+DTSTART:20180518T143000Z
+DTEND:20180518T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1136612_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:53rd match Rajasthan Royals v Royal Challengers Bangalore
+DTSTART:20180519T103000Z
+DTEND:20180519T143000Z
+LOCATION:Sawai Mansingh Stadium, Jaipur
+TRANSP:OPAQUE
+UID:1136613_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:54th match Sunrisers Hyderabad v Kolkata Knight Riders
+DTSTART:20180519T143000Z
+DTEND:20180519T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1136614_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:55th match Delhi Daredevils v Mumbai Indians
+DTSTART:20180520T103000Z
+DTEND:20180520T143000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1136615_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:56th match Chennai Super Kings v Kings XI Punjab
+DTSTART:20180520T143000Z
+DTEND:20180520T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1136616_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:Qualifier 1 TBD v TBD
+DTSTART:20180522T143000Z
+DTEND:20180522T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1136617_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:Eliminator TBD v TBD
+DTSTART:20180523T000000Z
+DTEND:20180523T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1136618_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:Qualifier 2 TBD v TBD
+DTSTART:20180525T000000Z
+DTEND:20180525T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1136619_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/ci/content/series/1131611.html \n\n 
+SUMMARY:Final TBD v TBD
+DTSTART:20180527T143000Z
+DTEND:20180527T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1136620_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
