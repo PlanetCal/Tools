@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:New Zealand Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b8679b9bb5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about Day after New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180102
+DTEND:20180102
+SUMMARY:Day after New Year's Day
+DTSTAMP:20180304
+UID:5a9b8679ba090
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/new-zealand/waitangi-day.php to know more about Waitangi Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180206
+DTEND:20180206
+SUMMARY:Waitangi Day
+DTSTAMP:20180304
+UID:5a9b8679ba62d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b8679ba7b5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Easter Monday
+DTSTAMP:20180304
+UID:5a9b8679bab8f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/australia/anzac-day.php to know more about ANZAC Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180425
+DTEND:20180425
+SUMMARY:ANZAC Day
+DTSTAMP:20180304
+UID:5a9b8679bacd0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/new-zealand/queens-birthday.php to know more about Queen's Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180604
+DTEND:20180604
+SUMMARY:Queen's Birthday
+DTSTAMP:20180304
+UID:5a9b8679bb0aa
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/new-zealand/labor-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181022
+DTEND:20181022
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b8679bb742
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b8679bcd7c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181226
+DTEND:20181226
+SUMMARY:Boxing Day
+DTSTAMP:20180304
+UID:5a9b8679bdb66
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Eve. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181231
+DTEND:20181231
+SUMMARY:New Year's Eve
+DTSTAMP:20180304
+UID:5a9b8679bdf2e
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Japan Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b867977841
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180102
+DTEND:20180102
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867977a53
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180103
+DTEND:20180103
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867977b85
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/coming-of-age-day.php to know more about Coming of Age Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180108
+DTEND:20180108
+SUMMARY:Coming of Age Day
+DTSTAMP:20180304
+UID:5a9b867977cb4
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/national-foundation-day.php to know more about National Foundation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180211
+DTEND:20180211
+SUMMARY:National Foundation Day
+DTSTAMP:20180304
+UID:5a9b867977e1a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/national-foundation-day.php to know more about Foundation Day Observed. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180212
+DTEND:20180212
+SUMMARY:Foundation Day Observed
+DTSTAMP:20180304
+UID:5a9b867978582
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/spring-equinox.php to know more about Spring Equinox. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180321
+DTEND:20180321
+SUMMARY:Spring Equinox
+DTSTAMP:20180304
+UID:5a9b867978b4c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/showa-day.php to know more about Showa Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180429
+DTEND:20180429
+SUMMARY:Showa Day
+DTSTAMP:20180304
+UID:5a9b867978d17
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/showa-day.php to know more about Showa Day Observed. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180430
+DTEND:20180430
+SUMMARY:Showa Day Observed
+DTSTAMP:20180304
+UID:5a9b86797a087
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/constitution-memorial-day.php to know more about Constitution Memorial Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180503
+DTEND:20180503
+SUMMARY:Constitution Memorial Day
+DTSTAMP:20180304
+UID:5a9b86797a328
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/greenery-day.php to know more about Greenery Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180504
+DTEND:20180504
+SUMMARY:Greenery Day
+DTSTAMP:20180304
+UID:5a9b86797acae
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/childrens-day.php to know more about Children's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180505
+DTEND:20180505
+SUMMARY:Children's Day
+DTSTAMP:20180304
+UID:5a9b86797c110
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/sea-day.php to know more about Marine Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180716
+DTEND:20180716
+SUMMARY:Marine Day
+DTSTAMP:20180304
+UID:5a9b86797c338
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/mountain-day.php to know more about Mountain Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180811
+DTEND:20180811
+SUMMARY:Mountain Day
+DTSTAMP:20180304
+UID:5a9b86797c9e9
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/festival-of-souls.php to know more about Festival of Souls (Obon). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180825
+DTEND:20180825
+SUMMARY:Festival of Souls (Obon)
+DTSTAMP:20180304
+UID:5a9b86797d16b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/respect-for-the-aged-day.php to know more about Respect for the Aged Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180917
+DTEND:20180917
+SUMMARY:Respect for the Aged Day
+DTSTAMP:20180304
+UID:5a9b86797e2f2
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/autumn-equinox-day.php to know more about Autumn Equinox Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180923
+DTEND:20180923
+SUMMARY:Autumn Equinox Day
+DTSTAMP:20180304
+UID:5a9b86797e467
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/autumn-equinox-day.php to know more about Autumn Equinox Observed. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180924
+DTEND:20180924
+SUMMARY:Autumn Equinox Observed
+DTSTAMP:20180304
+UID:5a9b86797e8ef
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/sports-day.php to know more about Sports Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181008
+DTEND:20181008
+SUMMARY:Sports Day
+DTSTAMP:20180304
+UID:5a9b86797ed4b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/culture-day.php to know more about Culture Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181103
+DTEND:20181103
+SUMMARY:Culture Day
+DTSTAMP:20180304
+UID:5a9b86797f1a6
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/labor-thanksgiving-day.php to know more about Labor Thanksgiving Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181123
+DTEND:20181123
+SUMMARY:Labor Thanksgiving Day
+DTSTAMP:20180304
+UID:5a9b86797f61f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/emperors-birthday.php to know more about Emperor's Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181223
+DTEND:20181223
+SUMMARY:Emperor's Birthday
+DTSTAMP:20180304
+UID:5a9b86797fab5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/emperors-birthday.php to know more about Emperor's Birthday Observed. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181224
+DTEND:20181224
+SUMMARY:Emperor's Birthday Observed
+DTSTAMP:20180304
+UID:5a9b86797ff4f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b8679803d4
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/japan/omisoka.php to know more about Omisoka. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181231
+DTEND:20181231
+SUMMARY:Omisoka
+DTSTAMP:20180304
+UID:5a9b867980868
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Brazil Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b85b1e585f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180212
+DTEND:20180212
+SUMMARY:Carnival
+DTSTAMP:20180304
+UID:5a9b85b1e6285
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival/Shrove Tuesday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180213
+DTEND:20180213
+SUMMARY:Carnival/Shrove Tuesday
+DTSTAMP:20180304
+UID:5a9b85b1e77fc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival end. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180214
+DTEND:20180214
+SUMMARY:Carnival end
+DTSTAMP:20180304
+UID:5a9b85b1e9c05
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b85b1ea02f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180401
+DTEND:20180401
+SUMMARY:Easter Sunday
+DTSTAMP:20180304
+UID:5a9b85b1eb91d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/tiradentes-day.php to know more about Tiradentes Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180421
+DTEND:20180421
+SUMMARY:Tiradentes Day
+DTSTAMP:20180304
+UID:5a9b85b1ec2e0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day / May Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day / May Day
+DTSTAMP:20180304
+UID:5a9b85b1ece11
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180531
+DTEND:20180531
+SUMMARY:Corpus Christi
+DTSTAMP:20180304
+UID:5a9b85b1ed84f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/independence-day.php to know more about Independence Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180907
+DTEND:20180907
+SUMMARY:Independence Day
+DTSTAMP:20180304
+UID:5a9b85b1edaf8
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/our-lady-of-aparecida.php to know more about Our Lady of Aparecida. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181012
+DTEND:20181012
+SUMMARY:Our Lady of Aparecida
+DTSTAMP:20180304
+UID:5a9b85b1ee210
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/all-souls-day.php to know more about All Soul's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181102
+DTEND:20181102
+SUMMARY:All Soul's Day
+DTSTAMP:20180304
+UID:5a9b85b1efa02
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/republic-day.php to know more about Republic Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181115
+DTEND:20181115
+SUMMARY:Republic Day
+DTSTAMP:20180304
+UID:5a9b85b1f19d5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b85b1f1e53
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,143 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Russia Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b867a158e1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180102
+DTEND:20180102
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a15ace
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180103
+DTEND:20180103
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a15cf2
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180104
+DTEND:20180104
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a15e42
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180105
+DTEND:20180105
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a1605a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/russia/orthodox-christmas.php to know more about Orthodox Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180107
+DTEND:20180107
+SUMMARY:Orthodox Christmas
+DTSTAMP:20180304
+UID:5a9b867a16249
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180108
+DTEND:20180108
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a16492
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/russia/defender-of-the-fatherland.php to know more about Defender of the Fatherland. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180223
+DTEND:20180223
+SUMMARY:Defender of the Fatherland
+DTSTAMP:20180304
+UID:5a9b867a165bc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/international/international-womens-day.php to know more about Intl. Women's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180308
+DTEND:20180308
+SUMMARY:Intl. Women's Day
+DTSTAMP:20180304
+UID:5a9b867a167e1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Spring and Labor Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180428
+DTEND:20180428
+SUMMARY:Spring and Labor Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a1693c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Spring and Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Spring and Labor Day
+DTSTAMP:20180304
+UID:5a9b867a16af9
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/russia/victory-day.php to know more about Victory Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180509
+DTEND:20180509
+SUMMARY:Victory Day
+DTSTAMP:20180304
+UID:5a9b867a16d20
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/russia/russia-day.php to know more about Russia Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180612
+DTEND:20180612
+SUMMARY:Russia Day
+DTSTAMP:20180304
+UID:5a9b867a16e9c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/russia/unity-day.php to know more about Civil Unity Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181104
+DTEND:20181104
+SUMMARY:Civil Unity Day
+DTSTAMP:20180304
+UID:5a9b867a170c5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/russia/unity-day.php to know more about Unity Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181105
+DTEND:20181105
+SUMMARY:Unity Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a17295
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Malaysia Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b867996d41
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/thaipusam.php to know more about Thaipusam (Many Regions). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180131
+DTEND:20180131
+SUMMARY:Thaipusam (Many Regions)
+DTSTAMP:20180304
+UID:5a9b86799719b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180216
+DTEND:20180216
+SUMMARY:Chinese New Year
+DTSTAMP:20180304
+UID:5a9b8679972a2
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about 2nd day of Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180217
+DTEND:20180217
+SUMMARY:2nd day of Chinese New Year
+DTSTAMP:20180304
+UID:5a9b8679974ac
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b867997625
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor day
+DTSTAMP:20180304
+UID:5a9b867997c44
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Waisak Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180529
+DTEND:20180529
+SUMMARY:Waisak Day
+DTSTAMP:20180304
+UID:5a9b867997e62
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/malaysia/nuzul-al-quran.php to know more about Nuzul Al-Quran (Many Regions). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180612
+DTEND:20180612
+SUMMARY:Nuzul Al-Quran (Many Regions)
+DTSTAMP:20180304
+UID:5a9b867997f8d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Hari Raya Puasa (Day 1). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180615
+DTEND:20180615
+SUMMARY:Hari Raya Puasa (Day 1)
+DTSTAMP:20180304
+UID:5a9b86799808c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Hari Raya Puasa (Day 2). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180616
+DTEND:20180616
+SUMMARY:Hari Raya Puasa (Day 2)
+DTSTAMP:20180304
+UID:5a9b8679981cd
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/malaysia/agongs-birthday.php to know more about Agong's Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180728
+DTEND:20180728
+SUMMARY:Agong's Birthday
+DTSTAMP:20180304
+UID:5a9b8679982e0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Hari Raya Haji. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180822
+DTEND:20180822
+SUMMARY:Hari Raya Haji
+DTSTAMP:20180304
+UID:5a9b8679983dc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/malaysia/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180831
+DTEND:20180831
+SUMMARY:National Day
+DTSTAMP:20180304
+UID:5a9b8679984dc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/muharram.php to know more about Muharram / Islamic New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180912
+DTEND:20180912
+SUMMARY:Muharram / Islamic New Year
+DTSTAMP:20180304
+UID:5a9b8679985ff
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/malaysia/malaysia-day.php to know more about Malaysia Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180916
+DTEND:20180916
+SUMMARY:Malaysia Day
+DTSTAMP:20180304
+UID:5a9b86799872b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Deepavali / Diwali. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181106
+DTEND:20181106
+SUMMARY:Deepavali / Diwali
+DTSTAMP:20180304
+UID:5a9b867998836
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/milad-un-nabi.php to know more about Prophet Muhammad's Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181121
+DTEND:20181121
+SUMMARY:Prophet Muhammad's Birthday
+DTSTAMP:20180304
+UID:5a9b86799896a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b867998a85
+END:VEVENT
+END:VCALENDAR

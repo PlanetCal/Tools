@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Germany Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b867942cd6
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180106
+DTEND:20180106
+SUMMARY:Epiphany
+DTSTAMP:20180304
+UID:5a9b867942ede
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b867943107
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180401
+DTEND:20180401
+SUMMARY:Easter Sunday
+DTSTAMP:20180304
+UID:5a9b8679432ef
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Easter Monday
+DTSTAMP:20180304
+UID:5a9b867943496
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b8679436bf
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180510
+DTEND:20180510
+SUMMARY:Ascension Day
+DTSTAMP:20180304
+UID:5a9b86794382c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180521
+DTEND:20180521
+SUMMARY:Whit Monday
+DTSTAMP:20180304
+UID:5a9b867943a40
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180531
+DTEND:20180531
+SUMMARY:Corpus Christi
+DTSTAMP:20180304
+UID:5a9b867943be7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180815
+DTEND:20180815
+SUMMARY:Assumption Day
+DTSTAMP:20180304
+UID:5a9b867943de7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/unity-day.php to know more about Unity Day (National). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181003
+DTEND:20181003
+SUMMARY:Unity Day (National)
+DTSTAMP:20180304
+UID:5a9b867943f71
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/reformation-day.php to know more about Reformation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181031
+DTEND:20181031
+SUMMARY:Reformation Day
+DTSTAMP:20180304
+UID:5a9b867944187
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181101
+DTEND:20181101
+SUMMARY:All Saints Day
+DTSTAMP:20180304
+UID:5a9b867946a5b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/national-day-of-mourning.php to know more about National Day of Mourning. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181118
+DTEND:20181118
+SUMMARY:National Day of Mourning
+DTSTAMP:20180304
+UID:5a9b867949403
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b867949bc4
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181226
+DTEND:20181226
+SUMMARY:Boxing Day
+DTSTAMP:20180304
+UID:5a9b867949d92
+END:VEVENT
+END:VCALENDAR

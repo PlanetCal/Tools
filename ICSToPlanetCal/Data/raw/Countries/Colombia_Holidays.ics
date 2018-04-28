@@ -1,0 +1,170 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Colombia Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b8679493ef
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180108
+DTEND:20180108
+SUMMARY:Epiphany
+DTSTAMP:20180304
+UID:5a9b867949536
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/saint-josephs-day.php to know more about Saint Joseph's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180319
+DTEND:20180319
+SUMMARY:Saint Joseph's Day
+DTSTAMP:20180304
+UID:5a9b867949845
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/maundy-thursday.php to know more about Maundy Thursday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180329
+DTEND:20180329
+SUMMARY:Maundy Thursday
+DTSTAMP:20180304
+UID:5a9b867949a11
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b867949b95
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day / May Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day / May Day
+DTSTAMP:20180304
+UID:5a9b867949d36
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180514
+DTEND:20180514
+SUMMARY:Ascension Day
+DTSTAMP:20180304
+UID:5a9b867949ee6
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/corpus-christi.php to know more about Corpus Christi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180604
+DTEND:20180604
+SUMMARY:Corpus Christi
+DTSTAMP:20180304
+UID:5a9b86794a02a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/sacred-heart.php to know more about Sacred Heart. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180611
+DTEND:20180611
+SUMMARY:Sacred Heart
+DTSTAMP:20180304
+UID:5a9b86794a256
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/feast-of-saint-peter-and-saint-paul.php to know more about Feast of Saint Peter and Saint Paul. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180702
+DTEND:20180702
+SUMMARY:Feast of Saint Peter and Saint Paul
+DTSTAMP:20180304
+UID:5a9b86794a3da
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/independence-day.php to know more about Independence Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180720
+DTEND:20180720
+SUMMARY:Independence Day
+DTSTAMP:20180304
+UID:5a9b86794a6a5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/battle-of-boyaca-day.php to know more about Battle of Boyaca Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180807
+DTEND:20180807
+SUMMARY:Battle of Boyaca Day
+DTSTAMP:20180304
+UID:5a9b86794a8c9
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption of Mary. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180820
+DTEND:20180820
+SUMMARY:Assumption of Mary
+DTSTAMP:20180304
+UID:5a9b86794aa06
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/columbus-day.php to know more about Columbus Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181015
+DTEND:20181015
+SUMMARY:Columbus Day
+DTSTAMP:20180304
+UID:5a9b86794ab5b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints' Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181105
+DTEND:20181105
+SUMMARY:All Saints' Day
+DTSTAMP:20180304
+UID:5a9b86794ace0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/independence-of-cartagena.php to know more about Independence of Cartagena. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181112
+DTEND:20181112
+SUMMARY:Independence of Cartagena
+DTSTAMP:20180304
+UID:5a9b86794af04
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/colombia/feast-of-the-immaculate-conception.php to know more about Feast of the Immaculate Conception. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181208
+DTEND:20181208
+SUMMARY:Feast of the Immaculate Conception
+DTSTAMP:20180304
+UID:5a9b86794b110
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas
+DTSTAMP:20180304
+UID:5a9b86794b351
+END:VEVENT
+END:VCALENDAR

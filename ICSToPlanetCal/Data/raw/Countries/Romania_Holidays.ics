@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Romania Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b8679d6905
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180102
+DTEND:20180102
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b8679d6a00
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/unification-day.php to know more about Unification Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180124
+DTEND:20180124
+SUMMARY:Unification Day
+DTSTAMP:20180304
+UID:5a9b8679d6aee
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/orthodox-easter-day.php to know more about Orthodox Easter Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180408
+DTEND:20180408
+SUMMARY:Orthodox Easter Day
+DTSTAMP:20180304
+UID:5a9b8679d6bdf
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/orthodox-easter-monday.php to know more about Orthodox Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180409
+DTEND:20180409
+SUMMARY:Orthodox Easter Monday
+DTSTAMP:20180304
+UID:5a9b8679d6cd0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b8679d6dbe
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180510
+DTEND:20180510
+SUMMARY:Ascension Day
+DTSTAMP:20180304
+UID:5a9b8679d6eae
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/orthodox-whit-sunday.php to know more about Orthodox Whit Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180527
+DTEND:20180527
+SUMMARY:Orthodox Whit Sunday
+DTSTAMP:20180304
+UID:5a9b8679d6fa1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/orthodox-whit-monday.php to know more about Orthodox Whit Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180528
+DTEND:20180528
+SUMMARY:Orthodox Whit Monday
+DTSTAMP:20180304
+UID:5a9b8679d7094
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/flag-day.php to know more about Flag Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180626
+DTEND:20180626
+SUMMARY:Flag Day
+DTSTAMP:20180304
+UID:5a9b8679d7185
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/national-anthem-day.php to know more about National Anthem Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180729
+DTEND:20180729
+SUMMARY:National Anthem Day
+DTSTAMP:20180304
+UID:5a9b8679d729a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about The Assumption of Mary. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180815
+DTEND:20180815
+SUMMARY:The Assumption of Mary
+DTSTAMP:20180304
+UID:5a9b8679d7398
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/st-andrews-day.php to know more about Saint Andrew's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181130
+DTEND:20181130
+SUMMARY:Saint Andrew's Day
+DTSTAMP:20180304
+UID:5a9b8679d748d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/national-day-.php to know more about National Day . Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181201
+DTEND:20181201
+SUMMARY:National Day 
+DTSTAMP:20180304
+UID:5a9b8679d7582
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day . Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day 
+DTSTAMP:20180304
+UID:5a9b8679d767b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181226
+DTEND:20181226
+SUMMARY:Christmas Day Holiday
+DTSTAMP:20180304
+UID:5a9b8679d777b
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mauritius Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year
+DTSTAMP:20180304
+UID:5a9b8679c9f0f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about Day After New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180102
+DTEND:20180102
+SUMMARY:Day After New Year
+DTSTAMP:20180304
+UID:5a9b8679ca0e6
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mauritius/chinese-spring-festival.php to know more about Chinese Spring Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180128
+DTEND:20180128
+SUMMARY:Chinese Spring Festival
+DTSTAMP:20180304
+UID:5a9b8679ca2ba
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mauritius/thaipoosam-cavadee.php to know more about Thaipoosam Cavadee. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180131
+DTEND:20180131
+SUMMARY:Thaipoosam Cavadee
+DTSTAMP:20180304
+UID:5a9b8679ca492
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mauritius/abolition-of-slavery.php to know more about Abolition of Slavery. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180201
+DTEND:20180201
+SUMMARY:Abolition of Slavery
+DTSTAMP:20180304
+UID:5a9b8679ca606
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/maha-shivratri.php to know more about Maha Shivaratree. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180213
+DTEND:20180213
+SUMMARY:Maha Shivaratree
+DTSTAMP:20180304
+UID:5a9b8679ca7ee
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mauritius/independence-day.php to know more about Independence & Republic Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180312
+DTEND:20180312
+SUMMARY:Independence & Republic Day
+DTSTAMP:20180304
+UID:5a9b8679ca9c3
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hindu/ugadi-telugu-new-year.php to know more about Ugaadi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180318
+DTEND:20180318
+SUMMARY:Ugaadi
+DTSTAMP:20180304
+UID:5a9b8679cabc5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labour Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labour Day
+DTSTAMP:20180304
+UID:5a9b8679cad8e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-Ul-Fitr. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180616
+DTEND:20180616
+SUMMARY:Eid-Ul-Fitr
+DTSTAMP:20180304
+UID:5a9b8679caf4f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption of Mary. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180815
+DTEND:20180815
+SUMMARY:Assumption of Mary
+DTSTAMP:20180304
+UID:5a9b8679cb58e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/ganesh-chaturthi.php to know more about Ganesh Chaturthi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180914
+DTEND:20180914
+SUMMARY:Ganesh Chaturthi
+DTSTAMP:20180304
+UID:5a9b8679ccb3d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181101
+DTEND:20181101
+SUMMARY:All Saints Day
+DTSTAMP:20180304
+UID:5a9b8679cf4f7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mauritius/arrival-of-indentured-labourers.php to know more about Arrival of indentured Labourers. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181102
+DTEND:20181102
+SUMMARY:Arrival of indentured Labourers
+DTSTAMP:20180304
+UID:5a9b8679cf89c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Divali. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181107
+DTEND:20181107
+SUMMARY:Divali
+DTSTAMP:20180304
+UID:5a9b8679d06e0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas
+DTSTAMP:20180304
+UID:5a9b8679d087d
+END:VEVENT
+END:VCALENDAR

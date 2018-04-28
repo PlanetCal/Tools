@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Belgium Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b8524ddf3e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b8524de02d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180401
+DTEND:20180401
+SUMMARY:Easter
+DTSTAMP:20180304
+UID:5a9b8524de124
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Easter Monday
+DTSTAMP:20180304
+UID:5a9b8524de20c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day / May Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day / May Day
+DTSTAMP:20180304
+UID:5a9b8524de305
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/romania/ascension-day.php to know more about Ascension Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180510
+DTEND:20180510
+SUMMARY:Ascension Day
+DTSTAMP:20180304
+UID:5a9b8524de3fd
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/france/whit-sunday.php to know more about Whit Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180520
+DTEND:20180520
+SUMMARY:Whit Sunday
+DTSTAMP:20180304
+UID:5a9b8524de4e5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/germany/pentecost-monday.php to know more about Whit Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180521
+DTEND:20180521
+SUMMARY:Whit Monday
+DTSTAMP:20180304
+UID:5a9b8524de5e0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/belgium/belgian-national-day.php to know more about Belgian National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180721
+DTEND:20180721
+SUMMARY:Belgian National Day
+DTSTAMP:20180304
+UID:5a9b8524de9d7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption of Mary. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180815
+DTEND:20180815
+SUMMARY:Assumption of Mary
+DTSTAMP:20180304
+UID:5a9b8524deba8
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints' Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181101
+DTEND:20181101
+SUMMARY:All Saints' Day
+DTSTAMP:20180304
+UID:5a9b8524ded4f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/france/armistice-day.php to know more about Armistice Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181111
+DTEND:20181111
+SUMMARY:Armistice Day
+DTSTAMP:20180304
+UID:5a9b8524dee6a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas
+DTSTAMP:20180304
+UID:5a9b8524def5d
+END:VEVENT
+END:VCALENDAR

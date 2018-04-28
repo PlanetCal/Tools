@@ -1,0 +1,152 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Argentina Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b844696435
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180212
+DTEND:20180212
+SUMMARY:Carnival
+DTSTAMP:20180304
+UID:5a9b844696526
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/brazil/carnival.php to know more about Carnival/Shrove Tuesday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180213
+DTEND:20180213
+SUMMARY:Carnival/Shrove Tuesday
+DTSTAMP:20180304
+UID:5a9b844696621
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/memorial-day.php to know more about Memorial Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180324
+DTEND:20180324
+SUMMARY:Memorial Day
+DTSTAMP:20180304
+UID:5a9b84469670a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b844696804
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/day-of-the-veterans.php to know more about Day of the Veterans. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Day of the Veterans
+DTSTAMP:20180304
+UID:5a9b8446968f0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day / May Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day / May Day
+DTSTAMP:20180304
+UID:5a9b8446969ec
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/national-day-may-1810-revolution.php to know more about National Day/May 1810 Revolution. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180525
+DTEND:20180525
+SUMMARY:National Day/May 1810 Revolution
+DTSTAMP:20180304
+UID:5a9b844696aef
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/martin-miguel-de-guemes-day.php to know more about Martin Miguel de Guemes Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180617
+DTEND:20180617
+SUMMARY:Martin Miguel de Guemes Day
+DTSTAMP:20180304
+UID:5a9b844696bf0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/flag-day.php to know more about Flag Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180620
+DTEND:20180620
+SUMMARY:Flag Day
+DTSTAMP:20180304
+UID:5a9b844696cdd
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/independence-day.php to know more about Independence day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180709
+DTEND:20180709
+SUMMARY:Independence day
+DTSTAMP:20180304
+UID:5a9b844696ddc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/san-martin-day.php to know more about San Martin Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180820
+DTEND:20180820
+SUMMARY:San Martin Day
+DTSTAMP:20180304
+UID:5a9b844696edc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/day-of-respect-for-cultural-diversity.php to know more about Day of respect for cultural diversity. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181008
+DTEND:20181008
+SUMMARY:Day of respect for cultural diversity
+DTSTAMP:20180304
+UID:5a9b844696fd2
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/national-sovereignty-day.php to know more about National Sovereignty Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181119
+DTEND:20181119
+SUMMARY:National Sovereignty Day
+DTSTAMP:20180304
+UID:5a9b844697258
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/argentina/feast-of-the-immaculate-conception.php to know more about Feast of the Immaculate Conception. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181208
+DTEND:20181208
+SUMMARY:Feast of the Immaculate Conception
+DTSTAMP:20180304
+UID:5a9b84469738f
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas
+DTSTAMP:20180304
+UID:5a9b844697579
+END:VEVENT
+END:VCALENDAR

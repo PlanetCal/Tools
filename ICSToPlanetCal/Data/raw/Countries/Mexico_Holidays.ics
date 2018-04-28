@@ -1,0 +1,125 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Mexico Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b8679c96a7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mexico/constitution-day.php to know more about Constitution Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180205
+DTEND:20180205
+SUMMARY:Constitution Day
+DTSTAMP:20180304
+UID:5a9b8679c97d9
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mexico/benito-juarez-birthday.php to know more about Benito Juarez's Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180321
+DTEND:20180321
+SUMMARY:Benito Juarez's Birthday
+DTSTAMP:20180304
+UID:5a9b8679c9a94
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/maundy-thursday.php to know more about Holy Thursday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180329
+DTEND:20180329
+SUMMARY:Holy Thursday
+DTSTAMP:20180304
+UID:5a9b8679c9e0d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b8679c9ffa
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b8679ca1ce
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mexico/cinco-de-mayo.php to know more about Cinco de Mayo. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180505
+DTEND:20180505
+SUMMARY:Cinco de Mayo
+DTSTAMP:20180304
+UID:5a9b8679ca3a3
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mexico/independence-day.php to know more about Independence Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180916
+DTEND:20180916
+SUMMARY:Independence Day
+DTSTAMP:20180304
+UID:5a9b8679ca50e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/columbus-day.php to know more about Columbus Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181012
+DTEND:20181012
+SUMMARY:Columbus Day
+DTSTAMP:20180304
+UID:5a9b8679ca6f8
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/all-souls-day.php to know more about All Souls' Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181102
+DTEND:20181102
+SUMMARY:All Souls' Day
+DTSTAMP:20180304
+UID:5a9b8679ca8dc
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mexico/revolution-day-memorial.php to know more about Revolution Day Memorial. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181120
+DTEND:20181120
+SUMMARY:Revolution Day Memorial
+DTSTAMP:20180304
+UID:5a9b8679caacb
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/mexico/virgin-of-guadalupe.php to know more about Virgin of Guadalupe. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181212
+DTEND:20181212
+SUMMARY:Virgin of Guadalupe
+DTSTAMP:20180304
+UID:5a9b8679cacb5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b8679cae90
+END:VEVENT
+END:VCALENDAR

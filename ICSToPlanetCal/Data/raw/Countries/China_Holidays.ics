@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:China Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b86793757d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180102
+DTEND:20180102
+SUMMARY:New Year's Day Holiday
+DTSTAMP:20180304
+UID:5a9b8679398f7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Starts. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180215
+DTEND:20180215
+SUMMARY:Spring Festival Starts
+DTSTAMP:20180304
+UID:5a9b86793a2d1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Chinese New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180216
+DTEND:20180216
+SUMMARY:Chinese New Year
+DTSTAMP:20180304
+UID:5a9b86793a49c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/spring-festival.php to know more about Spring Festival Ends. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180217
+DTEND:20180217
+SUMMARY:Spring Festival Ends
+DTSTAMP:20180304
+UID:5a9b86793aa54
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/international/international-womens-day.php to know more about Intl. Women's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180308
+DTEND:20180308
+SUMMARY:Intl. Women's Day
+DTSTAMP:20180304
+UID:5a9b867948291
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/arbor-day.php to know more about Arbor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180312
+DTEND:20180312
+SUMMARY:Arbor Day
+DTSTAMP:20180304
+UID:5a9b8679494ee
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/qingming-festival.php to know more about Qingming Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180405
+DTEND:20180405
+SUMMARY:Qingming Festival
+DTSTAMP:20180304
+UID:5a9b867949c99
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b867949de7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-youth-day.php to know more about National Youth Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180504
+DTEND:20180504
+SUMMARY:National Youth Day
+DTSTAMP:20180304
+UID:5a9b86794a13b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/international-childrens-day.php to know more about Intl. Children's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180601
+DTEND:20180601
+SUMMARY:Intl. Children's Day
+DTSTAMP:20180304
+UID:5a9b86794a575
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/dragon-boat-festival.php to know more about Dragon Boat Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180618
+DTEND:20180618
+SUMMARY:Dragon Boat Festival
+DTSTAMP:20180304
+UID:5a9b86794a7c9
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/cpc-foundation-day.php to know more about CPC Foundation Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180701
+DTEND:20180701
+SUMMARY:CPC Foundation Day
+DTSTAMP:20180304
+UID:5a9b86794ab14
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/liberation-army-day.php to know more about Liberation Army Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180801
+DTEND:20180801
+SUMMARY:Liberation Army Day
+DTSTAMP:20180304
+UID:5a9b86794adf0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/mid-autumn-festival.php to know more about Mid-Autumn Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180924
+DTEND:20180924
+SUMMARY:Mid-Autumn Festival
+DTSTAMP:20180304
+UID:5a9b86794b00b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181001
+DTEND:20181001
+SUMMARY:National Day
+DTSTAMP:20180304
+UID:5a9b86794b3d7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181002
+DTEND:20181002
+SUMMARY:National Day Holiday
+DTSTAMP:20180304
+UID:5a9b86794b762
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/national-day.php to know more about National Day Holiday Ends. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181008
+DTEND:20181008
+SUMMARY:National Day Holiday Ends
+DTSTAMP:20180304
+UID:5a9b86794b8e5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b86794ba7b
+END:VEVENT
+END:VCALENDAR

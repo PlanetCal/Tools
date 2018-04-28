@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:UAE Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b867a25de1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/leilat-al-meiraj.php to know more about Leilat al-Meiraj (The Prophet's Ascension). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180414
+DTEND:20180414
+SUMMARY:Leilat al-Meiraj (The Prophet's Ascension)
+DTSTAMP:20180304
+UID:5a9b867a293a8
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-al-Fitr (End of Ramadan). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180615
+DTEND:20180615
+SUMMARY:Eid-al-Fitr (End of Ramadan)
+DTSTAMP:20180304
+UID:5a9b867a2b5e7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-al-Fitr Holiday 1. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180616
+DTEND:20180616
+SUMMARY:Eid-al-Fitr Holiday 1
+DTSTAMP:20180304
+UID:5a9b867a2d667
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-al-Fitr Holiday 2. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180617
+DTEND:20180617
+SUMMARY:Eid-al-Fitr Holiday 2
+DTSTAMP:20180304
+UID:5a9b867a2ff56
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/arafat-day.php to know more about Arafat (Haj) Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180821
+DTEND:20180821
+SUMMARY:Arafat (Haj) Day
+DTSTAMP:20180304
+UID:5a9b867a30145
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid-al-Adha (Feast of Sacrifice). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180822
+DTEND:20180822
+SUMMARY:Eid-al-Adha (Feast of Sacrifice)
+DTSTAMP:20180304
+UID:5a9b867a30327
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid-al-Adha Holiday 1. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180823
+DTEND:20180823
+SUMMARY:Eid-al-Adha Holiday 1
+DTSTAMP:20180304
+UID:5a9b867a306fa
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-haji.php to know more about Eid-al-Adha Holiday 2. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180824
+DTEND:20180824
+SUMMARY:Eid-al-Adha Holiday 2
+DTSTAMP:20180304
+UID:5a9b867a308f1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/al-hijra.php to know more about Al-Hijra (Islamic New Year). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180912
+DTEND:20180912
+SUMMARY:Al-Hijra (Islamic New Year)
+DTSTAMP:20180304
+UID:5a9b867a30aef
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/mouloud.php to know more about Mouloud (The Prophet's Birthday). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181121
+DTEND:20181121
+SUMMARY:Mouloud (The Prophet's Birthday)
+DTSTAMP:20180304
+UID:5a9b867a30ce5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/commemoration-day.php to know more about Commemoration Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181130
+DTEND:20181130
+SUMMARY:Commemoration Day
+DTSTAMP:20180304
+UID:5a9b867a31408
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181202
+DTEND:20181202
+SUMMARY:National Day
+DTSTAMP:20180304
+UID:5a9b867a31764
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/united-arab-emirates/national-day.php to know more about National Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181203
+DTEND:20181203
+SUMMARY:National Day Holiday
+DTSTAMP:20180304
+UID:5a9b867a31a7f
+END:VEVENT
+END:VCALENDAR

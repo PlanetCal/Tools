@@ -1,0 +1,302 @@
+BEGIN:VCALENDAR
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Sikh Holidays
+X-WR-TIMEZONE:America/New_York
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170105
+DTEND;VALUE=DATE:20170106
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad397c@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/guru-gobind-singh-birthday.php to know more about Guru Gobind Singh Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Guru Gobind Singh Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170113
+DTEND;VALUE=DATE:20170114
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad39e3@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/maghi-lohri.php to know more about Maghi - Lohri. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maghi - Lohri
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170313
+DTEND;VALUE=DATE:20170314
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3a38@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Holi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3a89@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/vaisakhi.php to know more about Vaisakhi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vaisakhi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170418
+DTEND;VALUE=DATE:20170419
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3ad9@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/birthday-of-guru-angad-dev.php to know more about Birthday of Guru Angad Dev. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Birthday of Guru Angad Dev
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170616
+DTEND;VALUE=DATE:20170617
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3b2a@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/martyrdom-of-guru-arjan-dev-sahib.php to know more about Martyrdom of Guru Arjan Dev Sahib. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Martyrdom of Guru Arjan Dev Sahib
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171019
+DTEND;VALUE=DATE:20171020
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3b7b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Diwali. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Diwali
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171020
+DTEND;VALUE=DATE:20171021
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3bcc@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/birth-of-the-guru-granth.php to know more about Birth of the Guru Granth. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Birth of the Guru Granth
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171104
+DTEND;VALUE=DATE:20171105
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3c1b@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/guru-nanak-birthday.php to know more about Guru Nanak Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Guru Nanak Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171124
+DTEND;VALUE=DATE:20171125
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3c82@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/martyrdom-of-guru-tegh-bahadur-sahib.php to know more about Martyrdom of Guru Tegh Bahadur Sahib. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Martyrdom of Guru Tegh Bahadur Sahib
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180105
+DTEND;VALUE=DATE:20180106
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3cd4@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/guru-gobind-singh-birthday.php to know more about Guru Gobind Singh Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Guru Gobind Singh Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180113
+DTEND;VALUE=DATE:20180114
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3d28@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/maghi-lohri.php to know more about Maghi - Lohri. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Maghi - Lohri
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180303
+DTEND;VALUE=DATE:20180304
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3d7f@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/holi.php to know more about Holi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Holi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180314
+DTEND;VALUE=DATE:20180315
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3ddd@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/hola-mohalla.php to know more about Hola Mohalla. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Hola Mohalla
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180414
+DTEND;VALUE=DATE:20180415
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3e30@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/vaisakhi.php to know more about Vaisakhi. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Vaisakhi
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180418
+DTEND;VALUE=DATE:20180419
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3e82@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/birthday-of-guru-angad-dev.php to know more about Birthday of Guru Angad Dev. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Birthday of Guru Angad Dev
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20180616
+DTEND;VALUE=DATE:20180617
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3ed3@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/martyrdom-of-guru-arjan-dev-sahib.php to know more about Martyrdom of Guru Arjan Dev Sahib. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Martyrdom of Guru Arjan Dev Sahib
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181020
+DTEND;VALUE=DATE:20181021
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3f28@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/birth-of-the-guru-granth.php to know more about Birth of the Guru Granth. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Birth of the Guru Granth
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181107
+DTEND;VALUE=DATE:20181108
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3f89@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/india/diwali.php to know more about Diwali. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Diwali
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181123
+DTEND;VALUE=DATE:20181124
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad3fd8@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/guru-nanak-birthday.php to know more about Guru Nanak Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Guru Nanak Birthday
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20181124
+DTEND;VALUE=DATE:20181125
+DTSTAMP:20111213T124028Z
+UID:5a55a38ad4027@calendarlabs.com
+CREATED:20111213T123901Z
+DESCRIPTION:Visit https://calendarlabs.com/holidays/sikh/martyrdom-of-guru-tegh-bahadur-sahib.php to know more about Martyrdom of Guru Tegh Bahadur Sahib. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+LAST-MODIFIED:20111213T123901Z
+LOCATION:Sikh
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:Martyrdom of Guru Tegh Bahadur Sahib
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

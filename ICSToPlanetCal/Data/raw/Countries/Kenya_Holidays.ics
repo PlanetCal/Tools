@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Kenya Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b8679b3977
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b8679b3a8d
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Sunday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180401
+DTEND:20180401
+SUMMARY:Easter Sunday
+DTSTAMP:20180304
+UID:5a9b8679b3ccf
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Easter Monday
+DTSTAMP:20180304
+UID:5a9b8679b3e4c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day / May Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day / May Day
+DTSTAMP:20180304
+UID:5a9b8679b408e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/kenya/madaraka-day.php to know more about Madaraka Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180601
+DTEND:20180601
+SUMMARY:Madaraka Day
+DTSTAMP:20180304
+UID:5a9b8679b41f1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/hari-raya-puasa.php to know more about Eid-al-Fitr. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180616
+DTEND:20180616
+SUMMARY:Eid-al-Fitr
+DTSTAMP:20180304
+UID:5a9b8679b4340
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/kenya/mashujaa-day.php to know more about Mashujaa Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181020
+DTEND:20181020
+SUMMARY:Mashujaa Day
+DTSTAMP:20180304
+UID:5a9b8679b4aa7
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/kenya/jamhuri-day.php to know more about Jamhuri Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181212
+DTEND:20181212
+SUMMARY:Jamhuri Day
+DTSTAMP:20180304
+UID:5a9b8679b4bc5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b8679b4e03
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/canada/boxing-day.php to know more about Boxing Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181226
+DTEND:20181226
+SUMMARY:Boxing Day
+DTSTAMP:20180304
+UID:5a9b8679b4fb1
+END:VEVENT
+END:VCALENDAR

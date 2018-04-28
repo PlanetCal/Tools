@@ -1,0 +1,134 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Spain Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b867a0153b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/epiphany.php to know more about Epiphany. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180106
+DTEND:20180106
+SUMMARY:Epiphany
+DTSTAMP:20180304
+UID:5a9b867a016a9
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/san-jose.php to know more about San Jose (Many Regions). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180319
+DTEND:20180319
+SUMMARY:San Jose (Many Regions)
+DTSTAMP:20180304
+UID:5a9b867a018ae
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/maundy-thursday.php to know more about Maundy Thursday (Many Regions). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180329
+DTEND:20180329
+SUMMARY:Maundy Thursday (Many Regions)
+DTSTAMP:20180304
+UID:5a9b867a01aa4
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b867a01c8e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/easter.php to know more about Easter Monday (Many Regions). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Easter Monday (Many Regions)
+DTSTAMP:20180304
+UID:5a9b867a01e6e
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b867a02067
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/the-assumption-of-mary.php to know more about Assumption Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180815
+DTEND:20180815
+SUMMARY:Assumption Day
+DTSTAMP:20180304
+UID:5a9b867a021a0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/national-day.php to know more about Hispanic Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181012
+DTEND:20181012
+SUMMARY:Hispanic Day
+DTSTAMP:20180304
+UID:5a9b867a022c5
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/philippines/all-saints-day.php to know more about All Saints Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181101
+DTEND:20181101
+SUMMARY:All Saints Day
+DTSTAMP:20180304
+UID:5a9b867a023f4
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/constitution-day.php to know more about Constitution Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181206
+DTEND:20181206
+SUMMARY:Constitution Day
+DTSTAMP:20180304
+UID:5a9b867a025df
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/spain/immaculate-conception-day.php to know more about Immaculate Conception Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181208
+DTEND:20181208
+SUMMARY:Immaculate Conception Day
+DTSTAMP:20180304
+UID:5a9b867a02764
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b867a029d0
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/italy/st-stephens-day.php to know more about St. Stephen's Day (Many Regions). Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181226
+DTEND:20181226
+SUMMARY:St. Stephen's Day (Many Regions)
+DTSTAMP:20180304
+UID:5a9b867a02e79
+END:VEVENT
+END:VCALENDAR

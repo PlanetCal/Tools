@@ -1,0 +1,179 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendar Labs//Calendar 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Hong Kong Holidays
+X-WR-TIMEZONE:Etc/GMT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/new-years-day.php to know more about New Year's Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180101
+DTEND:20180101
+SUMMARY:New Year's Day
+DTSTAMP:20180304
+UID:5a9b86796f666
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Lunar New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180216
+DTEND:20180216
+SUMMARY:Lunar New Year
+DTSTAMP:20180304
+UID:5a9b86796ff1b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Second day of Lunar New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180217
+DTEND:20180217
+SUMMARY:Second day of Lunar New Year
+DTSTAMP:20180304
+UID:5a9b86797040c
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Third day of Lunar New Year. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180218
+DTEND:20180218
+SUMMARY:Third day of Lunar New Year
+DTSTAMP:20180304
+UID:5a9b867970852
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/chinese-new-year.php to know more about Lunar New Year Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180219
+DTEND:20180219
+SUMMARY:Lunar New Year Holiday
+DTSTAMP:20180304
+UID:5a9b867970d42
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180330
+DTEND:20180330
+SUMMARY:Good Friday
+DTSTAMP:20180304
+UID:5a9b8679710b1
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/good-friday.php to know more about Good Friday Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180331
+DTEND:20180331
+SUMMARY:Good Friday Holiday
+DTSTAMP:20180304
+UID:5a9b8679714c6
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/christian/easter-monday.php to know more about Easter Monday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180402
+DTEND:20180402
+SUMMARY:Easter Monday
+DTSTAMP:20180304
+UID:5a9b86797181b
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/china/qingming-festival.php to know more about Ching Ming Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180405
+DTEND:20180405
+SUMMARY:Ching Ming Festival
+DTSTAMP:20180304
+UID:5a9b867971a24
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/uk/may-day.php to know more about Labor Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180501
+DTEND:20180501
+SUMMARY:Labor Day
+DTSTAMP:20180304
+UID:5a9b867973237
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/singapore/vesak-day.php to know more about Buddha's Birthday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180522
+DTEND:20180522
+SUMMARY:Buddha's Birthday
+DTSTAMP:20180304
+UID:5a9b867973512
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hong-kong/tuen-ng-festival.php to know more about Tuen Ng Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180618
+DTEND:20180618
+SUMMARY:Tuen Ng Festival
+DTSTAMP:20180304
+UID:5a9b8679736be
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hong-kong/special-admin-region-establishment-day.php to know more about Spl Admin. Region Establishment Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180701
+DTEND:20180701
+SUMMARY:Spl Admin. Region Establishment Day
+DTSTAMP:20180304
+UID:5a9b867973881
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hong-kong/special-admin-region-establishment-day.php to know more about Establishment Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180702
+DTEND:20180702
+SUMMARY:Establishment Day Holiday
+DTSTAMP:20180304
+UID:5a9b867973b1a
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hong-kong/mid-autumn-festival.php to know more about Mid-Autumn Festival Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20180925
+DTEND:20180925
+SUMMARY:Mid-Autumn Festival Holiday
+DTSTAMP:20180304
+UID:5a9b867973e43
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hong-kong/national-day.php to know more about National Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181001
+DTEND:20181001
+SUMMARY:National Day
+DTSTAMP:20180304
+UID:5a9b867974197
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/hong-kong/chung-yeung-festival.php to know more about Chung Yeung Festival. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181017
+DTEND:20181017
+SUMMARY:Chung Yeung Festival
+DTSTAMP:20180304
+UID:5a9b867974437
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181225
+DTEND:20181225
+SUMMARY:Christmas Day
+DTSTAMP:20180304
+UID:5a9b867974811
+END:VEVENT
+BEGIN:VEVENT
+LOCATION:
+DESCRIPTION:Visit https://calendarlabs.com/holidays/us/christmas.php to know more about Christmas Day Holiday. Like us on Facebook: http://fb.com/calendarlabs to get updates.
+DTSTART:20181226
+DTEND:20181226
+SUMMARY:Christmas Day Holiday
+DTSTAMP:20180304
+UID:5a9b867974a3c
+END:VEVENT
+END:VCALENDAR
